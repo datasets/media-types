@@ -1,0 +1,44 @@
+{
+  "title": "Media Types",
+  "name": "media-types",
+  "description": "List of Media Types, Media Subtypes, and their extensions.",
+  "licenses": [
+    {
+      "url": "http://www.opendefinition.org/licenses/odc-pddl",
+      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+      "id": "ODC-PDDL-1.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "media-types.csv",
+      "path": "media-types.csv",
+      "mediatype": "text/csv",
+      "bytes": 162457,
+      "sources": [{
+                  "name": "IANA",
+                  "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
+                  }],
+      "schema": {
+        "fields": [
+          {
+            "name": "Media Type",
+            "type": "string"
+          },
+          {
+            "name": "Media Subtype",
+            "type": "string"
+          },
+          {
+            "name": "Template",
+            "type": "string"
+          },
+          {
+            "name": "Extension",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
