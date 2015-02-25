@@ -35,7 +35,7 @@
           },
           {
             "name": "Extension",
-            "type": "string"
+            "type": “array”
           }
         ]
       }
