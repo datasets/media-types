@@ -14,7 +14,7 @@
       "name": "media-types.csv",
       "path": "media-types.csv",
       "mediatype": "text/csv",
-      "bytes": 162457,
+      "bytes": 206999,
       "sources": [{
                   "name": "IANA",
                   "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
@@ -30,12 +30,16 @@
             "type": "string"
           },
           {
+            "name": "Media Type / Media Subtype",
+            "type": "string"
+          },
+          {
             "name": "Template",
             "type": "string"
           },
           {
             "name": "Extension",
-            "type": “array”
+            "type": "string"
           }
         ]
       }
