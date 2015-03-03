@@ -11,10 +11,10 @@
   ],
   "resources": [
     {
-      "name": "media-types.csv",
+      "name": "media-types",
       "path": "media-types.csv",
       "mediatype": "text/csv",
-      "bytes": 206999,
+      "bytes": 206971,
       "sources": [{
                   "name": "IANA",
                   "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
@@ -26,11 +26,11 @@
             "type": "string"
           },
           {
-            "name": "Media Subtype",
+            "name": "Type",
             "type": "string"
           },
           {
-            "name": "Media Type / Media Subtype",
+            "name": "Subtype",
             "type": "string"
           },
           {
