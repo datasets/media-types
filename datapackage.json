@@ -9,16 +9,21 @@
       "id": "ODC-PDDL-1.0"
     }
   ],
+
+  "sources": [
+    {
+       "name": "IANA",
+       "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
+    }
+  ],
+
   "resources": [
     {
       "name": "media-types",
       "path": "media-types.csv",
       "mediatype": "text/csv",
       "bytes": 206971,
-      "sources": [{
-                  "name": "IANA",
-                  "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
-                  }],
+
       "schema": {
         "fields": [
           {
