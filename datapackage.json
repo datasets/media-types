@@ -22,8 +22,7 @@
       "name": "media-types",
       "path": "media-types.csv",
       "mediatype": "text/csv",
-      "bytes": 206971,
-
+      "bytes": 206972,
       "schema": {
         "fields": [
           {
@@ -43,7 +42,7 @@
             "type": "string"
           },
           {
-            "name": "Extension",
+            "name": "Extensions",
             "type": "string"
           }
         ]

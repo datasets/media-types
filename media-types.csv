@@ -1,4 +1,4 @@
-Media Type,Type,Subtype,Template,Extension
+Media Type,Type,Subtype,Template,Extensions
 application/1d-interleaved-parityfec,application,1d-interleaved-parityfec,http://www.iana.org/assignments/media-types/application/1d-interleaved-parityfec,
 application/3gpdash-qoe-report+xml,application,3gpdash-qoe-report+xml,http://www.iana.org/assignments/media-types/application/3gpdash-qoe-report+xml,
 application/3gpp-ims+xml,application,3gpp-ims+xml,http://www.iana.org/assignments/media-types/application/3gpp-ims+xml,
