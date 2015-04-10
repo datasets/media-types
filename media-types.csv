@@ -643,6 +643,7 @@ application/vnd.mediastation.cdkey,application,vnd.mediastation.cdkey,http://www
 application/vnd.meridian-slingshot,application,vnd.meridian-slingshot,http://www.iana.org/assignments/media-types/application/vnd.meridian-slingshot,
 application/vnd.MFER,application,vnd.MFER,http://www.iana.org/assignments/media-types/application/vnd.MFER,mwf            
 application/vnd.mfmp,application,vnd.mfmp,http://www.iana.org/assignments/media-types/application/vnd.mfmp,mfm            
+application/vnd.micro+json,application,vnd.micro+json,http://www.iana.org/assignments/media-types/application/vnd.micro+json,
 application/vnd.micrografx.flo,application,vnd.micrografx.flo,http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo,flo            
 application/vnd.micrografx.igx,application,vnd.micrografx.igx,http://www.iana.org/assignments/media-types/application/vnd.micrografx-igx,
 application/vnd.miele+json,application,vnd.miele+json,http://www.iana.org/assignments/media-types/application/vnd.miele+json,
@@ -1309,6 +1310,7 @@ image/vnd.tencent.tap,image,vnd.tencent.tap,http://www.iana.org/assignments/medi
 image/vnd.valve.source.texture,image,vnd.valve.source.texture,http://www.iana.org/assignments/media-types/image/vnd.valve.source.texture,
 image/vnd.wap.wbmp,image,vnd.wap.wbmp,http://www.iana.org/assignments/media-types/image/vnd-wap-wbmp,
 image/vnd.xiff,image,vnd.xiff,http://www.iana.org/assignments/media-types/image/vnd.xiff,xif            
+image/vnd.zbrush.pcx,image,vnd.zbrush.pcx,http://www.iana.org/assignments/media-types/image/vnd.zbrush.pcx,
 message/CPIM,message,CPIM,http://www.iana.org/assignments/media-types/message/CPIM,
 message/delivery-status,message,delivery-status,http://www.iana.org/assignments/media-types/message/delivery-status,
 message/disposition-notification,message,disposition-notification,http://www.iana.org/assignments/media-types/message/disposition-notification,
