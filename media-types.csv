@@ -1197,6 +1197,7 @@ audio/mpa-robust,audio,mpa-robust,http://www.iana.org/assignments/media-types/au
 audio/mpeg,audio,mpeg,http://www.iana.org/assignments/media-types/audio/mpeg,mpga mp2 mp2a mp3 m2a m3a       
 audio/mpeg4-generic,audio,mpeg4-generic,http://www.iana.org/assignments/media-types/audio/mpeg4-generic,
 audio/ogg,audio,ogg,http://www.iana.org/assignments/media-types/audio/ogg,oga ogg spx          
+audio/opus,audio,opus,http://www.iana.org/assignments/media-types/audio/opus,
 audio/parityfec,audio,parityfec,,
 audio/PCMA,audio,PCMA,http://www.iana.org/assignments/media-types/audio/PCMA,
 audio/PCMA-WB,audio,PCMA-WB,http://www.iana.org/assignments/media-types/audio/PCMA-WB,
