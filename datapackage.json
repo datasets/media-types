@@ -22,7 +22,7 @@
       "name": "media-types",
       "path": "media-types.csv",
       "mediatype": "text/csv",
-      "bytes": 207284,
+      "bytes": 207474,
       "schema": {
         "fields": [
           {
