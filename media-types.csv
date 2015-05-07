@@ -646,6 +646,7 @@ application/vnd.mfmp,application,vnd.mfmp,http://www.iana.org/assignments/media-
 application/vnd.micro+json,application,vnd.micro+json,http://www.iana.org/assignments/media-types/application/vnd.micro+json,
 application/vnd.micrografx.flo,application,vnd.micrografx.flo,http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo,flo            
 application/vnd.micrografx.igx,application,vnd.micrografx.igx,http://www.iana.org/assignments/media-types/application/vnd.micrografx-igx,
+application/vnd.microsoft.portable-executable,application,vnd.microsoft.portable-executable,http://www.iana.org/assignments/media-types/application/vnd.microsoft.portable-executable,exe dll
 application/vnd.miele+json,application,vnd.miele+json,http://www.iana.org/assignments/media-types/application/vnd.miele+json,
 application/vnd.mif,application,vnd.mif,http://www.iana.org/assignments/media-types/application/vnd-mif,
 application/vnd.minisoft-hp3000-save,application,vnd.minisoft-hp3000-save,http://www.iana.org/assignments/media-types/application/vnd.minisoft-hp3000-save,
