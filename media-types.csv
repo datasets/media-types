@@ -4,7 +4,6 @@ application/3gpdash-qoe-report+xml,application,3gpdash-qoe-report+xml,http://www
 application/3gpp-ims+xml,application,3gpp-ims+xml,http://www.iana.org/assignments/media-types/application/3gpp-ims+xml,
 application/A2L,application,A2L,http://www.iana.org/assignments/media-types/application/A2L,
 application/activemessage,application,activemessage,http://www.iana.org/assignments/media-types/application/activemessage,
-application/activemessage,application,activemessage,http://www.iana.org/assignments/media-types/application/activemessage,
 application/alto-costmap+json,application,alto-costmap+json,http://www.iana.org/assignments/media-types/application/alto-costmap+json,
 application/alto-costmapfilter+json,application,alto-costmapfilter+json,http://www.iana.org/assignments/media-types/application/alto-costmapfilter+json,
 application/alto-directory+json,application,alto-directory+json,http://www.iana.org/assignments/media-types/application/alto-directory+json,
@@ -623,7 +622,7 @@ application/vnd.las.las+xml,application,vnd.las.las+xml,http://www.iana.org/assi
 application/vnd.liberty-request+xml,application,vnd.liberty-request+xml,http://www.iana.org/assignments/media-types/application/vnd.liberty-request+xml,
 application/vnd.llamagraphics.life-balance.desktop,application,vnd.llamagraphics.life-balance.desktop,http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.desktop,lbd            
 application/vnd.llamagraphics.life-balance.exchange+xml,application,vnd.llamagraphics.life-balance.exchange+xml,http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.exchange+xml,lbe            
-application/vnd.lotus-1-2-3,application,vnd.lotus-1-2-3,http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3,123            
+application/vnd.lotus-1-2-3,application,vnd.lotus-1-2-3,http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3,'123'            
 application/vnd.lotus-approach,application,vnd.lotus-approach,http://www.iana.org/assignments/media-types/application/vnd.lotus-approach,apr            
 application/vnd.lotus-freelance,application,vnd.lotus-freelance,http://www.iana.org/assignments/media-types/application/vnd.lotus-freelance,pre            
 application/vnd.lotus-notes,application,vnd.lotus-notes,http://www.iana.org/assignments/media-types/application/vnd.lotus-notes,nsf            
