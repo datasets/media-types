@@ -13,7 +13,8 @@
   "sources": [
     {
        "name": "IANA",
-       "web": "http://www.iana.org/assignments/media-types/media-types.xhtml"
+       "path": "http://www.iana.org/assignments/media-types/media-types.xhtml",
+       "title": "IANA"
     }
   ],
 
