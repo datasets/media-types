@@ -1,6 +1,6 @@
 This dataset lists all the Media Types (MIME types), Media Subtypes, and their file extensions.
 
-## Source
+## Data
 
 The details of the Media Types and Media Subtypes are taken from the [official registry of Media Types](http://www.iana.org/assignments/media-types/media-types.xhtml) maintained by IANA. The extension details are taken   [the website](http://svn.apache.org/viewvc/httpd/httpd/branches/2.2.x/docs/conf/mime.types?view=annotate) of the Apache Software Foundation.
 
