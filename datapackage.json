@@ -4,12 +4,11 @@
   "description": "List of Media Types, Media Subtypes, and their extensions.",
   "licenses": [
     {
-      "url": "http://www.opendefinition.org/licenses/odc-pddl",
-      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
-      "id": "ODC-PDDL-1.0"
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
-
   "sources": [
     {
        "name": "IANA",
