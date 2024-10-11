@@ -11,12 +11,11 @@
   ],
   "sources": [
     {
-       "name": "IANA",
-       "path": "http://www.iana.org/assignments/media-types/media-types.xhtml",
-       "title": "IANA"
+      "name": "IANA",
+      "path": "http://www.iana.org/assignments/media-types/media-types.xhtml",
+      "title": "IANA"
     }
   ],
-
   "resources": [
     {
       "name": "media-types",
@@ -48,5 +47,6 @@
         ]
       }
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
