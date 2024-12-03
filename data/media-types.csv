@@ -127,6 +127,12 @@ application/dskpp+xml,application,dskpp+xml,http://www.iana.org/assignments/medi
 application/dssc+der,application,dssc+der,http://www.iana.org/assignments/media-types/application/dssc+der,dssc
 application/dssc+xml,application,dssc+xml,http://www.iana.org/assignments/media-types/application/dssc+xml,xdssc
 application/dvcs,application,dvcs,http://www.iana.org/assignments/media-types/application/dvcs,
+application/eat+cwt,application,eat+cwt,http://www.iana.org/assignments/media-types/application/eat+cwt,
+application/eat+jwt,application,eat+jwt,http://www.iana.org/assignments/media-types/application/eat+jwt,
+application/eat-bun+cbor,application,eat-bun+cbor,http://www.iana.org/assignments/media-types/application/eat-bun+cbor,
+application/eat-bun+json,application,eat-bun+json,http://www.iana.org/assignments/media-types/application/eat-bun+json,
+application/eat-ucs+cbor,application,eat-ucs+cbor,http://www.iana.org/assignments/media-types/application/eat-ucs+cbor,
+application/eat-ucs+json,application,eat-ucs+json,http://www.iana.org/assignments/media-types/application/eat-ucs+json,
 application/ecmascript,application,ecmascript (OBSOLETED in favor of text/javascript),http://www.iana.org/assignments/media-types/application/ecmascript (OBSOLETED in favor of text/javascript),ecma
 application/edhoc+cbor-seq,application,edhoc+cbor-seq,http://www.iana.org/assignments/media-types/application/edhoc+cbor-seq,
 application/EDI-consent,application,EDI-consent,http://www.iana.org/assignments/media-types/application/EDI-consent,
@@ -342,6 +348,7 @@ application/private-token-response,application,private-token-response,http://www
 application/problem+json,application,problem+json,http://www.iana.org/assignments/media-types/application/problem+json,
 application/problem+xml,application,problem+xml,http://www.iana.org/assignments/media-types/application/problem+xml,
 application/provenance+xml,application,provenance+xml,http://www.iana.org/assignments/media-types/application/provenance+xml,
+application/provided-claims+jwt,application,provided-claims+jwt,http://www.iana.org/assignments/media-types/application/provided-claims+jwt,
 application/prs.alvestrand.titrax-sheet,application,prs.alvestrand.titrax-sheet,http://www.iana.org/assignments/media-types/application/prs.alvestrand.titrax-sheet,
 application/prs.cww,application,prs.cww,http://www.iana.org/assignments/media-types/application/prs.cww,cww
 application/prs.cyn,application,prs.cyn,http://www.iana.org/assignments/media-types/application/prs.cyn,
@@ -482,6 +489,8 @@ application/ttml+xml,application,ttml+xml,http://www.iana.org/assignments/media-
 application/tve-trigger,application,tve-trigger,http://www.iana.org/assignments/media-types/application/tve-trigger,
 application/tzif,application,tzif,http://www.iana.org/assignments/media-types/application/tzif,
 application/tzif-leap,application,tzif-leap,http://www.iana.org/assignments/media-types/application/tzif-leap,
+application/uccs+cbor,application,uccs+cbor,http://www.iana.org/assignments/media-types/application/uccs+cbor,
+application/ujcs+json,application,ujcs+json,http://www.iana.org/assignments/media-types/application/ujcs+json,
 application/ulpfec,application,ulpfec,http://www.iana.org/assignments/media-types/application/ulpfec,
 application/urc-grpsheet+xml,application,urc-grpsheet+xml,http://www.iana.org/assignments/media-types/application/urc-grpsheet+xml,
 application/urc-ressheet+xml,application,urc-ressheet+xml,http://www.iana.org/assignments/media-types/application/urc-ressheet+xml,
@@ -1436,6 +1445,7 @@ application/vnd.shx,application,vnd.shx,http://www.iana.org/assignments/media-ty
 application/vnd.sigrok.session,application,vnd.sigrok.session,http://www.iana.org/assignments/media-types/application/vnd.sigrok.session,
 application/vnd.SimTech-MindMapper,application,vnd.SimTech-MindMapper,http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper,
 application/vnd.siren+json,application,vnd.siren+json,http://www.iana.org/assignments/media-types/application/vnd.siren+json,
+application/vnd.sketchometry,application,vnd.sketchometry,http://www.iana.org/assignments/media-types/application/vnd.sketchometry,
 application/vnd.smaf,application,vnd.smaf,http://www.iana.org/assignments/media-types/application/vnd.smaf,mmf
 application/vnd.smart.notebook,application,vnd.smart.notebook,http://www.iana.org/assignments/media-types/application/vnd.smart.notebook,
 application/vnd.smart.teacher,application,vnd.smart.teacher,http://www.iana.org/assignments/media-types/application/vnd.smart.teacher,teacher
@@ -1515,6 +1525,7 @@ application/vnd.vidsoft.vidconference,application,vnd.vidsoft.vidconference,http
 application/vnd.visio,application,vnd.visio,http://www.iana.org/assignments/media-types/application/vnd.visio,vsw
 application/vnd.visionary,application,vnd.visionary,http://www.iana.org/assignments/media-types/application/vnd.visionary,vis
 application/vnd.vividence.scriptfile,application,vnd.vividence.scriptfile,http://www.iana.org/assignments/media-types/application/vnd.vividence.scriptfile,
+application/vnd.vocalshaper.vsp4,application,vnd.vocalshaper.vsp4,http://www.iana.org/assignments/media-types/application/vnd.vocalshaper.vsp4,
 application/vnd.vsf,application,vnd.vsf,http://www.iana.org/assignments/media-types/application/vnd.vsf,vsf
 application/vnd.wap.sic,application,vnd.wap.sic,http://www.iana.org/assignments/media-types/application/vnd.wap.sic,
 application/vnd.wap.slc,application,vnd.wap.slc,http://www.iana.org/assignments/media-types/application/vnd.wap.slc,
