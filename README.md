@@ -15,7 +15,10 @@ The `media-types.csv` is processed using `scripts/process.py` script.
     python scripts/process.py
 ```
 
-Data was automated using Github Actions.
+## Automation
+
+Up-to-date (auto-updates on weekly basis) media-types dataset could be found on the datahub.io:
+https://datahub.io/core/media-types
 
 ## License
 
