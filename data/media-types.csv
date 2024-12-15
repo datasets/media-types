@@ -497,6 +497,8 @@ application/urc-ressheet+xml,application,urc-ressheet+xml,http://www.iana.org/as
 application/urc-targetdesc+xml,application,urc-targetdesc+xml,http://www.iana.org/assignments/media-types/application/urc-targetdesc+xml,
 application/urc-uisocketdesc+xml,application,urc-uisocketdesc+xml,http://www.iana.org/assignments/media-types/application/urc-uisocketdesc+xml,
 application/vc,application,vc,http://www.iana.org/assignments/media-types/application/vc,
+application/vc+cose,application,vc+cose,http://www.iana.org/assignments/media-types/application/vc+cose,
+application/vc+jwt,application,vc+jwt,http://www.iana.org/assignments/media-types/application/vc+jwt,
 application/vcard+json,application,vcard+json,http://www.iana.org/assignments/media-types/application/vcard+json,
 application/vcard+xml,application,vcard+xml,http://www.iana.org/assignments/media-types/application/vcard+xml,
 application/vemmi,application,vemmi,http://www.iana.org/assignments/media-types/application/vemmi,
@@ -1581,6 +1583,8 @@ application/vnd.zzazz.deck+xml,application,vnd.zzazz.deck+xml,http://www.iana.or
 application/voicexml+xml,application,voicexml+xml,http://www.iana.org/assignments/media-types/application/voicexml+xml,vxml
 application/voucher-cms+json,application,voucher-cms+json,http://www.iana.org/assignments/media-types/application/voucher-cms+json,
 application/vp,application,vp,http://www.iana.org/assignments/media-types/application/vp,
+application/vp+cose,application,vp+cose,http://www.iana.org/assignments/media-types/application/vp+cose,
+application/vp+jwt,application,vp+jwt,http://www.iana.org/assignments/media-types/application/vp+jwt,
 application/vq-rtcpxr,application,vq-rtcpxr,http://www.iana.org/assignments/media-types/application/vq-rtcpxr,
 application/wasm,application,wasm,http://www.iana.org/assignments/media-types/application/wasm,wasm
 application/watcherinfo+xml,application,watcherinfo+xml,http://www.iana.org/assignments/media-types/application/watcherinfo+xml,
