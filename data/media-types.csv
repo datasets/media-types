@@ -478,6 +478,7 @@ application/tlsrpt+gzip,application,tlsrpt+gzip,http://www.iana.org/assignments/
 application/tlsrpt+json,application,tlsrpt+json,http://www.iana.org/assignments/media-types/application/tlsrpt+json,
 application/tm+json,application,tm+json,http://www.iana.org/assignments/media-types/application/tm+json,
 application/tnauthlist,application,tnauthlist,http://www.iana.org/assignments/media-types/application/tnauthlist,
+application/toc+cbor,application,toc+cbor,http://www.iana.org/assignments/media-types/application/toc+cbor,
 application/token-introspection+jwt,application,token-introspection+jwt,http://www.iana.org/assignments/media-types/application/token-introspection+jwt,
 application/toml,application,toml,http://www.iana.org/assignments/media-types/application/toml,
 application/trickle-ice-sdpfrag,application,trickle-ice-sdpfrag,http://www.iana.org/assignments/media-types/application/trickle-ice-sdpfrag,
@@ -735,6 +736,7 @@ application/vnd.datalog,application,vnd.datalog,http://www.iana.org/assignments/
 application/vnd.datapackage+json,application,vnd.datapackage+json,http://www.iana.org/assignments/media-types/application/vnd.datapackage+json,
 application/vnd.dataresource+json,application,vnd.dataresource+json,http://www.iana.org/assignments/media-types/application/vnd.dataresource+json,
 application/vnd.dbf,application,vnd.dbf,http://www.iana.org/assignments/media-types/application/vnd.dbf,
+application/vnd.dcmp+xml,application,vnd.dcmp+xml,http://www.iana.org/assignments/media-types/application/vnd.dcmp+xml,
 application/vnd.debian.binary-package,application,vnd.debian.binary-package,http://www.iana.org/assignments/media-types/application/vnd.debian.binary-package,
 application/vnd.dece.data,application,vnd.dece.data,http://www.iana.org/assignments/media-types/application/vnd.dece.data,uvvd
 application/vnd.dece.ttml+xml,application,vnd.dece.ttml+xml,http://www.iana.org/assignments/media-types/application/vnd.dece.ttml+xml,uvvt
@@ -1519,6 +1521,8 @@ application/vnd.vcx,application,vnd.vcx,http://www.iana.org/assignments/media-ty
 application/vnd.vd-study,application,vnd.vd-study,http://www.iana.org/assignments/media-types/application/vnd.vd-study,
 application/vnd.vectorworks,application,vnd.vectorworks,http://www.iana.org/assignments/media-types/application/vnd.vectorworks,
 application/vnd.vel+json,application,vnd.vel+json,http://www.iana.org/assignments/media-types/application/vnd.vel+json,
+application/vnd.veraison.tsm-report+cbor,application,vnd.veraison.tsm-report+cbor,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+cbor,
+application/vnd.veraison.tsm-report+json,application,vnd.veraison.tsm-report+json,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+json,
 application/vnd.verimatrix.vcas,application,vnd.verimatrix.vcas,http://www.iana.org/assignments/media-types/application/vnd.verimatrix.vcas,
 application/vnd.veritone.aion+json,application,vnd.veritone.aion+json,http://www.iana.org/assignments/media-types/application/vnd.veritone.aion+json,
 application/vnd.veryant.thin,application,vnd.veryant.thin,http://www.iana.org/assignments/media-types/application/vnd.veryant.thin,
