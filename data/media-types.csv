@@ -74,6 +74,7 @@ application/cdmi-domain,application,cdmi-domain,http://www.iana.org/assignments/
 application/cdmi-object,application,cdmi-object,http://www.iana.org/assignments/media-types/application/cdmi-object,cdmio
 application/cdmi-queue,application,cdmi-queue,http://www.iana.org/assignments/media-types/application/cdmi-queue,cdmiq
 application/cdni,application,cdni,http://www.iana.org/assignments/media-types/application/cdni,
+application/ce+cbor,application,ce+cbor,http://www.iana.org/assignments/media-types/application/ce+cbor,
 application/CEA,application,CEA,http://www.iana.org/assignments/media-types/application/CEA,
 application/cea-2018+xml,application,cea-2018+xml,http://www.iana.org/assignments/media-types/application/cea-2018+xml,
 application/cellml+xml,application,cellml+xml,http://www.iana.org/assignments/media-types/application/cellml+xml,
@@ -508,6 +509,8 @@ application/vnd.1ob,application,vnd.1ob,http://www.iana.org/assignments/media-ty
 application/vnd.3gpp.5gnas,application,vnd.3gpp.5gnas,http://www.iana.org/assignments/media-types/application/vnd.3gpp.5gnas,
 application/vnd.3gpp.5gsa2x,application,vnd.3gpp.5gsa2x,http://www.iana.org/assignments/media-types/application/vnd.3gpp.5gsa2x,
 application/vnd.3gpp.5gsa2x-local-service-information,application,vnd.3gpp.5gsa2x-local-service-information,http://www.iana.org/assignments/media-types/application/vnd.3gpp.5gsa2x-local-service-information,
+application/vnd.3gpp.5gsv2x,application,vnd.3gpp.5gsv2x,http://www.iana.org/assignments/media-types/application/vnd.3gpp.5gsv2x,
+application/vnd.3gpp.5gsv2x-local-service-information,application,vnd.3gpp.5gsv2x-local-service-information,http://www.iana.org/assignments/media-types/application/vnd.3gpp.5gsv2x-local-service-information,
 application/vnd.3gpp.access-transfer-events+xml,application,vnd.3gpp.access-transfer-events+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.access-transfer-events+xml,
 application/vnd.3gpp.bsf+xml,application,vnd.3gpp.bsf+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.bsf+xml,
 application/vnd.3gpp.crs+xml,application,vnd.3gpp.crs+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.crs+xml,
@@ -842,6 +845,7 @@ application/vnd.fastcopy-disk-image,application,vnd.fastcopy-disk-image,http://w
 application/vnd.familysearch.gedcom+zip,application,vnd.familysearch.gedcom+zip,http://www.iana.org/assignments/media-types/application/vnd.familysearch.gedcom+zip,
 application/vnd.fdsn.mseed,application,vnd.fdsn.mseed,http://www.iana.org/assignments/media-types/application/vnd.fdsn.mseed,mseed
 application/vnd.fdsn.seed,application,vnd.fdsn.seed,http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed,dataless
+application/vnd.fdsn.stationxml+xml,application,vnd.fdsn.stationxml+xml,http://www.iana.org/assignments/media-types/application/vnd.fdsn.stationxml+xml,
 application/vnd.ffsns,application,vnd.ffsns,http://www.iana.org/assignments/media-types/application/vnd.ffsns,
 application/vnd.ficlab.flb+zip,application,vnd.ficlab.flb+zip,http://www.iana.org/assignments/media-types/application/vnd.ficlab.flb+zip,
 application/vnd.filmit.zfc,application,vnd.filmit.zfc,http://www.iana.org/assignments/media-types/application/vnd.filmit.zfc,
@@ -1012,6 +1016,7 @@ application/vnd.kde.kontour,application,vnd.kde.kontour,http://www.iana.org/assi
 application/vnd.kde.kpresenter,application,vnd.kde.kpresenter,http://www.iana.org/assignments/media-types/application/vnd.kde.kpresenter,kpt
 application/vnd.kde.kspread,application,vnd.kde.kspread,http://www.iana.org/assignments/media-types/application/vnd.kde.kspread,ksp
 application/vnd.kde.kword,application,vnd.kde.kword,http://www.iana.org/assignments/media-types/application/vnd.kde.kword,kwt
+application/vnd.kdl,application,vnd.kdl,http://www.iana.org/assignments/media-types/application/vnd.kdl,
 application/vnd.kenameaapp,application,vnd.kenameaapp,http://www.iana.org/assignments/media-types/application/vnd.kenameaapp,htke
 application/vnd.keyman.kmp+zip,application,vnd.keyman.kmp+zip,http://www.iana.org/assignments/media-types/application/vnd.keyman.kmp+zip,
 application/vnd.keyman.kmx,application,vnd.keyman.kmx,http://www.iana.org/assignments/media-types/application/vnd.keyman.kmx,
@@ -1831,6 +1836,8 @@ image/hej2k,image,hej2k,http://www.iana.org/assignments/media-types/image/hej2k,
 image/hsj2,image,hsj2 (OBSOLETE),http://www.iana.org/assignments/media-types/image/hsj2 (OBSOLETE),
 image/ief,image,ief,http://www.iana.org/assignments/media-types/image/ief,ief
 image/j2c,image,j2c,http://www.iana.org/assignments/media-types/image/j2c,
+image/jaii,image,jaii,http://www.iana.org/assignments/media-types/image/jaii,
+image/jais,image,jais,http://www.iana.org/assignments/media-types/image/jais,
 image/jls,image,jls,http://www.iana.org/assignments/media-types/image/jls,
 image/jp2,image,jp2,http://www.iana.org/assignments/media-types/image/jp2,
 image/jpeg,image,jpeg,http://www.iana.org/assignments/media-types/image/jpeg,jpe
