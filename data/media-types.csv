@@ -1591,6 +1591,7 @@ application/vnd.zul,application,vnd.zul,http://www.iana.org/assignments/media-ty
 application/vnd.zzazz.deck+xml,application,vnd.zzazz.deck+xml,http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck+xml,zaz
 application/voicexml+xml,application,voicexml+xml,http://www.iana.org/assignments/media-types/application/voicexml+xml,vxml
 application/voucher-cms+json,application,voucher-cms+json,http://www.iana.org/assignments/media-types/application/voucher-cms+json,
+application/voucher-jws+json,application,voucher-jws+json,http://www.iana.org/assignments/media-types/application/voucher-jws+json,
 application/vp,application,vp,http://www.iana.org/assignments/media-types/application/vp,
 application/vp+cose,application,vp+cose,http://www.iana.org/assignments/media-types/application/vp+cose,
 application/vp+jwt,application,vp+jwt,http://www.iana.org/assignments/media-types/application/vp+jwt,
