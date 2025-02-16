@@ -87,6 +87,7 @@ application/clue_info+xml,application,clue_info+xml,http://www.iana.org/assignme
 application/clue+xml,application,clue+xml,http://www.iana.org/assignments/media-types/application/clue+xml,
 application/cms,application,cms,http://www.iana.org/assignments/media-types/application/cms,
 application/cnrp+xml,application,cnrp+xml,http://www.iana.org/assignments/media-types/application/cnrp+xml,
+application/coap-eap,application,coap-eap,http://www.iana.org/assignments/media-types/application/coap-eap,
 application/coap-group+json,application,coap-group+json,http://www.iana.org/assignments/media-types/application/coap-group+json,
 application/coap-payload,application,coap-payload,http://www.iana.org/assignments/media-types/application/coap-payload,
 application/commonground,application,commonground,http://www.iana.org/assignments/media-types/application/commonground,
