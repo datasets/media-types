@@ -2106,6 +2106,7 @@ video/iso.segment,video,iso.segment,http://www.iana.org/assignments/media-types/
 video/JPEG,video,JPEG,http://www.iana.org/assignments/media-types/video/JPEG,
 video/jpeg2000,video,jpeg2000,http://www.iana.org/assignments/media-types/video/jpeg2000,
 video/jxsv,video,jxsv,http://www.iana.org/assignments/media-types/video/jxsv,
+video/lottie+json,video,lottie+json,http://www.iana.org/assignments/media-types/video/lottie+json,
 video/matroska,video,matroska,http://www.iana.org/assignments/media-types/video/matroska,
 video/matroska-3d,video,matroska-3d,http://www.iana.org/assignments/media-types/video/matroska-3d,
 video/mj2,video,mj2,http://www.iana.org/assignments/media-types/video/mj2,mjp2
