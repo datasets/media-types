@@ -1868,6 +1868,7 @@ image/tiff,image,tiff,http://www.iana.org/assignments/media-types/image/tiff,tif
 image/tiff-fx,image,tiff-fx,http://www.iana.org/assignments/media-types/image/tiff-fx,
 image/vnd.adobe.photoshop,image,vnd.adobe.photoshop,http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop,psd
 image/vnd.airzip.accelerator.azv,image,vnd.airzip.accelerator.azv,http://www.iana.org/assignments/media-types/image/vnd.airzip.accelerator.azv,
+image/vnd.clip,image,vnd.clip,http://www.iana.org/assignments/media-types/image/vnd.clip,
 image/vnd.cns.inf2,image,vnd.cns.inf2,http://www.iana.org/assignments/media-types/image/vnd.cns.inf2,
 image/vnd.dece.graphic,image,vnd.dece.graphic,http://www.iana.org/assignments/media-types/image/vnd.dece.graphic,uvvg
 image/vnd.djvu,image,vnd.djvu,http://www.iana.org/assignments/media-types/image/vnd.djvu,djv
