@@ -118,6 +118,7 @@ application/dialog-info+xml,application,dialog-info+xml,http://www.iana.org/assi
 application/dicom,application,dicom,http://www.iana.org/assignments/media-types/application/dicom,
 application/dicom+json,application,dicom+json,http://www.iana.org/assignments/media-types/application/dicom+json,
 application/dicom+xml,application,dicom+xml,http://www.iana.org/assignments/media-types/application/dicom+xml,
+application/did,application,did,http://www.iana.org/assignments/media-types/application/did,
 application/DII,application,DII,http://www.iana.org/assignments/media-types/application/DII,
 application/DIT,application,DIT,http://www.iana.org/assignments/media-types/application/DIT,
 application/dns,application,dns,http://www.iana.org/assignments/media-types/application/dns,
