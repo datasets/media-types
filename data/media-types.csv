@@ -410,6 +410,7 @@ application/scvp-cv-request,application,scvp-cv-request,http://www.iana.org/assi
 application/scvp-cv-response,application,scvp-cv-response,http://www.iana.org/assignments/media-types/application/scvp-cv-response,scs
 application/scvp-vp-request,application,scvp-vp-request,http://www.iana.org/assignments/media-types/application/scvp-vp-request,spq
 application/scvp-vp-response,application,scvp-vp-response,http://www.iana.org/assignments/media-types/application/scvp-vp-response,spp
+application/sdf+json,application,sdf+json,http://www.iana.org/assignments/media-types/application/sdf+json,
 application/sdp,application,sdp,http://www.iana.org/assignments/media-types/application/sdp,sdp
 application/secevent+jwt,application,secevent+jwt,http://www.iana.org/assignments/media-types/application/secevent+jwt,
 application/senml-etch+cbor,application,senml-etch+cbor,http://www.iana.org/assignments/media-types/application/senml-etch+cbor,
