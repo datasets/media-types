@@ -2071,6 +2071,7 @@ text/vnd.senx.warpscript,text,vnd.senx.warpscript,http://www.iana.org/assignment
 text/vnd.si.uricatalogue,text,vnd.si.uricatalogue (OBSOLETED by request),http://www.iana.org/assignments/media-types/text/vnd.si.uricatalogue (OBSOLETED by request),
 text/vnd.sun.j2me.app-descriptor,text,vnd.sun.j2me.app-descriptor,http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor,jad
 text/vnd.sosi,text,vnd.sosi,http://www.iana.org/assignments/media-types/text/vnd.sosi,
+text/vnd.typst,text,vnd.typst,http://www.iana.org/assignments/media-types/text/vnd.typst,
 text/vnd.trolltech.linguist,text,vnd.trolltech.linguist,http://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist,
 text/vnd.vcf,text,vnd.vcf,http://www.iana.org/assignments/media-types/text/vnd.vcf,
 text/vnd.wap.si,text,vnd.wap.si,http://www.iana.org/assignments/media-types/text/vnd.wap.si,
