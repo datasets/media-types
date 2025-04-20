@@ -79,6 +79,7 @@ application/CEA,application,CEA,http://www.iana.org/assignments/media-types/appl
 application/cea-2018+xml,application,cea-2018+xml,http://www.iana.org/assignments/media-types/application/cea-2018+xml,
 application/cellml+xml,application,cellml+xml,http://www.iana.org/assignments/media-types/application/cellml+xml,
 application/cfw,application,cfw,http://www.iana.org/assignments/media-types/application/cfw,
+application/cid,application,cid,http://www.iana.org/assignments/media-types/application/cid,
 application/cid-edhoc+cbor-seq,application,cid-edhoc+cbor-seq,http://www.iana.org/assignments/media-types/application/cid-edhoc+cbor-seq,
 application/city+json,application,city+json,http://www.iana.org/assignments/media-types/application/city+json,
 application/city+json-seq,application,city+json-seq,http://www.iana.org/assignments/media-types/application/city+json-seq,
@@ -474,6 +475,7 @@ application/taxii+json,application,taxii+json,http://www.iana.org/assignments/me
 application/td+json,application,td+json,http://www.iana.org/assignments/media-types/application/td+json,
 application/tei+xml,application,tei+xml,http://www.iana.org/assignments/media-types/application/tei+xml,teicorpus
 application/TETRA_ISI,application,TETRA_ISI,http://www.iana.org/assignments/media-types/application/TETRA_ISI,
+application/texinfo,application,texinfo,http://www.iana.org/assignments/media-types/application/texinfo,
 application/thraud+xml,application,thraud+xml,http://www.iana.org/assignments/media-types/application/thraud+xml,tfi
 application/timestamp-query,application,timestamp-query,http://www.iana.org/assignments/media-types/application/timestamp-query,
 application/timestamp-reply,application,timestamp-reply,http://www.iana.org/assignments/media-types/application/timestamp-reply,
@@ -1373,6 +1375,7 @@ application/vnd.pg.osasli,application,vnd.pg.osasli,http://www.iana.org/assignme
 application/vnd.piaccess.application-licence,application,vnd.piaccess.application-licence,http://www.iana.org/assignments/media-types/application/vnd.piaccess.application-licence,
 application/vnd.picsel,application,vnd.picsel,http://www.iana.org/assignments/media-types/application/vnd.picsel,efif
 application/vnd.pmi.widget,application,vnd.pmi.widget,http://www.iana.org/assignments/media-types/application/vnd.pmi.widget,wg
+application/vnd.pmtiles,application,vnd.pmtiles,http://www.iana.org/assignments/media-types/application/vnd.pmtiles,
 application/vnd.poc.group-advertisement+xml,application,vnd.poc.group-advertisement+xml,http://www.iana.org/assignments/media-types/application/vnd.poc.group-advertisement+xml,
 application/vnd.pocketlearn,application,vnd.pocketlearn,http://www.iana.org/assignments/media-types/application/vnd.pocketlearn,plf
 application/vnd.powerbuilder6,application,vnd.powerbuilder6,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6,pbd
@@ -1476,6 +1479,7 @@ application/vnd.stepmania.package,application,vnd.stepmania.package,http://www.i
 application/vnd.stepmania.stepchart,application,vnd.stepmania.stepchart,http://www.iana.org/assignments/media-types/application/vnd.stepmania.stepchart,sm
 application/vnd.street-stream,application,vnd.street-stream,http://www.iana.org/assignments/media-types/application/vnd.street-stream,
 application/vnd.sun.wadl+xml,application,vnd.sun.wadl+xml,http://www.iana.org/assignments/media-types/application/vnd.sun.wadl+xml,
+application/vnd.superfile.super,application,vnd.superfile.super,http://www.iana.org/assignments/media-types/application/vnd.superfile.super,
 application/vnd.sus-calendar,application,vnd.sus-calendar,http://www.iana.org/assignments/media-types/application/vnd.sus-calendar,susp
 application/vnd.svd,application,vnd.svd,http://www.iana.org/assignments/media-types/application/vnd.svd,svd
 application/vnd.swiftview-ics,application,vnd.swiftview-ics,http://www.iana.org/assignments/media-types/application/vnd.swiftview-ics,
@@ -1871,6 +1875,7 @@ image/tiff,image,tiff,http://www.iana.org/assignments/media-types/image/tiff,tif
 image/tiff-fx,image,tiff-fx,http://www.iana.org/assignments/media-types/image/tiff-fx,
 image/vnd.adobe.photoshop,image,vnd.adobe.photoshop,http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop,psd
 image/vnd.airzip.accelerator.azv,image,vnd.airzip.accelerator.azv,http://www.iana.org/assignments/media-types/image/vnd.airzip.accelerator.azv,
+image/vnd.blockfact.facti,image,vnd.blockfact.facti,http://www.iana.org/assignments/media-types/image/vnd.blockfact.facti,
 image/vnd.clip,image,vnd.clip,http://www.iana.org/assignments/media-types/image/vnd.clip,
 image/vnd.cns.inf2,image,vnd.cns.inf2,http://www.iana.org/assignments/media-types/image/vnd.cns.inf2,
 image/vnd.dece.graphic,image,vnd.dece.graphic,http://www.iana.org/assignments/media-types/image/vnd.dece.graphic,uvvg
