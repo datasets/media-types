@@ -679,6 +679,7 @@ application/vnd.cab-jscript,application,vnd.cab-jscript,http://www.iana.org/assi
 application/vnd.canon-cpdl,application,vnd.canon-cpdl,http://www.iana.org/assignments/media-types/application/vnd.canon-cpdl,
 application/vnd.canon-lips,application,vnd.canon-lips,http://www.iana.org/assignments/media-types/application/vnd.canon-lips,
 application/vnd.capasystems-pg+json,application,vnd.capasystems-pg+json,http://www.iana.org/assignments/media-types/application/vnd.capasystems-pg+json,
+application/vnd.cel,application,vnd.cel,http://www.iana.org/assignments/media-types/application/vnd.cel,
 application/vnd.cendio.thinlinc.clientconf,application,vnd.cendio.thinlinc.clientconf,http://www.iana.org/assignments/media-types/application/vnd.cendio.thinlinc.clientconf,
 application/vnd.century-systems.tcp_stream,application,vnd.century-systems.tcp_stream,http://www.iana.org/assignments/media-types/application/vnd.century-systems.tcp_stream,
 application/vnd.chemdraw+xml,application,vnd.chemdraw+xml,http://www.iana.org/assignments/media-types/application/vnd.chemdraw+xml,cdxml
