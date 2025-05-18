@@ -1781,6 +1781,7 @@ audio/VMR-WB,audio,VMR-WB,http://www.iana.org/assignments/media-types/audio/VMR-
 audio/vnd.3gpp.iufp,audio,vnd.3gpp.iufp,http://www.iana.org/assignments/media-types/audio/vnd.3gpp.iufp,
 audio/vnd.4SB,audio,vnd.4SB,http://www.iana.org/assignments/media-types/audio/vnd.4SB,
 audio/vnd.audiokoz,audio,vnd.audiokoz,http://www.iana.org/assignments/media-types/audio/vnd.audiokoz,
+audio/vnd.blockfact.facta,audio,vnd.blockfact.facta,http://www.iana.org/assignments/media-types/audio/vnd.blockfact.facta,
 audio/vnd.CELP,audio,vnd.CELP,http://www.iana.org/assignments/media-types/audio/vnd.CELP,
 audio/vnd.cisco.nse,audio,vnd.cisco.nse,http://www.iana.org/assignments/media-types/audio/vnd.cisco.nse,
 audio/vnd.cmles.radio-events,audio,vnd.cmles.radio-events,http://www.iana.org/assignments/media-types/audio/vnd.cmles.radio-events,
@@ -2150,6 +2151,7 @@ video/SMPTE292M,video,SMPTE292M,http://www.iana.org/assignments/media-types/vide
 video/ulpfec,video,ulpfec,http://www.iana.org/assignments/media-types/video/ulpfec,
 video/vc1,video,vc1,http://www.iana.org/assignments/media-types/video/vc1,
 video/vc2,video,vc2,http://www.iana.org/assignments/media-types/video/vc2,
+video/vnd.blockfact.factv,video,vnd.blockfact.factv,http://www.iana.org/assignments/media-types/video/vnd.blockfact.factv,
 video/vnd.CCTV,video,vnd.CCTV,http://www.iana.org/assignments/media-types/video/vnd.CCTV,
 video/vnd.dece.hd,video,vnd.dece.hd,http://www.iana.org/assignments/media-types/video/vnd.dece.hd,uvvh
 video/vnd.dece.mobile,video,vnd.dece.mobile,http://www.iana.org/assignments/media-types/video/vnd.dece.mobile,uvvm
