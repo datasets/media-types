@@ -229,6 +229,7 @@ application/jwk+json,application,jwk+json,http://www.iana.org/assignments/media-
 application/jwk-set+json,application,jwk-set+json,http://www.iana.org/assignments/media-types/application/jwk-set+json,
 application/jwk-set+jwt,application,jwk-set+jwt,http://www.iana.org/assignments/media-types/application/jwk-set+jwt,
 application/jwt,application,jwt,http://www.iana.org/assignments/media-types/application/jwt,
+application/kb+jwt,application,kb+jwt,http://www.iana.org/assignments/media-types/application/kb+jwt,
 application/kpml-request+xml,application,kpml-request+xml,http://www.iana.org/assignments/media-types/application/kpml-request+xml,
 application/kpml-response+xml,application,kpml-response+xml,http://www.iana.org/assignments/media-types/application/kpml-response+xml,
 application/ld+json,application,ld+json,http://www.iana.org/assignments/media-types/application/ld+json,
@@ -412,6 +413,8 @@ application/scvp-cv-request,application,scvp-cv-request,http://www.iana.org/assi
 application/scvp-cv-response,application,scvp-cv-response,http://www.iana.org/assignments/media-types/application/scvp-cv-response,scs
 application/scvp-vp-request,application,scvp-vp-request,http://www.iana.org/assignments/media-types/application/scvp-vp-request,spq
 application/scvp-vp-response,application,scvp-vp-response,http://www.iana.org/assignments/media-types/application/scvp-vp-response,spp
+application/sd-jwt,application,sd-jwt,http://www.iana.org/assignments/media-types/application/sd-jwt,
+application/sd-jwt+json,application,sd-jwt+json,http://www.iana.org/assignments/media-types/application/sd-jwt+json,
 application/sdf+json,application,sdf+json,http://www.iana.org/assignments/media-types/application/sdf+json,
 application/sdp,application,sdp,http://www.iana.org/assignments/media-types/application/sdp,sdp
 application/secevent+jwt,application,secevent+jwt,http://www.iana.org/assignments/media-types/application/secevent+jwt,
@@ -459,6 +462,7 @@ application/ssml+xml,application,ssml+xml,http://www.iana.org/assignments/media-
 application/ST2110-41,application,ST2110-41,http://www.iana.org/assignments/media-types/application/ST2110-41,
 application/stix+json,application,stix+json,http://www.iana.org/assignments/media-types/application/stix+json,
 application/stratum,application,stratum,http://www.iana.org/assignments/media-types/application/stratum,
+application/suit-envelope+cose,application,suit-envelope+cose,http://www.iana.org/assignments/media-types/application/suit-envelope+cose,
 application/swid+cbor,application,swid+cbor,http://www.iana.org/assignments/media-types/application/swid+cbor,
 application/swid+xml,application,swid+xml,http://www.iana.org/assignments/media-types/application/swid+xml,
 application/tamp-apex-update,application,tamp-apex-update,http://www.iana.org/assignments/media-types/application/tamp-apex-update,
