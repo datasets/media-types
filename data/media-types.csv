@@ -864,6 +864,7 @@ application/vnd.fdsn.mseed,application,vnd.fdsn.mseed,http://www.iana.org/assign
 application/vnd.fdsn.seed,application,vnd.fdsn.seed,http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed,dataless
 application/vnd.fdsn.stationxml+xml,application,vnd.fdsn.stationxml+xml,http://www.iana.org/assignments/media-types/application/vnd.fdsn.stationxml+xml,
 application/vnd.ffsns,application,vnd.ffsns,http://www.iana.org/assignments/media-types/application/vnd.ffsns,
+application/vnd.fgb,application,vnd.fgb,http://www.iana.org/assignments/media-types/application/vnd.fgb,
 application/vnd.ficlab.flb+zip,application,vnd.ficlab.flb+zip,http://www.iana.org/assignments/media-types/application/vnd.ficlab.flb+zip,
 application/vnd.filmit.zfc,application,vnd.filmit.zfc,http://www.iana.org/assignments/media-types/application/vnd.filmit.zfc,
 application/vnd.fints,application,vnd.fints,http://www.iana.org/assignments/media-types/application/vnd.fints,
@@ -1278,6 +1279,7 @@ application/vnd.omaloc-supl-init,application,vnd.omaloc-supl-init,http://www.ian
 application/vnd.oma-scws-config,application,vnd.oma-scws-config,http://www.iana.org/assignments/media-types/application/vnd.oma-scws-config,
 application/vnd.oma-scws-http-request,application,vnd.oma-scws-http-request,http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-request,
 application/vnd.oma-scws-http-response,application,vnd.oma-scws-http-response,http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-response,
+application/vnd.oms.cellular-cose-content+cbor,application,vnd.oms.cellular-cose-content+cbor,http://www.iana.org/assignments/media-types/application/vnd.oms.cellular-cose-content+cbor,
 application/vnd.onepager,application,vnd.onepager,http://www.iana.org/assignments/media-types/application/vnd.onepager,
 application/vnd.onepagertamp,application,vnd.onepagertamp,http://www.iana.org/assignments/media-types/application/vnd.onepagertamp,
 application/vnd.onepagertamx,application,vnd.onepagertamx,http://www.iana.org/assignments/media-types/application/vnd.onepagertamx,
