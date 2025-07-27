@@ -180,6 +180,7 @@ application/font-woff,application,font-woff - DEPRECATED in favor of font/woff,h
 application/framework-attributes+xml,application,framework-attributes+xml,http://www.iana.org/assignments/media-types/application/framework-attributes+xml,
 application/geo+json,application,geo+json,http://www.iana.org/assignments/media-types/application/geo+json,
 application/geo+json-seq,application,geo+json-seq,http://www.iana.org/assignments/media-types/application/geo+json-seq,
+application/geofeed+csv,application,geofeed+csv,http://www.iana.org/assignments/media-types/application/geofeed+csv,
 application/geopackage+sqlite3,application,geopackage+sqlite3,http://www.iana.org/assignments/media-types/application/geopackage+sqlite3,
 application/geopose+json,application,geopose+json,http://www.iana.org/assignments/media-types/application/geopose+json,
 application/geoxacml+json,application,geoxacml+json,http://www.iana.org/assignments/media-types/application/geoxacml+json,
