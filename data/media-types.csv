@@ -224,6 +224,7 @@ application/jscalendar+json,application,jscalendar+json,http://www.iana.org/assi
 application/jscontact+json,application,jscontact+json,http://www.iana.org/assignments/media-types/application/jscontact+json,
 application/json,application,json,http://www.iana.org/assignments/media-types/application/json,json
 application/json-patch+json,application,json-patch+json,http://www.iana.org/assignments/media-types/application/json-patch+json,
+application/json-patch-query+json,application,json-patch-query+json,http://www.iana.org/assignments/media-types/application/json-patch-query+json,
 application/json-seq,application,json-seq,http://www.iana.org/assignments/media-types/application/json-seq,
 application/jsonpath,application,jsonpath,http://www.iana.org/assignments/media-types/application/jsonpath,
 application/jwk+json,application,jwk+json,http://www.iana.org/assignments/media-types/application/jwk+json,
@@ -1399,6 +1400,7 @@ application/vnd.powerbuilder7,application,vnd.powerbuilder7,http://www.iana.org/
 application/vnd.powerbuilder75,application,vnd.powerbuilder75,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75,
 application/vnd.powerbuilder75-s,application,vnd.powerbuilder75-s,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75-s,
 application/vnd.powerbuilder7-s,application,vnd.powerbuilder7-s,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7-s,
+application/vnd.pp.systemverify+xml,application,vnd.pp.systemverify+xml,http://www.iana.org/assignments/media-types/application/vnd.pp.systemverify+xml,
 application/vnd.preminet,application,vnd.preminet,http://www.iana.org/assignments/media-types/application/vnd.preminet,
 application/vnd.previewsystems.box,application,vnd.previewsystems.box,http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box,box
 application/vnd.proteus.magazine,application,vnd.proteus.magazine,http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine,mgz
@@ -1476,6 +1478,7 @@ application/vnd.shx,application,vnd.shx,http://www.iana.org/assignments/media-ty
 application/vnd.sigrok.session,application,vnd.sigrok.session,http://www.iana.org/assignments/media-types/application/vnd.sigrok.session,
 application/vnd.SimTech-MindMapper,application,vnd.SimTech-MindMapper,http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper,
 application/vnd.siren+json,application,vnd.siren+json,http://www.iana.org/assignments/media-types/application/vnd.siren+json,
+application/vnd.sirtx.vmv0,application,vnd.sirtx.vmv0,http://www.iana.org/assignments/media-types/application/vnd.sirtx.vmv0,
 application/vnd.sketchometry,application,vnd.sketchometry,http://www.iana.org/assignments/media-types/application/vnd.sketchometry,
 application/vnd.smaf,application,vnd.smaf,http://www.iana.org/assignments/media-types/application/vnd.smaf,mmf
 application/vnd.smart.notebook,application,vnd.smart.notebook,http://www.iana.org/assignments/media-types/application/vnd.smart.notebook,
