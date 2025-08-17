@@ -899,6 +899,7 @@ application/vnd.fut-misnet,application,vnd.fut-misnet,http://www.iana.org/assign
 application/vnd.futoin+cbor,application,vnd.futoin+cbor,http://www.iana.org/assignments/media-types/application/vnd.futoin+cbor,
 application/vnd.futoin+json,application,vnd.futoin+json,http://www.iana.org/assignments/media-types/application/vnd.futoin+json,
 application/vnd.fuzzysheet,application,vnd.fuzzysheet,http://www.iana.org/assignments/media-types/application/vnd.fuzzysheet,fzs
+application/vnd.g3pix.g3fc,application,vnd.g3pix.g3fc,http://www.iana.org/assignments/media-types/application/vnd.g3pix.g3fc,
 application/vnd.ga4gh.passport+jwt,application,vnd.ga4gh.passport+jwt,http://www.iana.org/assignments/media-types/application/vnd.ga4gh.passport+jwt,
 application/vnd.genomatix.tuxedo,application,vnd.genomatix.tuxedo,http://www.iana.org/assignments/media-types/application/vnd.genomatix.tuxedo,txd
 application/vnd.genozip,application,vnd.genozip,http://www.iana.org/assignments/media-types/application/vnd.genozip,
@@ -1415,6 +1416,7 @@ application/vnd.qualcomm.brew-app-res,application,vnd.qualcomm.brew-app-res,http
 application/vnd.quarantainenet,application,vnd.quarantainenet,http://www.iana.org/assignments/media-types/application/vnd.quarantainenet,
 application/vnd.Quark.QuarkXPress,application,vnd.Quark.QuarkXPress,http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress,
 application/vnd.quobject-quoxdocument,application,vnd.quobject-quoxdocument,http://www.iana.org/assignments/media-types/application/vnd.quobject-quoxdocument,
+application/vnd.R74n.sandboxels+json,application,vnd.R74n.sandboxels+json,http://www.iana.org/assignments/media-types/application/vnd.R74n.sandboxels+json,
 application/vnd.radisys.moml+xml,application,vnd.radisys.moml+xml,http://www.iana.org/assignments/media-types/application/vnd.radisys.moml+xml,
 application/vnd.radisys.msml-audit-conf+xml,application,vnd.radisys.msml-audit-conf+xml,http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conf+xml,
 application/vnd.radisys.msml-audit-conn+xml,application,vnd.radisys.msml-audit-conn+xml,http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conn+xml,
@@ -1554,6 +1556,7 @@ application/vnd.vectorworks,application,vnd.vectorworks,http://www.iana.org/assi
 application/vnd.vel+json,application,vnd.vel+json,http://www.iana.org/assignments/media-types/application/vnd.vel+json,
 application/vnd.veraison.tsm-report+cbor,application,vnd.veraison.tsm-report+cbor,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+cbor,
 application/vnd.veraison.tsm-report+json,application,vnd.veraison.tsm-report+json,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+json,
+application/vnd.verifier-attestation+jwt,application,vnd.verifier-attestation+jwt,http://www.iana.org/assignments/media-types/application/vnd.verifier-attestation+jwt,
 application/vnd.verimatrix.vcas,application,vnd.verimatrix.vcas,http://www.iana.org/assignments/media-types/application/vnd.verimatrix.vcas,
 application/vnd.veritone.aion+json,application,vnd.veritone.aion+json,http://www.iana.org/assignments/media-types/application/vnd.veritone.aion+json,
 application/vnd.veryant.thin,application,vnd.veryant.thin,http://www.iana.org/assignments/media-types/application/vnd.veryant.thin,
