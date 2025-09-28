@@ -232,6 +232,7 @@ application/jwk-set+json,application,jwk-set+json,http://www.iana.org/assignment
 application/jwk-set+jwt,application,jwk-set+jwt,http://www.iana.org/assignments/media-types/application/jwk-set+jwt,
 application/jwt,application,jwt,http://www.iana.org/assignments/media-types/application/jwt,
 application/kb+jwt,application,kb+jwt,http://www.iana.org/assignments/media-types/application/kb+jwt,
+application/kbl+xml,application,kbl+xml,http://www.iana.org/assignments/media-types/application/kbl+xml,
 application/kpml-request+xml,application,kpml-request+xml,http://www.iana.org/assignments/media-types/application/kpml-request+xml,
 application/kpml-response+xml,application,kpml-response+xml,http://www.iana.org/assignments/media-types/application/kpml-response+xml,
 application/ld+json,application,ld+json,http://www.iana.org/assignments/media-types/application/ld+json,
@@ -515,6 +516,7 @@ application/vc+cose,application,vc+cose,http://www.iana.org/assignments/media-ty
 application/vc+jwt,application,vc+jwt,http://www.iana.org/assignments/media-types/application/vc+jwt,
 application/vcard+json,application,vcard+json,http://www.iana.org/assignments/media-types/application/vcard+json,
 application/vcard+xml,application,vcard+xml,http://www.iana.org/assignments/media-types/application/vcard+xml,
+application/vec+xml,application,vec+xml,http://www.iana.org/assignments/media-types/application/vec+xml,
 application/vemmi,application,vemmi,http://www.iana.org/assignments/media-types/application/vemmi,
 application/vnd.1000minds.decision-model+xml,application,vnd.1000minds.decision-model+xml,http://www.iana.org/assignments/media-types/application/vnd.1000minds.decision-model+xml,
 application/vnd.1ob,application,vnd.1ob,http://www.iana.org/assignments/media-types/application/vnd.1ob,
@@ -1405,6 +1407,7 @@ application/vnd.powerbuilder7-s,application,vnd.powerbuilder7-s,http://www.iana.
 application/vnd.pp.systemverify+xml,application,vnd.pp.systemverify+xml,http://www.iana.org/assignments/media-types/application/vnd.pp.systemverify+xml,
 application/vnd.preminet,application,vnd.preminet,http://www.iana.org/assignments/media-types/application/vnd.preminet,
 application/vnd.previewsystems.box,application,vnd.previewsystems.box,http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box,box
+application/vnd.project-graph,application,vnd.project-graph,http://www.iana.org/assignments/media-types/application/vnd.project-graph,
 application/vnd.proteus.magazine,application,vnd.proteus.magazine,http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine,mgz
 application/vnd.psfs,application,vnd.psfs,http://www.iana.org/assignments/media-types/application/vnd.psfs,
 application/vnd.pt.mundusmundi,application,vnd.pt.mundusmundi,http://www.iana.org/assignments/media-types/application/vnd.pt.mundusmundi,
@@ -1568,6 +1571,7 @@ application/vnd.visionary,application,vnd.visionary,http://www.iana.org/assignme
 application/vnd.vividence.scriptfile,application,vnd.vividence.scriptfile,http://www.iana.org/assignments/media-types/application/vnd.vividence.scriptfile,
 application/vnd.vocalshaper.vsp4,application,vnd.vocalshaper.vsp4,http://www.iana.org/assignments/media-types/application/vnd.vocalshaper.vsp4,
 application/vnd.vsf,application,vnd.vsf,http://www.iana.org/assignments/media-types/application/vnd.vsf,vsf
+application/vnd.vuq,application,vnd.vuq,http://www.iana.org/assignments/media-types/application/vnd.vuq,
 application/vnd.wantverse,application,vnd.wantverse,http://www.iana.org/assignments/media-types/application/vnd.wantverse,
 application/vnd.wap.sic,application,vnd.wap.sic,http://www.iana.org/assignments/media-types/application/vnd.wap.sic,
 application/vnd.wap.slc,application,vnd.wap.slc,http://www.iana.org/assignments/media-types/application/vnd.wap.slc,
@@ -2044,6 +2048,7 @@ text/jcr-cnd,text,jcr-cnd,http://www.iana.org/assignments/media-types/text/jcr-c
 text/markdown,text,markdown,http://www.iana.org/assignments/media-types/text/markdown,
 text/mizar,text,mizar,http://www.iana.org/assignments/media-types/text/mizar,
 text/n3,text,n3,http://www.iana.org/assignments/media-types/text/n3,n3
+text/org,text,org,http://www.iana.org/assignments/media-types/text/org,
 text/parameters,text,parameters,http://www.iana.org/assignments/media-types/text/parameters,
 text/parityfec,text,parityfec,http://www.iana.org/assignments/media-types/text/parityfec,
 text/plain,text,plain,http://www.iana.org/assignments/media-types/text/plain,in
