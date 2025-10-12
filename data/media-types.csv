@@ -412,6 +412,8 @@ application/sbe,application,sbe,http://www.iana.org/assignments/media-types/appl
 application/sbml+xml,application,sbml+xml,http://www.iana.org/assignments/media-types/application/sbml+xml,sbml
 application/scaip+xml,application,scaip+xml,http://www.iana.org/assignments/media-types/application/scaip+xml,
 application/scim+json,application,scim+json,http://www.iana.org/assignments/media-types/application/scim+json,
+application/scitt-receipt+cose,application,scitt-receipt+cose,http://www.iana.org/assignments/media-types/application/scitt-receipt+cose,
+application/scitt-statement+cose,application,scitt-statement+cose,http://www.iana.org/assignments/media-types/application/scitt-statement+cose,
 application/scvp-cv-request,application,scvp-cv-request,http://www.iana.org/assignments/media-types/application/scvp-cv-request,scq
 application/scvp-cv-response,application,scvp-cv-response,http://www.iana.org/assignments/media-types/application/scvp-cv-response,scs
 application/scvp-vp-request,application,scvp-vp-request,http://www.iana.org/assignments/media-types/application/scvp-vp-request,spq
@@ -663,6 +665,10 @@ application/vnd.arastra.swi,application,vnd.arastra.swi (OBSOLETED in favor of a
 application/vnd.aristanetworks.swi,application,vnd.aristanetworks.swi,http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi,swi
 application/vnd.artisan+json,application,vnd.artisan+json,http://www.iana.org/assignments/media-types/application/vnd.artisan+json,
 application/vnd.artsquare,application,vnd.artsquare,http://www.iana.org/assignments/media-types/application/vnd.artsquare,
+application/vnd.as207960.vas.config+jer,application,vnd.as207960.vas.config+jer,http://www.iana.org/assignments/media-types/application/vnd.as207960.vas.config+jer,
+application/vnd.as207960.vas.config+uper,application,vnd.as207960.vas.config+uper,http://www.iana.org/assignments/media-types/application/vnd.as207960.vas.config+uper,
+application/vnd.as207960.vas.tap+jer,application,vnd.as207960.vas.tap+jer,http://www.iana.org/assignments/media-types/application/vnd.as207960.vas.tap+jer,
+application/vnd.as207960.vas.tap+uper,application,vnd.as207960.vas.tap+uper,http://www.iana.org/assignments/media-types/application/vnd.as207960.vas.tap+uper,
 application/vnd.astraea-software.iota,application,vnd.astraea-software.iota,http://www.iana.org/assignments/media-types/application/vnd.astraea-software.iota,iota
 application/vnd.audiograph,application,vnd.audiograph,http://www.iana.org/assignments/media-types/application/vnd.audiograph,aep
 application/vnd.autopackage,application,vnd.autopackage,http://www.iana.org/assignments/media-types/application/vnd.autopackage,
@@ -1066,6 +1072,7 @@ application/vnd.lotus-organizer,application,vnd.lotus-organizer,http://www.iana.
 application/vnd.lotus-screencam,application,vnd.lotus-screencam,http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam,scm
 application/vnd.lotus-wordpro,application,vnd.lotus-wordpro,http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro,lwp
 application/vnd.macports.portpkg,application,vnd.macports.portpkg,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg,portpkg
+application/vnd.maml,application,vnd.maml,http://www.iana.org/assignments/media-types/application/vnd.maml,
 application/vnd.mapbox-vector-tile,application,vnd.mapbox-vector-tile,http://www.iana.org/assignments/media-types/application/vnd.mapbox-vector-tile,
 application/vnd.marlin.drm.actiontoken+xml,application,vnd.marlin.drm.actiontoken+xml,http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken+xml,
 application/vnd.marlin.drm.conftoken+xml,application,vnd.marlin.drm.conftoken+xml,http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.conftoken+xml,
