@@ -4,6 +4,8 @@ application/3gpdash-qoe-report+xml,application,3gpdash-qoe-report+xml,http://www
 application/3gppHal+json,application,3gppHal+json,http://www.iana.org/assignments/media-types/application/3gppHal+json,
 application/3gppHalForms+json,application,3gppHalForms+json,http://www.iana.org/assignments/media-types/application/3gppHalForms+json,
 application/3gpp-ims+xml,application,3gpp-ims+xml,http://www.iana.org/assignments/media-types/application/3gpp-ims+xml,
+application/3gpp-mbs-object-manifest+json,application,3gpp-mbs-object-manifest+json,http://www.iana.org/assignments/media-types/application/3gpp-mbs-object-manifest+json,
+application/3gpp-mbs-user-service-descriptions+json,application,3gpp-mbs-user-service-descriptions+json,http://www.iana.org/assignments/media-types/application/3gpp-mbs-user-service-descriptions+json,
 application/A2L,application,A2L,http://www.iana.org/assignments/media-types/application/A2L,
 application/ace-groupcomm+cbor,application,ace-groupcomm+cbor,http://www.iana.org/assignments/media-types/application/ace-groupcomm+cbor,
 application/ace-trl+cbor,application,ace-trl+cbor,http://www.iana.org/assignments/media-types/application/ace-trl+cbor,
