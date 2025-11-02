@@ -870,6 +870,7 @@ application/vnd.exstream-package,application,vnd.exstream-package,http://www.ian
 application/vnd.ezpix-album,application,vnd.ezpix-album,http://www.iana.org/assignments/media-types/application/vnd.ezpix-album,ez2
 application/vnd.ezpix-package,application,vnd.ezpix-package,http://www.iana.org/assignments/media-types/application/vnd.ezpix-package,ez3
 application/vnd.f-secure.mobile,application,vnd.f-secure.mobile,http://www.iana.org/assignments/media-types/application/vnd.f-secure.mobile,
+application/vnd.faf+yaml,application,vnd.faf+yaml,http://www.iana.org/assignments/media-types/application/vnd.faf+yaml,
 application/vnd.fastcopy-disk-image,application,vnd.fastcopy-disk-image,http://www.iana.org/assignments/media-types/application/vnd.fastcopy-disk-image,
 application/vnd.familysearch.gedcom+zip,application,vnd.familysearch.gedcom+zip,http://www.iana.org/assignments/media-types/application/vnd.familysearch.gedcom+zip,
 application/vnd.fdsn.mseed,application,vnd.fdsn.mseed,http://www.iana.org/assignments/media-types/application/vnd.fdsn.mseed,mseed
