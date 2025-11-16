@@ -36,6 +36,8 @@ application/alto-updatestreamparams+json,application,alto-updatestreamparams+jso
 application/AML,application,AML,http://www.iana.org/assignments/media-types/application/AML,
 application/andrew-inset,application,andrew-inset,http://www.iana.org/assignments/media-types/application/andrew-inset,ez
 application/applefile,application,applefile,http://www.iana.org/assignments/media-types/application/applefile,
+application/asyncapi+json,application,asyncapi+json,http://www.iana.org/assignments/media-types/application/asyncapi+json,
+application/asyncapi+yaml,application,asyncapi+yaml,http://www.iana.org/assignments/media-types/application/asyncapi+yaml,
 application/at+jwt,application,at+jwt,http://www.iana.org/assignments/media-types/application/at+jwt,
 application/ATF,application,ATF,http://www.iana.org/assignments/media-types/application/ATF,
 application/ATFX,application,ATFX,http://www.iana.org/assignments/media-types/application/ATFX,
@@ -1506,7 +1508,7 @@ application/vnd.software602.filler.form-xml-zip,application,vnd.software602.fill
 application/vnd.solent.sdkm+xml,application,vnd.solent.sdkm+xml,http://www.iana.org/assignments/media-types/application/vnd.solent.sdkm+xml,sdkd
 application/vnd.spotfire.dxp,application,vnd.spotfire.dxp,http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp,dxp
 application/vnd.spotfire.sfs,application,vnd.spotfire.sfs,http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs,sfs
-application/vnd.sqlite3,application,vnd.sqlite3,http://www.iana.org/assignments/media-types/application/vnd.sqlite3,
+application/vnd.sqlite3,application,vnd.sqlite3,http://www.iana.org/assignments/media-types/application/vnd.sqlite3,sqlite3
 application/vnd.sss-cod,application,vnd.sss-cod,http://www.iana.org/assignments/media-types/application/vnd.sss-cod,
 application/vnd.sss-dtf,application,vnd.sss-dtf,http://www.iana.org/assignments/media-types/application/vnd.sss-dtf,
 application/vnd.sss-ntf,application,vnd.sss-ntf,http://www.iana.org/assignments/media-types/application/vnd.sss-ntf,
