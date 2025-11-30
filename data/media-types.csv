@@ -1884,10 +1884,10 @@ image/example,image,example,http://www.iana.org/assignments/media-types/image/ex
 image/fits,image,fits,http://www.iana.org/assignments/media-types/image/fits,
 image/g3fax,image,g3fax,http://www.iana.org/assignments/media-types/image/g3fax,g3
 image/gif,image,gif,http://www.iana.org/assignments/media-types/image/gif,gif
-image/heic,image,heic,http://www.iana.org/assignments/media-types/image/heic,
-image/heic-sequence,image,heic-sequence,http://www.iana.org/assignments/media-types/image/heic-sequence,
-image/heif,image,heif,http://www.iana.org/assignments/media-types/image/heif,
-image/heif-sequence,image,heif-sequence,http://www.iana.org/assignments/media-types/image/heif-sequence,
+image/heic,image,heic,http://www.iana.org/assignments/media-types/image/heic,heic
+image/heic-sequence,image,heic-sequence,http://www.iana.org/assignments/media-types/image/heic-sequence,heics
+image/heif,image,heif,http://www.iana.org/assignments/media-types/image/heif,heif
+image/heif-sequence,image,heif-sequence,http://www.iana.org/assignments/media-types/image/heif-sequence,heifs
 image/hej2k,image,hej2k,http://www.iana.org/assignments/media-types/image/hej2k,
 image/hsj2,image,hsj2 (OBSOLETE),http://www.iana.org/assignments/media-types/image/hsj2 (OBSOLETE),
 image/ief,image,ief,http://www.iana.org/assignments/media-types/image/ief,ief
