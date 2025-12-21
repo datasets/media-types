@@ -479,6 +479,7 @@ application/ST2110-41,application,ST2110-41,http://www.iana.org/assignments/medi
 application/stix+json,application,stix+json,http://www.iana.org/assignments/media-types/application/stix+json,
 application/stratum,application,stratum,http://www.iana.org/assignments/media-types/application/stratum,
 application/suit-envelope+cose,application,suit-envelope+cose,http://www.iana.org/assignments/media-types/application/suit-envelope+cose,
+application/suit-report+cose,application,suit-report+cose,http://www.iana.org/assignments/media-types/application/suit-report+cose,
 application/swid+cbor,application,swid+cbor,http://www.iana.org/assignments/media-types/application/swid+cbor,
 application/swid+xml,application,swid+xml,http://www.iana.org/assignments/media-types/application/swid+xml,
 application/tamp-apex-update,application,tamp-apex-update,http://www.iana.org/assignments/media-types/application/tamp-apex-update,
@@ -527,6 +528,7 @@ application/urc-uisocketdesc+xml,application,urc-uisocketdesc+xml,http://www.ian
 application/vc,application,vc,http://www.iana.org/assignments/media-types/application/vc,
 application/vc+cose,application,vc+cose,http://www.iana.org/assignments/media-types/application/vc+cose,
 application/vc+jwt,application,vc+jwt,http://www.iana.org/assignments/media-types/application/vc+jwt,
+application/vc+sd-jwt,application,vc+sd-jwt,http://www.iana.org/assignments/media-types/application/vc+sd-jwt,
 application/vcard+json,application,vcard+json,http://www.iana.org/assignments/media-types/application/vcard+json,
 application/vcard+xml,application,vcard+xml,http://www.iana.org/assignments/media-types/application/vcard+xml,
 application/vec+xml,application,vec+xml,http://www.iana.org/assignments/media-types/application/vec+xml,
@@ -1653,6 +1655,7 @@ application/voucher-jws+json,application,voucher-jws+json,http://www.iana.org/as
 application/vp,application,vp,http://www.iana.org/assignments/media-types/application/vp,
 application/vp+cose,application,vp+cose,http://www.iana.org/assignments/media-types/application/vp+cose,
 application/vp+jwt,application,vp+jwt,http://www.iana.org/assignments/media-types/application/vp+jwt,
+application/vp+sd-jwt,application,vp+sd-jwt,http://www.iana.org/assignments/media-types/application/vp+sd-jwt,
 application/vq-rtcpxr,application,vq-rtcpxr,http://www.iana.org/assignments/media-types/application/vq-rtcpxr,
 application/wasm,application,wasm,http://www.iana.org/assignments/media-types/application/wasm,wasm
 application/watcherinfo+xml,application,watcherinfo+xml,http://www.iana.org/assignments/media-types/application/watcherinfo+xml,
