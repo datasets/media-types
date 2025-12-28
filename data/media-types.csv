@@ -382,6 +382,7 @@ application/prs.mayfile,application,prs.mayfile,http://www.iana.org/assignments/
 application/prs.nprend,application,prs.nprend,http://www.iana.org/assignments/media-types/application/prs.nprend,
 application/prs.plucker,application,prs.plucker,http://www.iana.org/assignments/media-types/application/prs.plucker,
 application/prs.rdf-xml-crypt,application,prs.rdf-xml-crypt,http://www.iana.org/assignments/media-types/application/prs.rdf-xml-crypt,
+application/prs.sclt,application,prs.sclt,http://www.iana.org/assignments/media-types/application/prs.sclt,
 application/prs.vcfbzip2,application,prs.vcfbzip2,http://www.iana.org/assignments/media-types/application/prs.vcfbzip2,
 application/prs.xsf+xml,application,prs.xsf+xml,http://www.iana.org/assignments/media-types/application/prs.xsf+xml,
 application/pskc+xml,application,pskc+xml,http://www.iana.org/assignments/media-types/application/pskc+xml,pskcxml
@@ -1558,7 +1559,10 @@ application/vnd.trueapp,application,vnd.trueapp,http://www.iana.org/assignments/
 application/vnd.truedoc,application,vnd.truedoc,http://www.iana.org/assignments/media-types/application/vnd.truedoc,
 application/vnd.ubisoft.webplayer,application,vnd.ubisoft.webplayer,http://www.iana.org/assignments/media-types/application/vnd.ubisoft.webplayer,
 application/vnd.ufdl,application,vnd.ufdl,http://www.iana.org/assignments/media-types/application/vnd.ufdl,ufdl
+application/vnd.uic.dosipas.v1,application,vnd.uic.dosipas.v1,http://www.iana.org/assignments/media-types/application/vnd.uic.dosipas.v1,
+application/vnd.uic.dosipas.v2,application,vnd.uic.dosipas.v2,http://www.iana.org/assignments/media-types/application/vnd.uic.dosipas.v2,
 application/vnd.uic.osdm+json,application,vnd.uic.osdm+json,http://www.iana.org/assignments/media-types/application/vnd.uic.osdm+json,
+application/vnd.uic.tlb-fcb,application,vnd.uic.tlb-fcb,http://www.iana.org/assignments/media-types/application/vnd.uic.tlb-fcb,
 application/vnd.uiq.theme,application,vnd.uiq.theme,http://www.iana.org/assignments/media-types/application/vnd.uiq.theme,utz
 application/vnd.umajin,application,vnd.umajin,http://www.iana.org/assignments/media-types/application/vnd.umajin,umj
 application/vnd.unity,application,vnd.unity,http://www.iana.org/assignments/media-types/application/vnd.unity,unityweb
