@@ -1629,6 +1629,7 @@ application/vnd.wv.ssp+xml,application,vnd.wv.ssp+xml,http://www.iana.org/assign
 application/vnd.xacml+json,application,vnd.xacml+json,http://www.iana.org/assignments/media-types/application/vnd.xacml+json,
 application/vnd.xara,application,vnd.xara,http://www.iana.org/assignments/media-types/application/vnd.xara,xar
 application/vnd.xarin.cpj,application,vnd.xarin.cpj,http://www.iana.org/assignments/media-types/application/vnd.xarin.cpj,
+application/vnd.xcdn,application,vnd.xcdn,http://www.iana.org/assignments/media-types/application/vnd.xcdn,
 application/vnd.xecrets-encrypted,application,vnd.xecrets-encrypted,http://www.iana.org/assignments/media-types/application/vnd.xecrets-encrypted,
 application/vnd.xfdl,application,vnd.xfdl,http://www.iana.org/assignments/media-types/application/vnd.xfdl,xfdl
 application/vnd.xfdl.webform,application,vnd.xfdl.webform,http://www.iana.org/assignments/media-types/application/vnd.xfdl.webform,
