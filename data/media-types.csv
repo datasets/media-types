@@ -406,7 +406,7 @@ application/riscos,application,riscos,http://www.iana.org/assignments/media-type
 application/rlmi+xml,application,rlmi+xml,http://www.iana.org/assignments/media-types/application/rlmi+xml,
 application/rls-services+xml,application,rls-services+xml,http://www.iana.org/assignments/media-types/application/rls-services+xml,rs
 application/rpki-checklist,application,rpki-checklist,http://www.iana.org/assignments/media-types/application/rpki-checklist,
-application/rpki-ghostbusters,application,rpki-ghostbusters,http://www.iana.org/assignments/media-types/application/rpki-ghostbusters,gbr
+application/rpki-ghostbusters,application,rpki-ghostbusters (DEPRECATED),http://www.iana.org/assignments/media-types/application/rpki-ghostbusters (DEPRECATED),gbr
 application/rpki-manifest,application,rpki-manifest,http://www.iana.org/assignments/media-types/application/rpki-manifest,mft
 application/rpki-publication,application,rpki-publication,http://www.iana.org/assignments/media-types/application/rpki-publication,
 application/rpki-roa,application,rpki-roa,http://www.iana.org/assignments/media-types/application/rpki-roa,roa
