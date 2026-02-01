@@ -651,6 +651,7 @@ application/vnd.afpc.modca-pagesegment,application,vnd.afpc.modca-pagesegment,ht
 application/vnd.age,application,vnd.age,http://www.iana.org/assignments/media-types/application/vnd.age,
 application/vnd.ah-barcode,application,vnd.ah-barcode,http://www.iana.org/assignments/media-types/application/vnd.ah-barcode,
 application/vnd.ahead.space,application,vnd.ahead.space,http://www.iana.org/assignments/media-types/application/vnd.ahead.space,ahead
+application/vnd.aia,application,vnd.aia,http://www.iana.org/assignments/media-types/application/vnd.aia,
 application/vnd.airzip.filesecure.azf,application,vnd.airzip.filesecure.azf,http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azf,azf
 application/vnd.airzip.filesecure.azs,application,vnd.airzip.filesecure.azs,http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azs,azs
 application/vnd.amadeus+json,application,vnd.amadeus+json,http://www.iana.org/assignments/media-types/application/vnd.amadeus+json,
@@ -1652,6 +1653,7 @@ application/vnd.yamaha.tunnel-udpencap,application,vnd.yamaha.tunnel-udpencap,ht
 application/vnd.yaoweme,application,vnd.yaoweme,http://www.iana.org/assignments/media-types/application/vnd.yaoweme,
 application/vnd.yellowriver-custom-menu,application,vnd.yellowriver-custom-menu,http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu,cmp
 application/vnd.youtube.yt,application,vnd.youtube.yt (OBSOLETED in favor of video/vnd.youtube.yt),http://www.iana.org/assignments/media-types/application/vnd.youtube.yt (OBSOLETED in favor of video/vnd.youtube.yt),
+application/vnd.zoho-presentation.show,application,vnd.zoho-presentation.show,http://www.iana.org/assignments/media-types/application/vnd.zoho-presentation.show,
 application/vnd.zul,application,vnd.zul,http://www.iana.org/assignments/media-types/application/vnd.zul,zirz
 application/vnd.zzazz.deck+xml,application,vnd.zzazz.deck+xml,http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck+xml,zaz
 application/voicexml+xml,application,voicexml+xml,http://www.iana.org/assignments/media-types/application/voicexml+xml,vxml
