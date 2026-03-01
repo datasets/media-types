@@ -175,6 +175,7 @@ application/eshop,application,eshop,http://www.iana.org/assignments/media-types/
 application/example,application,example,http://www.iana.org/assignments/media-types/application/example,
 application/exi,application,exi,http://www.iana.org/assignments/media-types/application/exi,exi
 application/expect-ct-report+json,application,expect-ct-report+json,http://www.iana.org/assignments/media-types/application/expect-ct-report+json,
+application/explicit-registration-response+jwt,application,explicit-registration-response+jwt,http://www.iana.org/assignments/media-types/application/explicit-registration-response+jwt,
 application/express,application,express,http://www.iana.org/assignments/media-types/application/express,
 application/fastinfoset,application,fastinfoset,http://www.iana.org/assignments/media-types/application/fastinfoset,
 application/fastsoap,application,fastsoap,http://www.iana.org/assignments/media-types/application/fastsoap,
@@ -278,6 +279,8 @@ application/mbms-register+xml,application,mbms-register+xml,http://www.iana.org/
 application/mbms-schedule+xml,application,mbms-schedule+xml,http://www.iana.org/assignments/media-types/application/mbms-schedule+xml,
 application/mbms-user-service-description+xml,application,mbms-user-service-description+xml,http://www.iana.org/assignments/media-types/application/mbms-user-service-description+xml,
 application/mbox,application,mbox,http://www.iana.org/assignments/media-types/application/mbox,mbox
+application/measured-component+cbor,application,measured-component+cbor,http://www.iana.org/assignments/media-types/application/measured-component+cbor,
+application/measured-component+json,application,measured-component+json,http://www.iana.org/assignments/media-types/application/measured-component+json,
 application/media_control+xml,application,media_control+xml,http://www.iana.org/assignments/media-types/application/media_control+xml,
 application/media-policy-dataset+xml,application,media-policy-dataset+xml,http://www.iana.org/assignments/media-types/application/media-policy-dataset+xml,
 application/mediaservercontrol+xml,application,mediaservercontrol+xml,http://www.iana.org/assignments/media-types/application/mediaservercontrol+xml,mscml
@@ -516,6 +519,7 @@ application/trig,application,trig,http://www.iana.org/assignments/media-types/ap
 application/trust-chain+json,application,trust-chain+json,http://www.iana.org/assignments/media-types/application/trust-chain+json,
 application/trust-mark+jwt,application,trust-mark+jwt,http://www.iana.org/assignments/media-types/application/trust-mark+jwt,
 application/trust-mark-delegation+jwt,application,trust-mark-delegation+jwt,http://www.iana.org/assignments/media-types/application/trust-mark-delegation+jwt,
+application/trust-mark-status-response+jwt,application,trust-mark-status-response+jwt,http://www.iana.org/assignments/media-types/application/trust-mark-status-response+jwt,
 application/ttml+xml,application,ttml+xml,http://www.iana.org/assignments/media-types/application/ttml+xml,
 application/tve-trigger,application,tve-trigger,http://www.iana.org/assignments/media-types/application/tve-trigger,
 application/tzif,application,tzif,http://www.iana.org/assignments/media-types/application/tzif,
