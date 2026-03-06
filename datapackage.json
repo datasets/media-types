@@ -19,7 +19,8 @@
   "resources": [
     {
       "name": "media-types",
-      "path": "media-types.csv",
+      "path": "data/media-types.csv",
+      "format": "csv",
       "mediatype": "text/csv",
       "bytes": 207474,
       "schema": {
