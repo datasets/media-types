@@ -373,6 +373,7 @@ application/protobuf+json,application,protobuf+json,http://www.iana.org/assignme
 application/provenance+xml,application,provenance+xml,http://www.iana.org/assignments/media-types/application/provenance+xml,
 application/provided-claims+jwt,application,provided-claims+jwt,http://www.iana.org/assignments/media-types/application/provided-claims+jwt,
 application/prs.alvestrand.titrax-sheet,application,prs.alvestrand.titrax-sheet,http://www.iana.org/assignments/media-types/application/prs.alvestrand.titrax-sheet,
+application/prs.bwtc32key,application,prs.bwtc32key,http://www.iana.org/assignments/media-types/application/prs.bwtc32key,
 application/prs.cww,application,prs.cww,http://www.iana.org/assignments/media-types/application/prs.cww,cww
 application/prs.cyn,application,prs.cyn,http://www.iana.org/assignments/media-types/application/prs.cyn,
 application/prs.hpub+zip,application,prs.hpub+zip,http://www.iana.org/assignments/media-types/application/prs.hpub+zip,
@@ -500,6 +501,7 @@ application/tamp-update,application,tamp-update,http://www.iana.org/assignments/
 application/tamp-update-confirm,application,tamp-update-confirm,http://www.iana.org/assignments/media-types/application/tamp-update-confirm,
 application/taxii+json,application,taxii+json,http://www.iana.org/assignments/media-types/application/taxii+json,
 application/td+json,application,td+json,http://www.iana.org/assignments/media-types/application/td+json,
+application/teep+cbor,application,teep+cbor,http://www.iana.org/assignments/media-types/application/teep+cbor,
 application/tei+xml,application,tei+xml,http://www.iana.org/assignments/media-types/application/tei+xml,teicorpus
 application/TETRA_ISI,application,TETRA_ISI,http://www.iana.org/assignments/media-types/application/TETRA_ISI,
 application/texinfo,application,texinfo,http://www.iana.org/assignments/media-types/application/texinfo,
@@ -797,6 +799,7 @@ application/vnd.dece.unspecified,application,vnd.dece.unspecified,http://www.ian
 application/vnd.dece.zip,application,vnd.dece.zip,http://www.iana.org/assignments/media-types/application/vnd.dece.zip,uvvz
 application/vnd.denovo.fcselayout-link,application,vnd.denovo.fcselayout-link,http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link,fe_launch
 application/vnd.desmume.movie,application,vnd.desmume.movie,http://www.iana.org/assignments/media-types/application/vnd.desmume.movie,
+application/vnd.deut+json,application,vnd.deut+json,http://www.iana.org/assignments/media-types/application/vnd.deut+json,
 application/vnd.dir-bi.plate-dl-nosuffix,application,vnd.dir-bi.plate-dl-nosuffix,http://www.iana.org/assignments/media-types/application/vnd.dir-bi.plate-dl-nosuffix,
 application/vnd.dm.delegation+xml,application,vnd.dm.delegation+xml,http://www.iana.org/assignments/media-types/application/vnd.dm.delegation+xml,
 application/vnd.dna,application,vnd.dna,http://www.iana.org/assignments/media-types/application/vnd.dna,dna
@@ -980,6 +983,8 @@ application/vnd.HandHeld-Entertainment+xml,application,vnd.HandHeld-Entertainmen
 application/vnd.hbci,application,vnd.hbci,http://www.iana.org/assignments/media-types/application/vnd.hbci,hbci
 application/vnd.hc+json,application,vnd.hc+json,http://www.iana.org/assignments/media-types/application/vnd.hc+json,
 application/vnd.hcl-bireports,application,vnd.hcl-bireports,http://www.iana.org/assignments/media-types/application/vnd.hcl-bireports,
+application/vnd.hdfgroup.hdf4,application,vnd.hdfgroup.hdf4,http://www.iana.org/assignments/media-types/application/vnd.hdfgroup.hdf4,
+application/vnd.hdfgroup.hdf5,application,vnd.hdfgroup.hdf5,http://www.iana.org/assignments/media-types/application/vnd.hdfgroup.hdf5,
 application/vnd.hdt,application,vnd.hdt,http://www.iana.org/assignments/media-types/application/vnd.hdt,
 application/vnd.heroku+json,application,vnd.heroku+json,http://www.iana.org/assignments/media-types/application/vnd.heroku+json,
 application/vnd.hhe.lesson-player,application,vnd.hhe.lesson-player,http://www.iana.org/assignments/media-types/application/vnd.hhe.lesson-player,les
