@@ -393,6 +393,8 @@ application/prs.xsf+xml,application,prs.xsf+xml,http://www.iana.org/assignments/
 application/pskc+xml,application,pskc+xml,http://www.iana.org/assignments/media-types/application/pskc+xml,pskcxml
 application/pvd+json,application,pvd+json,http://www.iana.org/assignments/media-types/application/pvd+json,
 application/rdf+xml,application,rdf+xml,http://www.iana.org/assignments/media-types/application/rdf+xml,rdf
+application/roughtime-malfeasance+json,application,roughtime-malfeasance+json,http://www.iana.org/assignments/media-types/application/roughtime-malfeasance+json,
+application/roughtime-server+json,application,roughtime-server+json,http://www.iana.org/assignments/media-types/application/roughtime-server+json,
 application/route-apd+xml,application,route-apd+xml,http://www.iana.org/assignments/media-types/application/route-apd+xml,
 application/route-s-tsid+xml,application,route-s-tsid+xml,http://www.iana.org/assignments/media-types/application/route-s-tsid+xml,
 application/route-usd+xml,application,route-usd+xml,http://www.iana.org/assignments/media-types/application/route-usd+xml,
@@ -580,6 +582,7 @@ application/vnd.3gpp.mcptt-signed+xml,application,vnd.3gpp.mcptt-signed+xml,http
 application/vnd.3gpp.mcptt-ue-config+xml,application,vnd.3gpp.mcptt-ue-config+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcptt-ue-config+xml,
 application/vnd.3gpp.mcptt-ue-init-config+xml,application,vnd.3gpp.mcptt-ue-init-config+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcptt-ue-init-config+xml,
 application/vnd.3gpp.mcptt-user-profile+xml,application,vnd.3gpp.mcptt-user-profile+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcptt-user-profile+xml,
+application/vnd.3gpp.mcs-location-user-config+xml,application,vnd.3gpp.mcs-location-user-config+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcs-location-user-config+xml,
 application/vnd.3gpp.mcvideo-affiliation-command+xml,application,vnd.3gpp.mcvideo-affiliation-command+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcvideo-affiliation-command+xml,
 application/vnd.3gpp.mcvideo-affiliation-info+xml,application,vnd.3gpp.mcvideo-affiliation-info+xml (OBSOLETED in favor of application/vnd.3gpp.mcvideo-info+xml),http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcvideo-affiliation-info+xml (OBSOLETED in favor of application/vnd.3gpp.mcvideo-info+xml),
 application/vnd.3gpp.mcvideo-info+xml,application,vnd.3gpp.mcvideo-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.mcvideo-info+xml,
@@ -1664,7 +1667,9 @@ application/vnd.yamaha.tunnel-udpencap,application,vnd.yamaha.tunnel-udpencap,ht
 application/vnd.yaoweme,application,vnd.yaoweme,http://www.iana.org/assignments/media-types/application/vnd.yaoweme,
 application/vnd.yellowriver-custom-menu,application,vnd.yellowriver-custom-menu,http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu,cmp
 application/vnd.youtube.yt,application,vnd.youtube.yt (OBSOLETED in favor of video/vnd.youtube.yt),http://www.iana.org/assignments/media-types/application/vnd.youtube.yt (OBSOLETED in favor of video/vnd.youtube.yt),
+application/vnd.zoho-document.writer,application,vnd.zoho-document.writer,http://www.iana.org/assignments/media-types/application/vnd.zoho-document.writer,
 application/vnd.zoho-presentation.show,application,vnd.zoho-presentation.show,http://www.iana.org/assignments/media-types/application/vnd.zoho-presentation.show,
+application/vnd.zoho.spreadsheetml.sheet,application,vnd.zoho.spreadsheetml.sheet,http://www.iana.org/assignments/media-types/application/vnd.zoho.spreadsheetml.sheet,
 application/vnd.zul,application,vnd.zul,http://www.iana.org/assignments/media-types/application/vnd.zul,zirz
 application/vnd.zzazz.deck+xml,application,vnd.zzazz.deck+xml,http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck+xml,zaz
 application/voicexml+xml,application,voicexml+xml,http://www.iana.org/assignments/media-types/application/voicexml+xml,vxml
