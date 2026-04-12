@@ -743,6 +743,9 @@ application/vnd.cloanto.rp9,application,vnd.cloanto.rp9,http://www.iana.org/assi
 application/vnd.clonk.c4group,application,vnd.clonk.c4group,http://www.iana.org/assignments/media-types/application/vnd.clonk.c4group,c4u
 application/vnd.cluetrust.cartomobile-config,application,vnd.cluetrust.cartomobile-config,http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config,c11amc
 application/vnd.cluetrust.cartomobile-config-pkg,application,vnd.cluetrust.cartomobile-config-pkg,http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config-pkg,c11amz
+application/vnd.cmmf-configuration-information+json,application,vnd.cmmf-configuration-information+json,http://www.iana.org/assignments/media-types/application/vnd.cmmf-configuration-information+json,
+application/vnd.cmmf-efd+xml,application,vnd.cmmf-efd+xml,http://www.iana.org/assignments/media-types/application/vnd.cmmf-efd+xml,
+application/vnd.cmmf-encoder-configuration+json,application,vnd.cmmf-encoder-configuration+json,http://www.iana.org/assignments/media-types/application/vnd.cmmf-encoder-configuration+json,
 application/vnd.cncf.helm.chart.content.v1.tar+gzip,application,vnd.cncf.helm.chart.content.v1.tar+gzip,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.chart.content.v1.tar+gzip,
 application/vnd.cncf.helm.chart.provenance.v1.prov,application,vnd.cncf.helm.chart.provenance.v1.prov,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.chart.provenance.v1.prov,
 application/vnd.cncf.helm.config.v1+json,application,vnd.cncf.helm.config.v1+json,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.config.v1+json,
@@ -841,6 +844,7 @@ application/vnd.dynageo,application,vnd.dynageo,http://www.iana.org/assignments/
 application/vnd.dzr,application,vnd.dzr,http://www.iana.org/assignments/media-types/application/vnd.dzr,
 application/vnd.easykaraoke.cdgdownload,application,vnd.easykaraoke.cdgdownload,http://www.iana.org/assignments/media-types/application/vnd.easykaraoke.cdgdownload,
 application/vnd.ecip.rlp,application,vnd.ecip.rlp,http://www.iana.org/assignments/media-types/application/vnd.ecip.rlp,
+application/vnd.edulith.edux+json,application,vnd.edulith.edux+json,http://www.iana.org/assignments/media-types/application/vnd.edulith.edux+json,
 application/vnd.ecdis-update,application,vnd.ecdis-update,http://www.iana.org/assignments/media-types/application/vnd.ecdis-update,
 application/vnd.eclipse.ditto+json,application,vnd.eclipse.ditto+json,http://www.iana.org/assignments/media-types/application/vnd.eclipse.ditto+json,
 application/vnd.ecowin.chart,application,vnd.ecowin.chart,http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart,mag
@@ -970,6 +974,7 @@ application/vnd.google-earth.kmz,application,vnd.google-earth.kmz,http://www.ian
 application/vnd.gov.sk.e-form+xml,application,vnd.gov.sk.e-form+xml (OBSOLETED by request),http://www.iana.org/assignments/media-types/application/vnd.gov.sk.e-form+xml (OBSOLETED by request),
 application/vnd.gov.sk.e-form+zip,application,vnd.gov.sk.e-form+zip,http://www.iana.org/assignments/media-types/application/vnd.gov.sk.e-form+zip,
 application/vnd.gov.sk.xmldatacontainer+xml,application,vnd.gov.sk.xmldatacontainer+xml,http://www.iana.org/assignments/media-types/application/vnd.gov.sk.xmldatacontainer+xml,
+application/vnd.gp3,application,vnd.gp3,http://www.iana.org/assignments/media-types/application/vnd.gp3,
 application/vnd.gpxsee.map+xml,application,vnd.gpxsee.map+xml,http://www.iana.org/assignments/media-types/application/vnd.gpxsee.map+xml,
 application/vnd.grafeq,application,vnd.grafeq,http://www.iana.org/assignments/media-types/application/vnd.grafeq,gqs
 application/vnd.gridmp,application,vnd.gridmp,http://www.iana.org/assignments/media-types/application/vnd.gridmp,
@@ -1104,6 +1109,7 @@ application/vnd.lotus-organizer,application,vnd.lotus-organizer,http://www.iana.
 application/vnd.lotus-screencam,application,vnd.lotus-screencam,http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam,scm
 application/vnd.lotus-wordpro,application,vnd.lotus-wordpro,http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro,lwp
 application/vnd.macports.portpkg,application,vnd.macports.portpkg,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg,portpkg
+application/vnd.majikah.bundle,application,vnd.majikah.bundle,http://www.iana.org/assignments/media-types/application/vnd.majikah.bundle,
 application/vnd.maml,application,vnd.maml,http://www.iana.org/assignments/media-types/application/vnd.maml,
 application/vnd.mapbox-vector-tile,application,vnd.mapbox-vector-tile,http://www.iana.org/assignments/media-types/application/vnd.mapbox-vector-tile,
 application/vnd.marlin.drm.actiontoken+xml,application,vnd.marlin.drm.actiontoken+xml,http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken+xml,
@@ -1432,6 +1438,7 @@ application/vnd.pawaafile,application,vnd.pawaafile,http://www.iana.org/assignme
 application/vnd.pcos,application,vnd.pcos,http://www.iana.org/assignments/media-types/application/vnd.pcos,
 application/vnd.pg.format,application,vnd.pg.format,http://www.iana.org/assignments/media-types/application/vnd.pg.format,str
 application/vnd.pg.osasli,application,vnd.pg.osasli,http://www.iana.org/assignments/media-types/application/vnd.pg.osasli,ei6
+application/vnd.phbk+xml,application,vnd.phbk+xml,http://www.iana.org/assignments/media-types/application/vnd.phbk+xml,
 application/vnd.piaccess.application-licence,application,vnd.piaccess.application-licence,http://www.iana.org/assignments/media-types/application/vnd.piaccess.application-licence,
 application/vnd.picsel,application,vnd.picsel,http://www.iana.org/assignments/media-types/application/vnd.picsel,efif
 application/vnd.pmi.widget,application,vnd.pmi.widget,http://www.iana.org/assignments/media-types/application/vnd.pmi.widget,wg
@@ -2158,6 +2165,7 @@ text/vnd.senx.warpscript,text,vnd.senx.warpscript,http://www.iana.org/assignment
 text/vnd.si.uricatalogue,text,vnd.si.uricatalogue (OBSOLETED by request),http://www.iana.org/assignments/media-types/text/vnd.si.uricatalogue (OBSOLETED by request),
 text/vnd.sun.j2me.app-descriptor,text,vnd.sun.j2me.app-descriptor,http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor,jad
 text/vnd.sosi,text,vnd.sosi,http://www.iana.org/assignments/media-types/text/vnd.sosi,
+text/vnd.tps,text,vnd.tps,http://www.iana.org/assignments/media-types/text/vnd.tps,
 text/vnd.typst,text,vnd.typst,http://www.iana.org/assignments/media-types/text/vnd.typst,
 text/vnd.trolltech.linguist,text,vnd.trolltech.linguist,http://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist,
 text/vnd.vcf,text,vnd.vcf,http://www.iana.org/assignments/media-types/text/vnd.vcf,
