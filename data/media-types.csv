@@ -490,6 +490,7 @@ application/suit-envelope+cose,application,suit-envelope+cose,http://www.iana.or
 application/suit-report+cose,application,suit-report+cose,http://www.iana.org/assignments/media-types/application/suit-report+cose,
 application/swid+cbor,application,swid+cbor,http://www.iana.org/assignments/media-types/application/swid+cbor,
 application/swid+xml,application,swid+xml,http://www.iana.org/assignments/media-types/application/swid+xml,
+application/syslog-msg,application,syslog-msg,http://www.iana.org/assignments/media-types/application/syslog-msg,
 application/tamp-apex-update,application,tamp-apex-update,http://www.iana.org/assignments/media-types/application/tamp-apex-update,
 application/tamp-apex-update-confirm,application,tamp-apex-update-confirm,http://www.iana.org/assignments/media-types/application/tamp-apex-update-confirm,
 application/tamp-community-update,application,tamp-community-update,http://www.iana.org/assignments/media-types/application/tamp-community-update,
@@ -916,6 +917,7 @@ application/vnd.firemonkeys.cloudcell,application,vnd.firemonkeys.cloudcell,http
 application/vnd.FloGraphIt,application,vnd.FloGraphIt,http://www.iana.org/assignments/media-types/application/vnd.FloGraphIt,
 application/vnd.fluxtime.clip,application,vnd.fluxtime.clip,http://www.iana.org/assignments/media-types/application/vnd.fluxtime.clip,ftc
 application/vnd.font-fontforge-sfd,application,vnd.font-fontforge-sfd,http://www.iana.org/assignments/media-types/application/vnd.font-fontforge-sfd,
+application/vnd.foritech.container,application,vnd.foritech.container,http://www.iana.org/assignments/media-types/application/vnd.foritech.container,
 application/vnd.framemaker,application,vnd.framemaker,http://www.iana.org/assignments/media-types/application/vnd.framemaker,book
 application/vnd.freelog.comic,application,vnd.freelog.comic,http://www.iana.org/assignments/media-types/application/vnd.freelog.comic,
 application/vnd.frogans.fnc,application,vnd.frogans.fnc (OBSOLETE),http://www.iana.org/assignments/media-types/application/vnd.frogans.fnc (OBSOLETE),fnc
@@ -1489,6 +1491,7 @@ application/vnd.rar,application,vnd.rar,http://www.iana.org/assignments/media-ty
 application/vnd.realvnc.bed,application,vnd.realvnc.bed,http://www.iana.org/assignments/media-types/application/vnd.realvnc.bed,bed
 application/vnd.recordare.musicxml,application,vnd.recordare.musicxml,http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml,mxl
 application/vnd.recordare.musicxml+xml,application,vnd.recordare.musicxml+xml,http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml+xml,musicxml
+application/vnd.rego,application,vnd.rego,http://www.iana.org/assignments/media-types/application/vnd.rego,
 application/vnd.relpipe,application,vnd.relpipe,http://www.iana.org/assignments/media-types/application/vnd.relpipe,
 application/vnd.RenLearn.rlprint,application,vnd.RenLearn.rlprint,http://www.iana.org/assignments/media-types/application/vnd.RenLearn.rlprint,
 application/vnd.resilient.logic,application,vnd.resilient.logic,http://www.iana.org/assignments/media-types/application/vnd.resilient.logic,
@@ -1544,6 +1547,7 @@ application/vnd.solent.sdkm+xml,application,vnd.solent.sdkm+xml,http://www.iana.
 application/vnd.spotfire.dxp,application,vnd.spotfire.dxp,http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp,dxp
 application/vnd.spotfire.sfs,application,vnd.spotfire.sfs,http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs,sfs
 application/vnd.sqlite3,application,vnd.sqlite3,http://www.iana.org/assignments/media-types/application/vnd.sqlite3,sqlite3
+application/vnd.sri,application,vnd.sri,http://www.iana.org/assignments/media-types/application/vnd.sri,
 application/vnd.sss-cod,application,vnd.sss-cod,http://www.iana.org/assignments/media-types/application/vnd.sss-cod,
 application/vnd.sss-dtf,application,vnd.sss-dtf,http://www.iana.org/assignments/media-types/application/vnd.sss-dtf,
 application/vnd.sss-ntf,application,vnd.sss-ntf,http://www.iana.org/assignments/media-types/application/vnd.sss-ntf,
@@ -1613,6 +1617,7 @@ application/vnd.veraison.tsm-report+json,application,vnd.veraison.tsm-report+jso
 application/vnd.verifier-attestation+jwt,application,vnd.verifier-attestation+jwt,http://www.iana.org/assignments/media-types/application/vnd.verifier-attestation+jwt,
 application/vnd.verimatrix.vcas,application,vnd.verimatrix.vcas,http://www.iana.org/assignments/media-types/application/vnd.verimatrix.vcas,
 application/vnd.veritone.aion+json,application,vnd.veritone.aion+json,http://www.iana.org/assignments/media-types/application/vnd.veritone.aion+json,
+application/vnd.vertifile.pvf,application,vnd.vertifile.pvf,http://www.iana.org/assignments/media-types/application/vnd.vertifile.pvf,
 application/vnd.veryant.thin,application,vnd.veryant.thin,http://www.iana.org/assignments/media-types/application/vnd.veryant.thin,
 application/vnd.ves.encrypted,application,vnd.ves.encrypted,http://www.iana.org/assignments/media-types/application/vnd.ves.encrypted,
 application/vnd.vidsoft.vidconference,application,vnd.vidsoft.vidconference,http://www.iana.org/assignments/media-types/application/vnd.vidsoft.vidconference,
@@ -1983,6 +1988,7 @@ image/vnd.pco.b16,image,vnd.pco.b16,http://www.iana.org/assignments/media-types/
 image/vnd.radiance,image,vnd.radiance,http://www.iana.org/assignments/media-types/image/vnd.radiance,
 image/vnd.sealed.png,image,vnd.sealed.png,http://www.iana.org/assignments/media-types/image/vnd.sealed.png,
 image/vnd.sealedmedia.softseal.gif,image,vnd.sealedmedia.softseal.gif,http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal.gif,
+image/vnd.sld,image,vnd.sld,http://www.iana.org/assignments/media-types/image/vnd.sld,
 image/vnd.sealedmedia.softseal.jpg,image,vnd.sealedmedia.softseal.jpg,http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal.jpg,
 image/vnd.svf,image,vnd.svf,http://www.iana.org/assignments/media-types/image/vnd.svf,
 image/vnd.tencent.tap,image,vnd.tencent.tap,http://www.iana.org/assignments/media-types/image/vnd.tencent.tap,
@@ -2157,6 +2163,7 @@ text/vnd.in3d.spot,text,vnd.in3d.spot,http://www.iana.org/assignments/media-type
 text/vnd.IPTC.NewsML,text,vnd.IPTC.NewsML,http://www.iana.org/assignments/media-types/text/vnd.IPTC.NewsML,
 text/vnd.IPTC.NITF,text,vnd.IPTC.NITF,http://www.iana.org/assignments/media-types/text/vnd.IPTC.NITF,
 text/vnd.latex-z,text,vnd.latex-z,http://www.iana.org/assignments/media-types/text/vnd.latex-z,
+text/vnd.longform,text,vnd.longform,http://www.iana.org/assignments/media-types/text/vnd.longform,
 text/vnd.motorola.reflex,text,vnd.motorola.reflex,http://www.iana.org/assignments/media-types/text/vnd.motorola.reflex,
 text/vnd.ms-mediapackage,text,vnd.ms-mediapackage,http://www.iana.org/assignments/media-types/text/vnd.ms-mediapackage,
 text/vnd.net2phone.commcenter.command,text,vnd.net2phone.commcenter.command,http://www.iana.org/assignments/media-types/text/vnd.net2phone.commcenter.command,
@@ -2169,6 +2176,7 @@ text/vnd.tps,text,vnd.tps,http://www.iana.org/assignments/media-types/text/vnd.t
 text/vnd.typst,text,vnd.typst,http://www.iana.org/assignments/media-types/text/vnd.typst,
 text/vnd.trolltech.linguist,text,vnd.trolltech.linguist,http://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist,
 text/vnd.vcf,text,vnd.vcf,http://www.iana.org/assignments/media-types/text/vnd.vcf,
+text/vnd.vri,text,vnd.vri,http://www.iana.org/assignments/media-types/text/vnd.vri,
 text/vnd.wap.si,text,vnd.wap.si,http://www.iana.org/assignments/media-types/text/vnd.wap.si,
 text/vnd.wap.sl,text,vnd.wap.sl,http://www.iana.org/assignments/media-types/text/vnd.wap.sl,
 text/vnd.wap.wml,text,vnd.wap.wml,http://www.iana.org/assignments/media-types/text/vnd.wap.wml,wml
