@@ -89,6 +89,7 @@ application/cid,application,cid,http://www.iana.org/assignments/media-types/appl
 application/cid-edhoc+cbor-seq,application,cid-edhoc+cbor-seq,http://www.iana.org/assignments/media-types/application/cid-edhoc+cbor-seq,
 application/city+json,application,city+json,http://www.iana.org/assignments/media-types/application/city+json,
 application/city+json-seq,application,city+json-seq,http://www.iana.org/assignments/media-types/application/city+json-seq,
+application/client-authentication+jwt,application,client-authentication+jwt,http://www.iana.org/assignments/media-types/application/client-authentication+jwt,
 application/clr,application,clr,http://www.iana.org/assignments/media-types/application/clr,
 application/clue_info+xml,application,clue_info+xml,http://www.iana.org/assignments/media-types/application/clue_info+xml,
 application/clue+xml,application,clue+xml,http://www.iana.org/assignments/media-types/application/clue+xml,
