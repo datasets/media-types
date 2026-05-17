@@ -90,9 +90,12 @@ application/cid-edhoc+cbor-seq,application,cid-edhoc+cbor-seq,http://www.iana.or
 application/city+json,application,city+json,http://www.iana.org/assignments/media-types/application/city+json,
 application/city+json-seq,application,city+json-seq,http://www.iana.org/assignments/media-types/application/city+json-seq,
 application/client-authentication+jwt,application,client-authentication+jwt,http://www.iana.org/assignments/media-types/application/client-authentication+jwt,
+application/cloudevents-batch+json,application,cloudevents-batch+json,http://www.iana.org/assignments/media-types/application/cloudevents-batch+json,
+application/cloudevents+json,application,cloudevents+json,http://www.iana.org/assignments/media-types/application/cloudevents+json,
 application/clr,application,clr,http://www.iana.org/assignments/media-types/application/clr,
 application/clue_info+xml,application,clue_info+xml,http://www.iana.org/assignments/media-types/application/clue_info+xml,
 application/clue+xml,application,clue+xml,http://www.iana.org/assignments/media-types/application/clue+xml,
+application/cmcd,application,cmcd,http://www.iana.org/assignments/media-types/application/cmcd,
 application/cms,application,cms,http://www.iana.org/assignments/media-types/application/cms,
 application/cmw+cbor,application,cmw+cbor,http://www.iana.org/assignments/media-types/application/cmw+cbor,
 application/cmw+cose,application,cmw+cose,http://www.iana.org/assignments/media-types/application/cmw+cose,
@@ -808,6 +811,7 @@ application/vnd.dece.zip,application,vnd.dece.zip,http://www.iana.org/assignment
 application/vnd.denovo.fcselayout-link,application,vnd.denovo.fcselayout-link,http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link,fe_launch
 application/vnd.desmume.movie,application,vnd.desmume.movie,http://www.iana.org/assignments/media-types/application/vnd.desmume.movie,
 application/vnd.deut+json,application,vnd.deut+json,http://www.iana.org/assignments/media-types/application/vnd.deut+json,
+application/vnd.digitalstack.document+zip,application,vnd.digitalstack.document+zip,http://www.iana.org/assignments/media-types/application/vnd.digitalstack.document+zip,
 application/vnd.dir-bi.plate-dl-nosuffix,application,vnd.dir-bi.plate-dl-nosuffix,http://www.iana.org/assignments/media-types/application/vnd.dir-bi.plate-dl-nosuffix,
 application/vnd.dm.delegation+xml,application,vnd.dm.delegation+xml,http://www.iana.org/assignments/media-types/application/vnd.dm.delegation+xml,
 application/vnd.dna,application,vnd.dna,http://www.iana.org/assignments/media-types/application/vnd.dna,dna
@@ -904,6 +908,7 @@ application/vnd.ezpix-album,application,vnd.ezpix-album,http://www.iana.org/assi
 application/vnd.ezpix-package,application,vnd.ezpix-package,http://www.iana.org/assignments/media-types/application/vnd.ezpix-package,ez3
 application/vnd.f-secure.mobile,application,vnd.f-secure.mobile,http://www.iana.org/assignments/media-types/application/vnd.f-secure.mobile,
 application/vnd.faf+yaml,application,vnd.faf+yaml,http://www.iana.org/assignments/media-types/application/vnd.faf+yaml,
+application/vnd.fafm+yaml,application,vnd.fafm+yaml,http://www.iana.org/assignments/media-types/application/vnd.fafm+yaml,
 application/vnd.fastcopy-disk-image,application,vnd.fastcopy-disk-image,http://www.iana.org/assignments/media-types/application/vnd.fastcopy-disk-image,
 application/vnd.familysearch.gedcom+zip,application,vnd.familysearch.gedcom+zip,http://www.iana.org/assignments/media-types/application/vnd.familysearch.gedcom+zip,
 application/vnd.fdsn.mseed,application,vnd.fdsn.mseed,http://www.iana.org/assignments/media-types/application/vnd.fdsn.mseed,mseed
@@ -1111,6 +1116,7 @@ application/vnd.lotus-notes,application,vnd.lotus-notes,http://www.iana.org/assi
 application/vnd.lotus-organizer,application,vnd.lotus-organizer,http://www.iana.org/assignments/media-types/application/vnd.lotus-organizer,org
 application/vnd.lotus-screencam,application,vnd.lotus-screencam,http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam,scm
 application/vnd.lotus-wordpro,application,vnd.lotus-wordpro,http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro,lwp
+application/vnd.lukuid.package+zip,application,vnd.lukuid.package+zip,http://www.iana.org/assignments/media-types/application/vnd.lukuid.package+zip,
 application/vnd.macports.portpkg,application,vnd.macports.portpkg,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg,portpkg
 application/vnd.majikah.bundle,application,vnd.majikah.bundle,http://www.iana.org/assignments/media-types/application/vnd.majikah.bundle,
 application/vnd.maml,application,vnd.maml,http://www.iana.org/assignments/media-types/application/vnd.maml,
@@ -1221,6 +1227,7 @@ application/vnd.nebumind.line,application,vnd.nebumind.line,http://www.iana.org/
 application/vnd.nervana,application,vnd.nervana,http://www.iana.org/assignments/media-types/application/vnd.nervana,
 application/vnd.netfpx,application,vnd.netfpx,http://www.iana.org/assignments/media-types/application/vnd.netfpx,
 application/vnd.neurolanguage.nlu,application,vnd.neurolanguage.nlu,http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu,nlu
+application/vnd.nila.protobuf-bundle+zip,application,vnd.nila.protobuf-bundle+zip,http://www.iana.org/assignments/media-types/application/vnd.nila.protobuf-bundle+zip,
 application/vnd.nimn,application,vnd.nimn,http://www.iana.org/assignments/media-types/application/vnd.nimn,
 application/vnd.nintendo.snes.rom,application,vnd.nintendo.snes.rom,http://www.iana.org/assignments/media-types/application/vnd.nintendo.snes.rom,
 application/vnd.nintendo.nitro.rom,application,vnd.nintendo.nitro.rom,http://www.iana.org/assignments/media-types/application/vnd.nintendo.nitro.rom,
@@ -1622,6 +1629,7 @@ application/vnd.vertifile.pvf,application,vnd.vertifile.pvf,http://www.iana.org/
 application/vnd.veryant.thin,application,vnd.veryant.thin,http://www.iana.org/assignments/media-types/application/vnd.veryant.thin,
 application/vnd.ves.encrypted,application,vnd.ves.encrypted,http://www.iana.org/assignments/media-types/application/vnd.ves.encrypted,
 application/vnd.vidsoft.vidconference,application,vnd.vidsoft.vidconference,http://www.iana.org/assignments/media-types/application/vnd.vidsoft.vidconference,
+application/vnd.vimina.vma,application,vnd.vimina.vma,http://www.iana.org/assignments/media-types/application/vnd.vimina.vma,
 application/vnd.visio,application,vnd.visio,http://www.iana.org/assignments/media-types/application/vnd.visio,vsw
 application/vnd.visionary,application,vnd.visionary,http://www.iana.org/assignments/media-types/application/vnd.visionary,vis
 application/vnd.vividence.scriptfile,application,vnd.vividence.scriptfile,http://www.iana.org/assignments/media-types/application/vnd.vividence.scriptfile,
@@ -2158,6 +2166,7 @@ text/vnd.fmi.flexstor,text,vnd.fmi.flexstor,http://www.iana.org/assignments/medi
 text/vnd.gml,text,vnd.gml,http://www.iana.org/assignments/media-types/text/vnd.gml,
 text/vnd.graphviz,text,vnd.graphviz,http://www.iana.org/assignments/media-types/text/vnd.graphviz,gv
 text/vnd.hans,text,vnd.hans,http://www.iana.org/assignments/media-types/text/vnd.hans,
+text/vnd.hekaya,text,vnd.hekaya,http://www.iana.org/assignments/media-types/text/vnd.hekaya,
 text/vnd.hgl,text,vnd.hgl,http://www.iana.org/assignments/media-types/text/vnd.hgl,
 text/vnd.in3d.3dml,text,vnd.in3d.3dml,http://www.iana.org/assignments/media-types/text/vnd.in3d.3dml,3dml
 text/vnd.in3d.spot,text,vnd.in3d.spot,http://www.iana.org/assignments/media-types/text/vnd.in3d.spot,spot
