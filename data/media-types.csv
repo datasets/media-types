@@ -694,6 +694,7 @@ application/vnd.apple.keynote,application,vnd.apple.keynote,http://www.iana.org/
 application/vnd.apple.mpegurl,application,vnd.apple.mpegurl,http://www.iana.org/assignments/media-types/application/vnd.apple.mpegurl,m3u8
 application/vnd.apple.numbers,application,vnd.apple.numbers,http://www.iana.org/assignments/media-types/application/vnd.apple.numbers,
 application/vnd.apple.pages,application,vnd.apple.pages,http://www.iana.org/assignments/media-types/application/vnd.apple.pages,
+application/vnd.apple.steering-list,application,vnd.apple.steering-list,http://www.iana.org/assignments/media-types/application/vnd.apple.steering-list,
 application/vnd.arastra.swi,application,vnd.arastra.swi (OBSOLETED in favor of application/vnd.aristanetworks.swi),http://www.iana.org/assignments/media-types/application/vnd.arastra.swi (OBSOLETED in favor of application/vnd.aristanetworks.swi),
 application/vnd.aristanetworks.swi,application,vnd.aristanetworks.swi,http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi,swi
 application/vnd.artisan+json,application,vnd.artisan+json,http://www.iana.org/assignments/media-types/application/vnd.artisan+json,
