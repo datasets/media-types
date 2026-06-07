@@ -479,6 +479,7 @@ application/soap+fastinfoset,application,soap+fastinfoset,http://www.iana.org/as
 application/soap+xml,application,soap+xml,http://www.iana.org/assignments/media-types/application/soap+xml,
 application/sparql-query,application,sparql-query,http://www.iana.org/assignments/media-types/application/sparql-query,rq
 application/spdx+json,application,spdx+json,http://www.iana.org/assignments/media-types/application/spdx+json,
+application/spdx3+json,application,spdx3+json,http://www.iana.org/assignments/media-types/application/spdx3+json,
 application/sparql-results+xml,application,sparql-results+xml,http://www.iana.org/assignments/media-types/application/sparql-results+xml,srx
 application/spirits-event+xml,application,spirits-event+xml,http://www.iana.org/assignments/media-types/application/spirits-event+xml,
 application/sql,application,sql,http://www.iana.org/assignments/media-types/application/sql,
@@ -665,6 +666,8 @@ application/vnd.afpc.modca-objectcontainer,application,vnd.afpc.modca-objectcont
 application/vnd.afpc.modca-overlay,application,vnd.afpc.modca-overlay,http://www.iana.org/assignments/media-types/application/vnd.afpc.modca-overlay,
 application/vnd.afpc.modca-pagesegment,application,vnd.afpc.modca-pagesegment,http://www.iana.org/assignments/media-types/application/vnd.afpc.modca-pagesegment,
 application/vnd.age,application,vnd.age,http://www.iana.org/assignments/media-types/application/vnd.age,
+application/vnd.agtp.identity+json,application,vnd.agtp.identity+json,http://www.iana.org/assignments/media-types/application/vnd.agtp.identity+json,
+application/vnd.agtp.identity+yaml,application,vnd.agtp.identity+yaml,http://www.iana.org/assignments/media-types/application/vnd.agtp.identity+yaml,
 application/vnd.ah-barcode,application,vnd.ah-barcode,http://www.iana.org/assignments/media-types/application/vnd.ah-barcode,
 application/vnd.ahead.space,application,vnd.ahead.space,http://www.iana.org/assignments/media-types/application/vnd.ahead.space,ahead
 application/vnd.aia,application,vnd.aia,http://www.iana.org/assignments/media-types/application/vnd.aia,
@@ -705,6 +708,7 @@ application/vnd.as207960.vas.tap+jer,application,vnd.as207960.vas.tap+jer,http:/
 application/vnd.as207960.vas.tap+uper,application,vnd.as207960.vas.tap+uper,http://www.iana.org/assignments/media-types/application/vnd.as207960.vas.tap+uper,
 application/vnd.astraea-software.iota,application,vnd.astraea-software.iota,http://www.iana.org/assignments/media-types/application/vnd.astraea-software.iota,iota
 application/vnd.audiograph,application,vnd.audiograph,http://www.iana.org/assignments/media-types/application/vnd.audiograph,aep
+application/vnd.aumtrix.aum,application,vnd.aumtrix.aum,http://www.iana.org/assignments/media-types/application/vnd.aumtrix.aum,
 application/vnd.autopackage,application,vnd.autopackage,http://www.iana.org/assignments/media-types/application/vnd.autopackage,
 application/vnd.avalon+json,application,vnd.avalon+json,http://www.iana.org/assignments/media-types/application/vnd.avalon+json,
 application/vnd.avistar+xml,application,vnd.avistar+xml,http://www.iana.org/assignments/media-types/application/vnd.avistar+xml,
@@ -1567,6 +1571,7 @@ application/vnd.sun.wadl+xml,application,vnd.sun.wadl+xml,http://www.iana.org/as
 application/vnd.superfile.super,application,vnd.superfile.super,http://www.iana.org/assignments/media-types/application/vnd.superfile.super,
 application/vnd.sus-calendar,application,vnd.sus-calendar,http://www.iana.org/assignments/media-types/application/vnd.sus-calendar,susp
 application/vnd.svd,application,vnd.svd,http://www.iana.org/assignments/media-types/application/vnd.svd,svd
+application/vnd.svr.receipt+json,application,vnd.svr.receipt+json,http://www.iana.org/assignments/media-types/application/vnd.svr.receipt+json,
 application/vnd.swiftview-ics,application,vnd.swiftview-ics,http://www.iana.org/assignments/media-types/application/vnd.swiftview-ics,
 application/vnd.sybyl.mol2,application,vnd.sybyl.mol2,http://www.iana.org/assignments/media-types/application/vnd.sybyl.mol2,
 application/vnd.sycle+xml,application,vnd.sycle+xml,http://www.iana.org/assignments/media-types/application/vnd.sycle+xml,
@@ -2164,6 +2169,7 @@ text/vnd.familysearch.gedcom,text,vnd.familysearch.gedcom,http://www.iana.org/as
 text/vnd.ficlab.flt,text,vnd.ficlab.flt,http://www.iana.org/assignments/media-types/text/vnd.ficlab.flt,
 text/vnd.fly,text,vnd.fly,http://www.iana.org/assignments/media-types/text/vnd.fly,fly
 text/vnd.fmi.flexstor,text,vnd.fmi.flexstor,http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor,flx
+text/vnd.gist.mx,text,vnd.gist.mx,http://www.iana.org/assignments/media-types/text/vnd.gist.mx,
 text/vnd.gml,text,vnd.gml,http://www.iana.org/assignments/media-types/text/vnd.gml,
 text/vnd.graphviz,text,vnd.graphviz,http://www.iana.org/assignments/media-types/text/vnd.graphviz,gv
 text/vnd.hans,text,vnd.hans,http://www.iana.org/assignments/media-types/text/vnd.hans,
