@@ -489,6 +489,8 @@ application/sru+xml,application,sru+xml,http://www.iana.org/assignments/media-ty
 application/sslkeylogfile,application,sslkeylogfile,http://www.iana.org/assignments/media-types/application/sslkeylogfile,
 application/ssml+xml,application,ssml+xml,http://www.iana.org/assignments/media-types/application/ssml+xml,ssml
 application/ST2110-41,application,ST2110-41,http://www.iana.org/assignments/media-types/application/ST2110-41,
+application/statuslist+cwt,application,statuslist+cwt,http://www.iana.org/assignments/media-types/application/statuslist+cwt,
+application/statuslist+jwt,application,statuslist+jwt,http://www.iana.org/assignments/media-types/application/statuslist+jwt,
 application/stix+json,application,stix+json,http://www.iana.org/assignments/media-types/application/stix+json,
 application/stratum,application,stratum,http://www.iana.org/assignments/media-types/application/stratum,
 application/suit-envelope+cose,application,suit-envelope+cose,http://www.iana.org/assignments/media-types/application/suit-envelope+cose,
