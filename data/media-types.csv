@@ -732,6 +732,7 @@ application/vnd.belightsoft.lhzl+zip,application,vnd.belightsoft.lhzl+zip,http:/
 application/vnd.bint.med-content,application,vnd.bint.med-content,http://www.iana.org/assignments/media-types/application/vnd.bint.med-content,
 application/vnd.biopax.rdf+xml,application,vnd.biopax.rdf+xml,http://www.iana.org/assignments/media-types/application/vnd.biopax.rdf+xml,
 application/vnd.blink-idb-value-wrapper,application,vnd.blink-idb-value-wrapper,http://www.iana.org/assignments/media-types/application/vnd.blink-idb-value-wrapper,
+application/vnd.blockfact.facts,application,vnd.blockfact.facts,http://www.iana.org/assignments/media-types/application/vnd.blockfact.facts,
 application/vnd.blueice.multipass,application,vnd.blueice.multipass,http://www.iana.org/assignments/media-types/application/vnd.blueice.multipass,mpm
 application/vnd.bluetooth.ep.oob,application,vnd.bluetooth.ep.oob,http://www.iana.org/assignments/media-types/application/vnd.bluetooth.ep.oob,
 application/vnd.bluetooth.le.oob,application,vnd.bluetooth.le.oob,http://www.iana.org/assignments/media-types/application/vnd.bluetooth.le.oob,
@@ -1169,6 +1170,7 @@ application/vnd.Mobius.MSL,application,vnd.Mobius.MSL,http://www.iana.org/assign
 application/vnd.Mobius.PLC,application,vnd.Mobius.PLC,http://www.iana.org/assignments/media-types/application/vnd.Mobius.PLC,
 application/vnd.Mobius.TXF,application,vnd.Mobius.TXF,http://www.iana.org/assignments/media-types/application/vnd.Mobius.TXF,
 application/vnd.modl,application,vnd.modl,http://www.iana.org/assignments/media-types/application/vnd.modl,
+application/vnd.mohnetic,application,vnd.mohnetic,http://www.iana.org/assignments/media-types/application/vnd.mohnetic,
 application/vnd.mophun.application,application,vnd.mophun.application,http://www.iana.org/assignments/media-types/application/vnd.mophun.application,mpn
 application/vnd.mophun.certificate,application,vnd.mophun.certificate,http://www.iana.org/assignments/media-types/application/vnd.mophun.certificate,mpc
 application/vnd.motorola.flexsuite,application,vnd.motorola.flexsuite,http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite,
@@ -1638,6 +1640,7 @@ application/vnd.vcx,application,vnd.vcx,http://www.iana.org/assignments/media-ty
 application/vnd.vd-study,application,vnd.vd-study,http://www.iana.org/assignments/media-types/application/vnd.vd-study,
 application/vnd.vectorworks,application,vnd.vectorworks,http://www.iana.org/assignments/media-types/application/vnd.vectorworks,
 application/vnd.vel+json,application,vnd.vel+json,http://www.iana.org/assignments/media-types/application/vnd.vel+json,
+application/vnd.veraison.nvidia-gpu-evidence+json,application,vnd.veraison.nvidia-gpu-evidence+json,http://www.iana.org/assignments/media-types/application/vnd.veraison.nvidia-gpu-evidence+json,
 application/vnd.veraison.tsm-report+cbor,application,vnd.veraison.tsm-report+cbor,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+cbor,
 application/vnd.veraison.tsm-report+json,application,vnd.veraison.tsm-report+json,http://www.iana.org/assignments/media-types/application/vnd.veraison.tsm-report+json,
 application/vnd.verifier-attestation+jwt,application,vnd.verifier-attestation+jwt,http://www.iana.org/assignments/media-types/application/vnd.verifier-attestation+jwt,
@@ -1860,6 +1863,7 @@ audio/PCMA,audio,PCMA,http://www.iana.org/assignments/media-types/audio/PCMA,
 audio/PCMA-WB,audio,PCMA-WB,http://www.iana.org/assignments/media-types/audio/PCMA-WB,
 audio/PCMU,audio,PCMU,http://www.iana.org/assignments/media-types/audio/PCMU,
 audio/PCMU-WB,audio,PCMU-WB,http://www.iana.org/assignments/media-types/audio/PCMU-WB,
+audio/prs.aaud,audio,prs.aaud,http://www.iana.org/assignments/media-types/audio/prs.aaud,
 audio/prs.sid,audio,prs.sid,http://www.iana.org/assignments/media-types/audio/prs.sid,
 audio/QCELP,audio,QCELP,http://www.iana.org/assignments/media-types/audio/QCELP,
 audio/raptorfec,audio,raptorfec,http://www.iana.org/assignments/media-types/audio/raptorfec,
@@ -1983,6 +1987,7 @@ image/ktx,image,ktx,http://www.iana.org/assignments/media-types/image/ktx,ktx
 image/ktx2,image,ktx2,http://www.iana.org/assignments/media-types/image/ktx2,
 image/naplps,image,naplps,http://www.iana.org/assignments/media-types/image/naplps,
 image/png,image,png,http://www.iana.org/assignments/media-types/image/png,png
+image/prs.aimg,image,prs.aimg,http://www.iana.org/assignments/media-types/image/prs.aimg,
 image/prs.btif,image,prs.btif,http://www.iana.org/assignments/media-types/image/prs.btif,btif
 image/prs.pti,image,prs.pti,http://www.iana.org/assignments/media-types/image/prs.pti,
 image/pwg-raster,image,pwg-raster,http://www.iana.org/assignments/media-types/image/pwg-raster,
@@ -2171,6 +2176,7 @@ text/vcard,text,vcard,http://www.iana.org/assignments/media-types/text/vcard,vca
 text/vnd.a,text,vnd.a,http://www.iana.org/assignments/media-types/text/vnd.a,
 text/vnd.abc,text,vnd.abc,http://www.iana.org/assignments/media-types/text/vnd.abc,
 text/vnd.ascii-art,text,vnd.ascii-art,http://www.iana.org/assignments/media-types/text/vnd.ascii-art,
+text/vnd.bovnar,text,vnd.bovnar,http://www.iana.org/assignments/media-types/text/vnd.bovnar,
 text/vnd.curl,text,vnd.curl,http://www.iana.org/assignments/media-types/text/vnd.curl,curl
 text/vnd.debian.copyright,text,vnd.debian.copyright,http://www.iana.org/assignments/media-types/text/vnd.debian.copyright,
 text/vnd.DMClientScript,text,vnd.DMClientScript,http://www.iana.org/assignments/media-types/text/vnd.DMClientScript,
@@ -2259,6 +2265,7 @@ video/nv,video,nv,http://www.iana.org/assignments/media-types/video/nv,
 video/ogg,video,ogg,http://www.iana.org/assignments/media-types/video/ogg,ogv
 video/parityfec,video,parityfec,http://www.iana.org/assignments/media-types/video/parityfec,
 video/pointer,video,pointer,http://www.iana.org/assignments/media-types/video/pointer,
+video/prs.avid,video,prs.avid,http://www.iana.org/assignments/media-types/video/prs.avid,
 video/quicktime,video,quicktime,http://www.iana.org/assignments/media-types/video/quicktime,mov
 video/raptorfec,video,raptorfec,http://www.iana.org/assignments/media-types/video/raptorfec,
 video/raw,video,raw,http://www.iana.org/assignments/media-types/video/raw,
