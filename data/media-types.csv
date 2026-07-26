@@ -825,6 +825,7 @@ application/vnd.dece.zip,application,vnd.dece.zip,http://www.iana.org/assignment
 application/vnd.denovo.fcselayout-link,application,vnd.denovo.fcselayout-link,http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link,fe_launch
 application/vnd.desmume.movie,application,vnd.desmume.movie,http://www.iana.org/assignments/media-types/application/vnd.desmume.movie,
 application/vnd.deut+json,application,vnd.deut+json,http://www.iana.org/assignments/media-types/application/vnd.deut+json,
+application/vnd.dgl,application,vnd.dgl,http://www.iana.org/assignments/media-types/application/vnd.dgl,
 application/vnd.digitalstack.document+zip,application,vnd.digitalstack.document+zip,http://www.iana.org/assignments/media-types/application/vnd.digitalstack.document+zip,
 application/vnd.dir-bi.plate-dl-nosuffix,application,vnd.dir-bi.plate-dl-nosuffix,http://www.iana.org/assignments/media-types/application/vnd.dir-bi.plate-dl-nosuffix,
 application/vnd.dm.delegation+xml,application,vnd.dm.delegation+xml,http://www.iana.org/assignments/media-types/application/vnd.dm.delegation+xml,
@@ -1472,6 +1473,7 @@ application/vnd.pmi.widget,application,vnd.pmi.widget,http://www.iana.org/assign
 application/vnd.pmtiles,application,vnd.pmtiles,http://www.iana.org/assignments/media-types/application/vnd.pmtiles,
 application/vnd.poc.group-advertisement+xml,application,vnd.poc.group-advertisement+xml,http://www.iana.org/assignments/media-types/application/vnd.poc.group-advertisement+xml,
 application/vnd.pocketlearn,application,vnd.pocketlearn,http://www.iana.org/assignments/media-types/application/vnd.pocketlearn,plf
+application/vnd.portableweb+zip,application,vnd.portableweb+zip,http://www.iana.org/assignments/media-types/application/vnd.portableweb+zip,
 application/vnd.powerbuilder6,application,vnd.powerbuilder6,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6,pbd
 application/vnd.powerbuilder6-s,application,vnd.powerbuilder6-s,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6-s,
 application/vnd.powerbuilder7,application,vnd.powerbuilder7,http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7,
