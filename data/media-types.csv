@@ -841,6 +841,7 @@ application/vnd.dtg.local,application,vnd.dtg.local,http://www.iana.org/assignme
 application/vnd.dtg.local.flash,application,vnd.dtg.local.flash,http://www.iana.org/assignments/media-types/application/vnd.dtg.local.flash,
 application/vnd.dtg.local.html,application,vnd.dtg.local.html,http://www.iana.org/assignments/media-types/application/vnd.dtg.local.html,
 application/vnd.dvb.ait,application,vnd.dvb.ait,http://www.iana.org/assignments/media-types/application/vnd.dvb.ait,ait
+application/vnd.dvb.dash-playlist+xml,application,vnd.dvb.dash-playlist+xml,http://www.iana.org/assignments/media-types/application/vnd.dvb.dash-playlist+xml,
 application/vnd.dvb.dvbisl+xml,application,vnd.dvb.dvbisl+xml,http://www.iana.org/assignments/media-types/application/vnd.dvb.dvbisl+xml,
 application/vnd.dvb.dvbj,application,vnd.dvb.dvbj,http://www.iana.org/assignments/media-types/application/vnd.dvb.dvbj,
 application/vnd.dvb.esgcontainer,application,vnd.dvb.esgcontainer,http://www.iana.org/assignments/media-types/application/vnd.dvb.esgcontainer,
@@ -1097,6 +1098,7 @@ application/vnd.jcp.javame.midlet-rms,application,vnd.jcp.javame.midlet-rms,http
 application/vnd.jisp,application,vnd.jisp,http://www.iana.org/assignments/media-types/application/vnd.jisp,jisp
 application/vnd.joost.joda-archive,application,vnd.joost.joda-archive,http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive,joda
 application/vnd.jsk.isdn-ngn,application,vnd.jsk.isdn-ngn,http://www.iana.org/assignments/media-types/application/vnd.jsk.isdn-ngn,
+application/vnd.jupyter,application,vnd.jupyter,http://www.iana.org/assignments/media-types/application/vnd.jupyter,
 application/vnd.kahootz,application,vnd.kahootz,http://www.iana.org/assignments/media-types/application/vnd.kahootz,ktr
 application/vnd.kde.karbon,application,vnd.kde.karbon,http://www.iana.org/assignments/media-types/application/vnd.kde.karbon,karbon
 application/vnd.kde.kchart,application,vnd.kde.kchart,http://www.iana.org/assignments/media-types/application/vnd.kde.kchart,chrt
@@ -2155,6 +2157,7 @@ text/prs.fallenstein.rst,text,prs.fallenstein.rst,http://www.iana.org/assignment
 text/prs.lines.tag,text,prs.lines.tag,http://www.iana.org/assignments/media-types/text/prs.lines.tag,dsc
 text/prs.prop.logic,text,prs.prop.logic,http://www.iana.org/assignments/media-types/text/prs.prop.logic,
 text/prs.texi,text,prs.texi,http://www.iana.org/assignments/media-types/text/prs.texi,
+text/qml,text,qml,http://www.iana.org/assignments/media-types/text/qml,
 text/raptorfec,text,raptorfec,http://www.iana.org/assignments/media-types/text/raptorfec,
 text/RED,text,RED,http://www.iana.org/assignments/media-types/text/RED,
 text/rfc822-headers,text,rfc822-headers,http://www.iana.org/assignments/media-types/text/rfc822-headers,
