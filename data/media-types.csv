@@ -110,6 +110,13 @@ application/concise-problem-details+cbor,application,concise-problem-details+cbo
 application/conference-info+xml,application,conference-info+xml,http://www.iana.org/assignments/media-types/application/conference-info+xml,
 application/cpl+xml,application,cpl+xml,http://www.iana.org/assignments/media-types/application/cpl+xml,
 application/cose,application,cose,http://www.iana.org/assignments/media-types/application/cose,
+application/cose-c509+cbor,application,cose-c509+cbor,http://www.iana.org/assignments/media-types/application/cose-c509+cbor,
+application/cose-c509-cert+cbor,application,cose-c509-cert+cbor,http://www.iana.org/assignments/media-types/application/cose-c509-cert+cbor,
+application/cose-c509-crtemplate+cbor,application,cose-c509-crtemplate+cbor,http://www.iana.org/assignments/media-types/application/cose-c509-crtemplate+cbor,
+application/cose-c509-pem+cbor,application,cose-c509-pem+cbor,http://www.iana.org/assignments/media-types/application/cose-c509-pem+cbor,
+application/cose-c509-pkcs10+cbor,application,cose-c509-pkcs10+cbor,http://www.iana.org/assignments/media-types/application/cose-c509-pkcs10+cbor,
+application/cose-c509-privkey+cbor,application,cose-c509-privkey+cbor,http://www.iana.org/assignments/media-types/application/cose-c509-privkey+cbor,
+application/cose-certhash+cbor,application,cose-certhash+cbor,http://www.iana.org/assignments/media-types/application/cose-certhash+cbor,
 application/cose-key,application,cose-key,http://www.iana.org/assignments/media-types/application/cose-key,
 application/cose-key-set,application,cose-key-set,http://www.iana.org/assignments/media-types/application/cose-key-set,
 application/cose-x509,application,cose-x509,http://www.iana.org/assignments/media-types/application/cose-x509,
@@ -380,6 +387,7 @@ application/protobuf+json,application,protobuf+json,http://www.iana.org/assignme
 application/provenance+xml,application,provenance+xml,http://www.iana.org/assignments/media-types/application/provenance+xml,
 application/provided-claims+jwt,application,provided-claims+jwt,http://www.iana.org/assignments/media-types/application/provided-claims+jwt,
 application/prs.alvestrand.titrax-sheet,application,prs.alvestrand.titrax-sheet,http://www.iana.org/assignments/media-types/application/prs.alvestrand.titrax-sheet,
+application/prs.archive-markdown-format,application,prs.archive-markdown-format,http://www.iana.org/assignments/media-types/application/prs.archive-markdown-format,
 application/prs.bwtc32key,application,prs.bwtc32key,http://www.iana.org/assignments/media-types/application/prs.bwtc32key,
 application/prs.cww,application,prs.cww,http://www.iana.org/assignments/media-types/application/prs.cww,cww
 application/prs.cyn,application,prs.cyn,http://www.iana.org/assignments/media-types/application/prs.cyn,
@@ -630,6 +638,7 @@ application/vnd.3gpp.seal-mbms-usage-info+xml,application,vnd.3gpp.seal-mbms-usa
 application/vnd.3gpp.seal-mbs-usage-info+xml,application,vnd.3gpp.seal-mbs-usage-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-mbs-usage-info+xml,
 application/vnd.3gpp.seal-network-QoS-management-info+xml,application,vnd.3gpp.seal-network-QoS-management-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-network-QoS-management-info+xml,
 application/vnd.3gpp.seal-network-resource-info+cbor,application,vnd.3gpp.seal-network-resource-info+cbor,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-network-resource-info+cbor,
+application/vnd.3gpp.seal-store-forward-events-info+xml,application,vnd.3gpp.seal-store-forward-events-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-store-forward-events-info+xml,
 application/vnd.3gpp.seal-ue-config-info+xml,application,vnd.3gpp.seal-ue-config-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-ue-config-info+xml,
 application/vnd.3gpp.seal-unicast-info+xml,application,vnd.3gpp.seal-unicast-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-unicast-info+xml,
 application/vnd.3gpp.seal-user-profile-info+xml,application,vnd.3gpp.seal-user-profile-info+xml,http://www.iana.org/assignments/media-types/application/vnd.3gpp.seal-user-profile-info+xml,
@@ -674,6 +683,7 @@ application/vnd.afpc.modca-objectcontainer,application,vnd.afpc.modca-objectcont
 application/vnd.afpc.modca-overlay,application,vnd.afpc.modca-overlay,http://www.iana.org/assignments/media-types/application/vnd.afpc.modca-overlay,
 application/vnd.afpc.modca-pagesegment,application,vnd.afpc.modca-pagesegment,http://www.iana.org/assignments/media-types/application/vnd.afpc.modca-pagesegment,
 application/vnd.age,application,vnd.age,http://www.iana.org/assignments/media-types/application/vnd.age,
+application/vnd.agentmug.agent+json,application,vnd.agentmug.agent+json,http://www.iana.org/assignments/media-types/application/vnd.agentmug.agent+json,
 application/vnd.agtp.identity+json,application,vnd.agtp.identity+json,http://www.iana.org/assignments/media-types/application/vnd.agtp.identity+json,
 application/vnd.agtp.identity+yaml,application,vnd.agtp.identity+yaml,http://www.iana.org/assignments/media-types/application/vnd.agtp.identity+yaml,
 application/vnd.ah-barcode,application,vnd.ah-barcode,http://www.iana.org/assignments/media-types/application/vnd.ah-barcode,
@@ -822,6 +832,7 @@ application/vnd.dece.data,application,vnd.dece.data,http://www.iana.org/assignme
 application/vnd.dece.ttml+xml,application,vnd.dece.ttml+xml,http://www.iana.org/assignments/media-types/application/vnd.dece.ttml+xml,uvvt
 application/vnd.dece.unspecified,application,vnd.dece.unspecified,http://www.iana.org/assignments/media-types/application/vnd.dece.unspecified,uvvx
 application/vnd.dece.zip,application,vnd.dece.zip,http://www.iana.org/assignments/media-types/application/vnd.dece.zip,uvvz
+application/vnd.deckyard.deck,application,vnd.deckyard.deck,http://www.iana.org/assignments/media-types/application/vnd.deckyard.deck,
 application/vnd.denovo.fcselayout-link,application,vnd.denovo.fcselayout-link,http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link,fe_launch
 application/vnd.desmume.movie,application,vnd.desmume.movie,http://www.iana.org/assignments/media-types/application/vnd.desmume.movie,
 application/vnd.deut+json,application,vnd.deut+json,http://www.iana.org/assignments/media-types/application/vnd.deut+json,
@@ -1114,6 +1125,7 @@ application/vnd.keyman.kmp+zip,application,vnd.keyman.kmp+zip,http://www.iana.or
 application/vnd.keyman.kmx,application,vnd.keyman.kmx,http://www.iana.org/assignments/media-types/application/vnd.keyman.kmx,
 application/vnd.kidspiration,application,vnd.kidspiration,http://www.iana.org/assignments/media-types/application/vnd.kidspiration,kia
 application/vnd.Kinar,application,vnd.Kinar,http://www.iana.org/assignments/media-types/application/vnd.Kinar,
+application/vnd.klypix+zip,application,vnd.klypix+zip,http://www.iana.org/assignments/media-types/application/vnd.klypix+zip,
 application/vnd.koan,application,vnd.koan,http://www.iana.org/assignments/media-types/application/vnd.koan,skm
 application/vnd.kodak-descriptor,application,vnd.kodak-descriptor,http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor,sse
 application/vnd.las,application,vnd.las,http://www.iana.org/assignments/media-types/application/vnd.las,
@@ -1137,6 +1149,7 @@ application/vnd.lotus-wordpro,application,vnd.lotus-wordpro,http://www.iana.org/
 application/vnd.lukuid.package+zip,application,vnd.lukuid.package+zip,http://www.iana.org/assignments/media-types/application/vnd.lukuid.package+zip,
 application/vnd.macports.portpkg,application,vnd.macports.portpkg,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg,portpkg
 application/vnd.majikah.bundle,application,vnd.majikah.bundle,http://www.iana.org/assignments/media-types/application/vnd.majikah.bundle,
+application/vnd.majikah.mjksig,application,vnd.majikah.mjksig,http://www.iana.org/assignments/media-types/application/vnd.majikah.mjksig,
 application/vnd.maml,application,vnd.maml,http://www.iana.org/assignments/media-types/application/vnd.maml,
 application/vnd.mapbox-vector-tile,application,vnd.mapbox-vector-tile,http://www.iana.org/assignments/media-types/application/vnd.mapbox-vector-tile,
 application/vnd.marlin.drm.actiontoken+xml,application,vnd.marlin.drm.actiontoken+xml,http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken+xml,
@@ -1270,6 +1283,7 @@ application/vnd.nokia.pcd+wbxml,application,vnd.nokia.pcd+wbxml,http://www.iana.
 application/vnd.nokia.pcd+xml,application,vnd.nokia.pcd+xml,http://www.iana.org/assignments/media-types/application/vnd.nokia.pcd+xml,
 application/vnd.nokia.radio-preset,application,vnd.nokia.radio-preset,http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-preset,rpst
 application/vnd.nokia.radio-presets,application,vnd.nokia.radio-presets,http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-presets,rpss
+application/vnd.nomos+json,application,vnd.nomos+json,http://www.iana.org/assignments/media-types/application/vnd.nomos+json,
 application/vnd.novadigm.EDM,application,vnd.novadigm.EDM,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDM,
 application/vnd.novadigm.EDX,application,vnd.novadigm.EDX,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDX,
 application/vnd.novadigm.EXT,application,vnd.novadigm.EXT,http://www.iana.org/assignments/media-types/application/vnd.novadigm.EXT,
@@ -1367,6 +1381,7 @@ application/vnd.onepagertat,application,vnd.onepagertat,http://www.iana.org/assi
 application/vnd.onepagertatp,application,vnd.onepagertatp,http://www.iana.org/assignments/media-types/application/vnd.onepagertatp,
 application/vnd.onepagertatx,application,vnd.onepagertatx,http://www.iana.org/assignments/media-types/application/vnd.onepagertatx,
 application/vnd.onvif.metadata,application,vnd.onvif.metadata,http://www.iana.org/assignments/media-types/application/vnd.onvif.metadata,
+application/vnd.ootmm.patch+zip,application,vnd.ootmm.patch+zip,http://www.iana.org/assignments/media-types/application/vnd.ootmm.patch+zip,
 application/vnd.openblox.game-binary,application,vnd.openblox.game-binary,http://www.iana.org/assignments/media-types/application/vnd.openblox.game-binary,
 application/vnd.openblox.game+xml,application,vnd.openblox.game+xml,http://www.iana.org/assignments/media-types/application/vnd.openblox.game+xml,
 application/vnd.openeye.oeb,application,vnd.openeye.oeb,http://www.iana.org/assignments/media-types/application/vnd.openeye.oeb,
@@ -1485,6 +1500,7 @@ application/vnd.powerbuilder7-s,application,vnd.powerbuilder7-s,http://www.iana.
 application/vnd.pp.systemverify+xml,application,vnd.pp.systemverify+xml,http://www.iana.org/assignments/media-types/application/vnd.pp.systemverify+xml,
 application/vnd.preminet,application,vnd.preminet,http://www.iana.org/assignments/media-types/application/vnd.preminet,
 application/vnd.previewsystems.box,application,vnd.previewsystems.box,http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box,box
+application/vnd.prismatic,application,vnd.prismatic,http://www.iana.org/assignments/media-types/application/vnd.prismatic,
 application/vnd.project-graph,application,vnd.project-graph,http://www.iana.org/assignments/media-types/application/vnd.project-graph,
 application/vnd.proteus.magazine,application,vnd.proteus.magazine,http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine,mgz
 application/vnd.psfs,application,vnd.psfs,http://www.iana.org/assignments/media-types/application/vnd.psfs,
@@ -1531,6 +1547,7 @@ application/vnd.rs-274x,application,vnd.rs-274x,http://www.iana.org/assignments/
 application/vnd.ruckus.download,application,vnd.ruckus.download,http://www.iana.org/assignments/media-types/application/vnd.ruckus.download,
 application/vnd.s3sms,application,vnd.s3sms,http://www.iana.org/assignments/media-types/application/vnd.s3sms,
 application/vnd.sailingtracker.track,application,vnd.sailingtracker.track,http://www.iana.org/assignments/media-types/application/vnd.sailingtracker.track,st
+application/vnd.salvanote.sal,application,vnd.salvanote.sal,http://www.iana.org/assignments/media-types/application/vnd.salvanote.sal,
 application/vnd.sar,application,vnd.sar,http://www.iana.org/assignments/media-types/application/vnd.sar,
 application/vnd.sbm.cid,application,vnd.sbm.cid,http://www.iana.org/assignments/media-types/application/vnd.sbm.cid,
 application/vnd.sbm.mid2,application,vnd.sbm.mid2,http://www.iana.org/assignments/media-types/application/vnd.sbm.mid2,
@@ -1603,6 +1620,7 @@ application/vnd.syncml.dm+wbxml,application,vnd.syncml.dm+wbxml,http://www.iana.
 application/vnd.syncml.dm+xml,application,vnd.syncml.dm+xml,http://www.iana.org/assignments/media-types/application/vnd.syncml.dm+xml,xdm
 application/vnd.syncml.ds.notification,application,vnd.syncml.ds.notification,http://www.iana.org/assignments/media-types/application/vnd.syncml.ds.notification,
 application/vnd.syncml+xml,application,vnd.syncml+xml,http://www.iana.org/assignments/media-types/application/vnd.syncml+xml,xsm
+application/vnd.tablafocus.notation,application,vnd.tablafocus.notation,http://www.iana.org/assignments/media-types/application/vnd.tablafocus.notation,
 application/vnd.tableschema+json,application,vnd.tableschema+json,http://www.iana.org/assignments/media-types/application/vnd.tableschema+json,
 application/vnd.tao.intent-module-archive,application,vnd.tao.intent-module-archive,http://www.iana.org/assignments/media-types/application/vnd.tao.intent-module-archive,tao
 application/vnd.tcpdump.pcap,application,vnd.tcpdump.pcap,http://www.iana.org/assignments/media-types/application/vnd.tcpdump.pcap,dmp
@@ -1931,6 +1949,7 @@ audio/vnd.nuera.ecelp4800,audio,vnd.nuera.ecelp4800,http://www.iana.org/assignme
 audio/vnd.nuera.ecelp7470,audio,vnd.nuera.ecelp7470,http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp7470,ecelp7470
 audio/vnd.nuera.ecelp9600,audio,vnd.nuera.ecelp9600,http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp9600,ecelp9600
 audio/vnd.octel.sbc,audio,vnd.octel.sbc,http://www.iana.org/assignments/media-types/audio/vnd.octel.sbc,
+audio/vnd.opennbs.nbs,audio,vnd.opennbs.nbs,http://www.iana.org/assignments/media-types/audio/vnd.opennbs.nbs,
 audio/vnd.presonus.multitrack,audio,vnd.presonus.multitrack,http://www.iana.org/assignments/media-types/audio/vnd.presonus.multitrack,
 audio/vnd.qcelp,audio,vnd.qcelp - DEPRECATED in favor of audio/qcelp,http://www.iana.org/assignments/media-types/audio/vnd.qcelp - DEPRECATED in favor of audio/qcelp,
 audio/vnd.rhetorex.32kadpcm,audio,vnd.rhetorex.32kadpcm,http://www.iana.org/assignments/media-types/audio/vnd.rhetorex.32kadpcm,
