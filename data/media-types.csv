@@ -668,6 +668,7 @@ application/vnd.adobe.formscentral.fcdt,application,vnd.adobe.formscentral.fcdt,
 application/vnd.adobe.fxp,application,vnd.adobe.fxp,http://www.iana.org/assignments/media-types/application/vnd.adobe.fxp,fxpl
 application/vnd.adobe.partial-upload,application,vnd.adobe.partial-upload,http://www.iana.org/assignments/media-types/application/vnd.adobe.partial-upload,
 application/vnd.adobe.xdp+xml,application,vnd.adobe.xdp+xml,http://www.iana.org/assignments/media-types/application/vnd.adobe.xdp+xml,xdp
+application/vnd.aep+zip,application,vnd.aep+zip,http://www.iana.org/assignments/media-types/application/vnd.aep+zip,
 application/vnd.aether.imp,application,vnd.aether.imp,http://www.iana.org/assignments/media-types/application/vnd.aether.imp,
 application/vnd.afpc.afplinedata,application,vnd.afpc.afplinedata,http://www.iana.org/assignments/media-types/application/vnd.afpc.afplinedata,
 application/vnd.afpc.afplinedata-pagedef,application,vnd.afpc.afplinedata-pagedef,http://www.iana.org/assignments/media-types/application/vnd.afpc.afplinedata-pagedef,
