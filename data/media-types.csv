@@ -878,7 +878,7 @@ application/vnd.dynageo,application,vnd.dynageo,http://www.iana.org/assignments/
 application/vnd.dzr,application,vnd.dzr,http://www.iana.org/assignments/media-types/application/vnd.dzr,
 application/vnd.easykaraoke.cdgdownload,application,vnd.easykaraoke.cdgdownload,http://www.iana.org/assignments/media-types/application/vnd.easykaraoke.cdgdownload,
 application/vnd.ecip.rlp,application,vnd.ecip.rlp,http://www.iana.org/assignments/media-types/application/vnd.ecip.rlp,
-application/vnd.edulith.edux+json,application,vnd.edulith.edux+json,http://www.iana.org/assignments/media-types/application/vnd.edulith.edux+json,
+application/vnd.edulith.edux+json,application,vnd.edulith.edux+json (OBSOLETED by request),http://www.iana.org/assignments/media-types/application/vnd.edulith.edux+json (OBSOLETED by request),
 application/vnd.ecdis-update,application,vnd.ecdis-update,http://www.iana.org/assignments/media-types/application/vnd.ecdis-update,
 application/vnd.eclipse.ditto+json,application,vnd.eclipse.ditto+json,http://www.iana.org/assignments/media-types/application/vnd.eclipse.ditto+json,
 application/vnd.ecowin.chart,application,vnd.ecowin.chart,http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart,mag
