@@ -946,6 +946,7 @@ application/vnd.fdsn.stationxml+xml,application,vnd.fdsn.stationxml+xml,http://w
 application/vnd.ffsns,application,vnd.ffsns,http://www.iana.org/assignments/media-types/application/vnd.ffsns,
 application/vnd.fgb,application,vnd.fgb,http://www.iana.org/assignments/media-types/application/vnd.fgb,
 application/vnd.ficlab.flb+zip,application,vnd.ficlab.flb+zip,http://www.iana.org/assignments/media-types/application/vnd.ficlab.flb+zip,
+application/vnd.fiduswriter+zip,application,vnd.fiduswriter+zip,http://www.iana.org/assignments/media-types/application/vnd.fiduswriter+zip,
 application/vnd.filmit.zfc,application,vnd.filmit.zfc,http://www.iana.org/assignments/media-types/application/vnd.filmit.zfc,
 application/vnd.fints,application,vnd.fints,http://www.iana.org/assignments/media-types/application/vnd.fints,
 application/vnd.firemonkeys.cloudcell,application,vnd.firemonkeys.cloudcell,http://www.iana.org/assignments/media-types/application/vnd.firemonkeys.cloudcell,
@@ -1502,6 +1503,7 @@ application/vnd.pp.systemverify+xml,application,vnd.pp.systemverify+xml,http://w
 application/vnd.preminet,application,vnd.preminet,http://www.iana.org/assignments/media-types/application/vnd.preminet,
 application/vnd.previewsystems.box,application,vnd.previewsystems.box,http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box,box
 application/vnd.prismatic,application,vnd.prismatic,http://www.iana.org/assignments/media-types/application/vnd.prismatic,
+application/vnd.prml+yaml,application,vnd.prml+yaml,http://www.iana.org/assignments/media-types/application/vnd.prml+yaml,
 application/vnd.project-graph,application,vnd.project-graph,http://www.iana.org/assignments/media-types/application/vnd.project-graph,
 application/vnd.proteus.magazine,application,vnd.proteus.magazine,http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine,mgz
 application/vnd.psfs,application,vnd.psfs,http://www.iana.org/assignments/media-types/application/vnd.psfs,
