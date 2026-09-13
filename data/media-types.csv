@@ -946,6 +946,8 @@ application/vnd.fdsn.stationxml+xml,application,vnd.fdsn.stationxml+xml,http://w
 application/vnd.ffsns,application,vnd.ffsns,http://www.iana.org/assignments/media-types/application/vnd.ffsns,
 application/vnd.fgb,application,vnd.fgb,http://www.iana.org/assignments/media-types/application/vnd.fgb,
 application/vnd.ficlab.flb+zip,application,vnd.ficlab.flb+zip,http://www.iana.org/assignments/media-types/application/vnd.ficlab.flb+zip,
+application/vnd.fiduswriter.book+zip,application,vnd.fiduswriter.book+zip,http://www.iana.org/assignments/media-types/application/vnd.fiduswriter.book+zip,
+application/vnd.fiduswriter.template+zip,application,vnd.fiduswriter.template+zip,http://www.iana.org/assignments/media-types/application/vnd.fiduswriter.template+zip,
 application/vnd.fiduswriter+zip,application,vnd.fiduswriter+zip,http://www.iana.org/assignments/media-types/application/vnd.fiduswriter+zip,
 application/vnd.filmit.zfc,application,vnd.filmit.zfc,http://www.iana.org/assignments/media-types/application/vnd.filmit.zfc,
 application/vnd.fints,application,vnd.fints,http://www.iana.org/assignments/media-types/application/vnd.fints,
