@@ -930,6 +930,7 @@ application/vnd.eudora.data,application,vnd.eudora.data,http://www.iana.org/assi
 application/vnd.evolv.ecig.profile,application,vnd.evolv.ecig.profile,http://www.iana.org/assignments/media-types/application/vnd.evolv.ecig.profile,
 application/vnd.evolv.ecig.settings,application,vnd.evolv.ecig.settings,http://www.iana.org/assignments/media-types/application/vnd.evolv.ecig.settings,
 application/vnd.evolv.ecig.theme,application,vnd.evolv.ecig.theme,http://www.iana.org/assignments/media-types/application/vnd.evolv.ecig.theme,
+application/vnd.excelano.slipcase+zip,application,vnd.excelano.slipcase+zip,http://www.iana.org/assignments/media-types/application/vnd.excelano.slipcase+zip,
 application/vnd.exstream-empower+zip,application,vnd.exstream-empower+zip,http://www.iana.org/assignments/media-types/application/vnd.exstream-empower+zip,
 application/vnd.exstream-package,application,vnd.exstream-package,http://www.iana.org/assignments/media-types/application/vnd.exstream-package,
 application/vnd.ezpix-album,application,vnd.ezpix-album,http://www.iana.org/assignments/media-types/application/vnd.ezpix-album,ez2
@@ -2120,6 +2121,7 @@ model/vnd.parasolid.transmit.text,model,vnd.parasolid.transmit.text,http://www.i
 model/vnd.pytha.pyox,model,vnd.pytha.pyox,http://www.iana.org/assignments/media-types/model/vnd.pytha.pyox,
 model/vnd.rosette.annotated-data-model,model,vnd.rosette.annotated-data-model,http://www.iana.org/assignments/media-types/model/vnd.rosette.annotated-data-model,
 model/vnd.sap.vds,model,vnd.sap.vds,http://www.iana.org/assignments/media-types/model/vnd.sap.vds,
+model/vnd.sdf3d.s3d,model,vnd.sdf3d.s3d,http://www.iana.org/assignments/media-types/model/vnd.sdf3d.s3d,
 model/vnd.usda,model,vnd.usda,http://www.iana.org/assignments/media-types/model/vnd.usda,
 model/vnd.usdz+zip,model,vnd.usdz+zip,http://www.iana.org/assignments/media-types/model/vnd.usdz+zip,
 model/vnd.valve.source.compiled-map,model,vnd.valve.source.compiled-map,http://www.iana.org/assignments/media-types/model/vnd.valve.source.compiled-map,
