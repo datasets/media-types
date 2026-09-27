@@ -847,6 +847,7 @@ application/vnd.dolby.mobile.1,application,vnd.dolby.mobile.1,http://www.iana.or
 application/vnd.dolby.mobile.2,application,vnd.dolby.mobile.2,http://www.iana.org/assignments/media-types/application/vnd.dolby.mobile.2,
 application/vnd.doremir.scorecloud-binary-document,application,vnd.doremir.scorecloud-binary-document,http://www.iana.org/assignments/media-types/application/vnd.doremir.scorecloud-binary-document,
 application/vnd.dpgraph,application,vnd.dpgraph,http://www.iana.org/assignments/media-types/application/vnd.dpgraph,dpg
+application/vnd.drawoble.drawing+zip,application,vnd.drawoble.drawing+zip,http://www.iana.org/assignments/media-types/application/vnd.drawoble.drawing+zip,
 application/vnd.dreamfactory,application,vnd.dreamfactory,http://www.iana.org/assignments/media-types/application/vnd.dreamfactory,dfac
 application/vnd.drive+json,application,vnd.drive+json,http://www.iana.org/assignments/media-types/application/vnd.drive+json,
 application/vnd.dtg.local,application,vnd.dtg.local,http://www.iana.org/assignments/media-types/application/vnd.dtg.local,
@@ -936,6 +937,7 @@ application/vnd.exstream-package,application,vnd.exstream-package,http://www.ian
 application/vnd.ezpix-album,application,vnd.ezpix-album,http://www.iana.org/assignments/media-types/application/vnd.ezpix-album,ez2
 application/vnd.ezpix-package,application,vnd.ezpix-package,http://www.iana.org/assignments/media-types/application/vnd.ezpix-package,ez3
 application/vnd.f-secure.mobile,application,vnd.f-secure.mobile,http://www.iana.org/assignments/media-types/application/vnd.f-secure.mobile,
+application/vnd.fabylon.book,application,vnd.fabylon.book,http://www.iana.org/assignments/media-types/application/vnd.fabylon.book,
 application/vnd.faf+yaml,application,vnd.faf+yaml,http://www.iana.org/assignments/media-types/application/vnd.faf+yaml,
 application/vnd.fafa+yaml,application,vnd.fafa+yaml,http://www.iana.org/assignments/media-types/application/vnd.fafa+yaml,
 application/vnd.fafm+yaml,application,vnd.fafm+yaml,http://www.iana.org/assignments/media-types/application/vnd.fafm+yaml,
@@ -994,7 +996,7 @@ application/vnd.gentoo.gpkg,application,vnd.gentoo.gpkg,http://www.iana.org/assi
 application/vnd.gentoo.manifest,application,vnd.gentoo.manifest,http://www.iana.org/assignments/media-types/application/vnd.gentoo.manifest,
 application/vnd.gentoo.xpak,application,vnd.gentoo.xpak,http://www.iana.org/assignments/media-types/application/vnd.gentoo.xpak,
 application/vnd.gentoo.pkgmetadata+xml,application,vnd.gentoo.pkgmetadata+xml,http://www.iana.org/assignments/media-types/application/vnd.gentoo.pkgmetadata+xml,
-application/vnd.geo+json,application,vnd.geo+json (OBSOLETED by [RFC7946] in favor of application/geo+json),http://www.iana.org/assignments/media-types/application/vnd.geo+json (OBSOLETED by [RFC7946] in favor of application/geo+json),
+application/vnd.geo+json,application,vnd.geo+json (OBSOLETED by [RFC 7946] in favor of application/geo+json),http://www.iana.org/assignments/media-types/application/vnd.geo+json (OBSOLETED by [RFC 7946] in favor of application/geo+json),
 application/vnd.geocube+xml,application,vnd.geocube+xml (OBSOLETED by request),http://www.iana.org/assignments/media-types/application/vnd.geocube+xml (OBSOLETED by request),
 application/vnd.geogebra.file,application,vnd.geogebra.file,http://www.iana.org/assignments/media-types/application/vnd.geogebra.file,ggb
 application/vnd.geogebra.pinboard,application,vnd.geogebra.pinboard,http://www.iana.org/assignments/media-types/application/vnd.geogebra.pinboard,
@@ -1010,6 +1012,10 @@ application/vnd.globalplatform.card-content-mgt-response,application,vnd.globalp
 application/vnd.gmx,application,vnd.gmx - DEPRECATED,http://www.iana.org/assignments/media-types/application/vnd.gmx - DEPRECATED,gmx
 application/vnd.gnu.taler.exchange+json,application,vnd.gnu.taler.exchange+json,http://www.iana.org/assignments/media-types/application/vnd.gnu.taler.exchange+json,
 application/vnd.gnu.taler.merchant+json,application,vnd.gnu.taler.merchant+json,http://www.iana.org/assignments/media-types/application/vnd.gnu.taler.merchant+json,
+application/vnd.godot.project.binary,application,vnd.godot.project.binary,http://www.iana.org/assignments/media-types/application/vnd.godot.project.binary,
+application/vnd.godot.project.text,application,vnd.godot.project.text,http://www.iana.org/assignments/media-types/application/vnd.godot.project.text,
+application/vnd.godot.resource.binary,application,vnd.godot.resource.binary,http://www.iana.org/assignments/media-types/application/vnd.godot.resource.binary,
+application/vnd.godot.resource.text,application,vnd.godot.resource.text,http://www.iana.org/assignments/media-types/application/vnd.godot.resource.text,
 application/vnd.google-earth.kml+xml,application,vnd.google-earth.kml+xml,http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml,kml
 application/vnd.google-earth.kmz,application,vnd.google-earth.kmz,http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz,kmz
 application/vnd.gov.sk.e-form+xml,application,vnd.gov.sk.e-form+xml (OBSOLETED by request),http://www.iana.org/assignments/media-types/application/vnd.gov.sk.e-form+xml (OBSOLETED by request),
@@ -1269,6 +1275,7 @@ application/vnd.nimn,application,vnd.nimn,http://www.iana.org/assignments/media-
 application/vnd.nintendo.snes.rom,application,vnd.nintendo.snes.rom,http://www.iana.org/assignments/media-types/application/vnd.nintendo.snes.rom,
 application/vnd.nintendo.nitro.rom,application,vnd.nintendo.nitro.rom,http://www.iana.org/assignments/media-types/application/vnd.nintendo.nitro.rom,
 application/vnd.nitf,application,vnd.nitf,http://www.iana.org/assignments/media-types/application/vnd.nitf,nitf
+application/vnd.nnu.profile+json,application,vnd.nnu.profile+json,http://www.iana.org/assignments/media-types/application/vnd.nnu.profile+json,
 application/vnd.noblenet-directory,application,vnd.noblenet-directory,http://www.iana.org/assignments/media-types/application/vnd.noblenet-directory,nnd
 application/vnd.noblenet-sealer,application,vnd.noblenet-sealer,http://www.iana.org/assignments/media-types/application/vnd.noblenet-sealer,nns
 application/vnd.noblenet-web,application,vnd.noblenet-web,http://www.iana.org/assignments/media-types/application/vnd.noblenet-web,nnw
@@ -2075,7 +2082,7 @@ message/global-headers,message,global-headers,http://www.iana.org/assignments/me
 message/http,message,http,http://www.iana.org/assignments/media-types/message/http,
 message/imdn+xml,message,imdn+xml,http://www.iana.org/assignments/media-types/message/imdn+xml,
 message/mls,message,mls,http://www.iana.org/assignments/media-types/message/mls,
-message/news,message,news (OBSOLETED by [RFC5537]),http://www.iana.org/assignments/media-types/message/news (OBSOLETED by [RFC5537]),
+message/news,message,news (OBSOLETED by [RFC 5537]),http://www.iana.org/assignments/media-types/message/news (OBSOLETED by [RFC 5537]),
 message/ohttp-chunked-req,message,ohttp-chunked-req,http://www.iana.org/assignments/media-types/message/ohttp-chunked-req,
 message/ohttp-chunked-res,message,ohttp-chunked-res,http://www.iana.org/assignments/media-types/message/ohttp-chunked-res,
 message/ohttp-req,message,ohttp-req,http://www.iana.org/assignments/media-types/message/ohttp-req,
@@ -2111,6 +2118,8 @@ model/vnd.collada+xml,model,vnd.collada+xml,http://www.iana.org/assignments/medi
 model/vnd.dwf,model,vnd.dwf,http://www.iana.org/assignments/media-types/model/vnd.dwf,dwf
 model/vnd.flatland.3dml,model,vnd.flatland.3dml,http://www.iana.org/assignments/media-types/model/vnd.flatland.3dml,
 model/vnd.gdl,model,vnd.gdl,http://www.iana.org/assignments/media-types/model/vnd.gdl,gdl
+model/vnd.godot.scene.binary,model,vnd.godot.scene.binary,http://www.iana.org/assignments/media-types/model/vnd.godot.scene.binary,
+model/vnd.godot.scene.text,model,vnd.godot.scene.text,http://www.iana.org/assignments/media-types/model/vnd.godot.scene.text,
 model/vnd.gs-gdl,model,vnd.gs-gdl,http://www.iana.org/assignments/media-types/model/vnd.gs-gdl,
 model/vnd.gtw,model,vnd.gtw,http://www.iana.org/assignments/media-types/model/vnd.gtw,gtw
 model/vnd.moml+xml,model,vnd.moml+xml,http://www.iana.org/assignments/media-types/model/vnd.moml+xml,
@@ -2220,6 +2229,8 @@ text/vnd.fly,text,vnd.fly,http://www.iana.org/assignments/media-types/text/vnd.f
 text/vnd.fmi.flexstor,text,vnd.fmi.flexstor,http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor,flx
 text/vnd.gist.mx,text,vnd.gist.mx,http://www.iana.org/assignments/media-types/text/vnd.gist.mx,
 text/vnd.gml,text,vnd.gml,http://www.iana.org/assignments/media-types/text/vnd.gml,
+text/vnd.godot.gdscript,text,vnd.godot.gdscript,http://www.iana.org/assignments/media-types/text/vnd.godot.gdscript,
+text/vnd.godot.gdshader,text,vnd.godot.gdshader,http://www.iana.org/assignments/media-types/text/vnd.godot.gdshader,
 text/vnd.graphviz,text,vnd.graphviz,http://www.iana.org/assignments/media-types/text/vnd.graphviz,gv
 text/vnd.hans,text,vnd.hans,http://www.iana.org/assignments/media-types/text/vnd.hans,
 text/vnd.hekaya,text,vnd.hekaya,http://www.iana.org/assignments/media-types/text/vnd.hekaya,
