@@ -669,6 +669,7 @@ application/vnd.adobe.fxp,application,vnd.adobe.fxp,http://www.iana.org/assignme
 application/vnd.adobe.partial-upload,application,vnd.adobe.partial-upload,http://www.iana.org/assignments/media-types/application/vnd.adobe.partial-upload,
 application/vnd.adobe.xdp+xml,application,vnd.adobe.xdp+xml,http://www.iana.org/assignments/media-types/application/vnd.adobe.xdp+xml,xdp
 application/vnd.aep+zip,application,vnd.aep+zip,http://www.iana.org/assignments/media-types/application/vnd.aep+zip,
+application/vnd.aethel.package,application,vnd.aethel.package,http://www.iana.org/assignments/media-types/application/vnd.aethel.package,
 application/vnd.aether.imp,application,vnd.aether.imp,http://www.iana.org/assignments/media-types/application/vnd.aether.imp,
 application/vnd.afpc.afplinedata,application,vnd.afpc.afplinedata,http://www.iana.org/assignments/media-types/application/vnd.afpc.afplinedata,
 application/vnd.afpc.afplinedata-pagedef,application,vnd.afpc.afplinedata-pagedef,http://www.iana.org/assignments/media-types/application/vnd.afpc.afplinedata-pagedef,
@@ -821,6 +822,7 @@ application/vnd.cyclonedx+xml,application,vnd.cyclonedx+xml,http://www.iana.org/
 application/vnd.d2l.coursepackage1p0+zip,application,vnd.d2l.coursepackage1p0+zip,http://www.iana.org/assignments/media-types/application/vnd.d2l.coursepackage1p0+zip,
 application/vnd.d3m-dataset,application,vnd.d3m-dataset,http://www.iana.org/assignments/media-types/application/vnd.d3m-dataset,
 application/vnd.d3m-problem,application,vnd.d3m-problem,http://www.iana.org/assignments/media-types/application/vnd.d3m-problem,
+application/vnd.dai,application,vnd.dai,http://www.iana.org/assignments/media-types/application/vnd.dai,
 application/vnd.dart,application,vnd.dart,http://www.iana.org/assignments/media-types/application/vnd.dart,dart
 application/vnd.data-vision.rdz,application,vnd.data-vision.rdz,http://www.iana.org/assignments/media-types/application/vnd.data-vision.rdz,rdz
 application/vnd.datalog,application,vnd.datalog,http://www.iana.org/assignments/media-types/application/vnd.datalog,
@@ -892,6 +894,7 @@ application/vnd.efi.img,application,vnd.efi.img,http://www.iana.org/assignments/
 application/vnd.efi.iso,application,vnd.efi.iso,http://www.iana.org/assignments/media-types/application/vnd.efi.iso,
 application/vnd.eln+zip,application,vnd.eln+zip,http://www.iana.org/assignments/media-types/application/vnd.eln+zip,
 application/vnd.emclient.accessrequest+xml,application,vnd.emclient.accessrequest+xml,http://www.iana.org/assignments/media-types/application/vnd.emclient.accessrequest+xml,
+application/vnd.emilia.authorization-evidence-challenge+json,application,vnd.emilia.authorization-evidence-challenge+json,http://www.iana.org/assignments/media-types/application/vnd.emilia.authorization-evidence-challenge+json,
 application/vnd.enliven,application,vnd.enliven,http://www.iana.org/assignments/media-types/application/vnd.enliven,nml
 application/vnd.enphase.envoy,application,vnd.enphase.envoy,http://www.iana.org/assignments/media-types/application/vnd.enphase.envoy,
 application/vnd.eprints.data+xml,application,vnd.eprints.data+xml,http://www.iana.org/assignments/media-types/application/vnd.eprints.data+xml,
@@ -1161,6 +1164,7 @@ application/vnd.lukuid.package+zip,application,vnd.lukuid.package+zip,http://www
 application/vnd.macports.portpkg,application,vnd.macports.portpkg,http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg,portpkg
 application/vnd.majikah.bundle,application,vnd.majikah.bundle,http://www.iana.org/assignments/media-types/application/vnd.majikah.bundle,
 application/vnd.majikah.mjksig,application,vnd.majikah.mjksig,http://www.iana.org/assignments/media-types/application/vnd.majikah.mjksig,
+application/vnd.majikah.mjksmap,application,vnd.majikah.mjksmap,http://www.iana.org/assignments/media-types/application/vnd.majikah.mjksmap,
 application/vnd.maml,application,vnd.maml,http://www.iana.org/assignments/media-types/application/vnd.maml,
 application/vnd.mapbox-vector-tile,application,vnd.mapbox-vector-tile,http://www.iana.org/assignments/media-types/application/vnd.mapbox-vector-tile,
 application/vnd.marlin.drm.actiontoken+xml,application,vnd.marlin.drm.actiontoken+xml,http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken+xml,
@@ -1259,6 +1263,7 @@ application/vnd.music-niff,application,vnd.music-niff,http://www.iana.org/assign
 application/vnd.muvee.style,application,vnd.muvee.style,http://www.iana.org/assignments/media-types/application/vnd.muvee.style,msty
 application/vnd.mynfc,application,vnd.mynfc,http://www.iana.org/assignments/media-types/application/vnd.mynfc,taglet
 application/vnd.nacamar.ybrid+json,application,vnd.nacamar.ybrid+json,http://www.iana.org/assignments/media-types/application/vnd.nacamar.ybrid+json,
+application/vnd.nanorix.auditproof+json,application,vnd.nanorix.auditproof+json,http://www.iana.org/assignments/media-types/application/vnd.nanorix.auditproof+json,
 application/vnd.nato.bindingdataobject+cbor,application,vnd.nato.bindingdataobject+cbor,http://www.iana.org/assignments/media-types/application/vnd.nato.bindingdataobject+cbor,
 application/vnd.nato.bindingdataobject+json,application,vnd.nato.bindingdataobject+json,http://www.iana.org/assignments/media-types/application/vnd.nato.bindingdataobject+json,
 application/vnd.nato.bindingdataobject+xml,application,vnd.nato.bindingdataobject+xml,http://www.iana.org/assignments/media-types/application/vnd.nato.bindingdataobject+xml,
