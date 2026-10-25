@@ -1009,6 +1009,7 @@ application/vnd.geometry-explorer,application,vnd.geometry-explorer,http://www.i
 application/vnd.geonext,application,vnd.geonext,http://www.iana.org/assignments/media-types/application/vnd.geonext,gxt
 application/vnd.geoplan,application,vnd.geoplan,http://www.iana.org/assignments/media-types/application/vnd.geoplan,g2w
 application/vnd.geospace,application,vnd.geospace,http://www.iana.org/assignments/media-types/application/vnd.geospace,g3w
+application/vnd.geovirtuallis.geov+zip,application,vnd.geovirtuallis.geov+zip,http://www.iana.org/assignments/media-types/application/vnd.geovirtuallis.geov+zip,
 application/vnd.gerber,application,vnd.gerber,http://www.iana.org/assignments/media-types/application/vnd.gerber,
 application/vnd.globalplatform.card-content-mgt,application,vnd.globalplatform.card-content-mgt,http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt,
 application/vnd.globalplatform.card-content-mgt-response,application,vnd.globalplatform.card-content-mgt-response,http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt-response,
@@ -1174,6 +1175,7 @@ application/vnd.marlin.drm.mdcf,application,vnd.marlin.drm.mdcf,http://www.iana.
 application/vnd.mason+json,application,vnd.mason+json,http://www.iana.org/assignments/media-types/application/vnd.mason+json,
 application/vnd.maxar.archive.3tz+zip,application,vnd.maxar.archive.3tz+zip,http://www.iana.org/assignments/media-types/application/vnd.maxar.archive.3tz+zip,
 application/vnd.maxmind.maxmind-db,application,vnd.maxmind.maxmind-db,http://www.iana.org/assignments/media-types/application/vnd.maxmind.maxmind-db,
+application/vnd.mcap,application,vnd.mcap,http://www.iana.org/assignments/media-types/application/vnd.mcap,
 application/vnd.mcd,application,vnd.mcd,http://www.iana.org/assignments/media-types/application/vnd.mcd,mcd
 application/vnd.mdl,application,vnd.mdl,http://www.iana.org/assignments/media-types/application/vnd.mdl,
 application/vnd.mdl-mbsdf,application,vnd.mdl-mbsdf,http://www.iana.org/assignments/media-types/application/vnd.mdl-mbsdf,
@@ -1498,6 +1500,7 @@ application/vnd.patentdive,application,vnd.patentdive,http://www.iana.org/assign
 application/vnd.patientecommsdoc,application,vnd.patientecommsdoc,http://www.iana.org/assignments/media-types/application/vnd.patientecommsdoc,
 application/vnd.pawaafile,application,vnd.pawaafile,http://www.iana.org/assignments/media-types/application/vnd.pawaafile,paw
 application/vnd.pcos,application,vnd.pcos,http://www.iana.org/assignments/media-types/application/vnd.pcos,
+application/vnd.penguin-pn.theuip,application,vnd.penguin-pn.theuip,http://www.iana.org/assignments/media-types/application/vnd.penguin-pn.theuip,
 application/vnd.pg.format,application,vnd.pg.format,http://www.iana.org/assignments/media-types/application/vnd.pg.format,str
 application/vnd.pg.osasli,application,vnd.pg.osasli,http://www.iana.org/assignments/media-types/application/vnd.pg.osasli,ei6
 application/vnd.phbk+xml,application,vnd.phbk+xml,http://www.iana.org/assignments/media-types/application/vnd.phbk+xml,
@@ -1904,6 +1907,7 @@ audio/PCMA-WB,audio,PCMA-WB,http://www.iana.org/assignments/media-types/audio/PC
 audio/PCMU,audio,PCMU,http://www.iana.org/assignments/media-types/audio/PCMU,
 audio/PCMU-WB,audio,PCMU-WB,http://www.iana.org/assignments/media-types/audio/PCMU-WB,
 audio/prs.aaud,audio,prs.aaud,http://www.iana.org/assignments/media-types/audio/prs.aaud,
+audio/prs.elupon-eua,audio,prs.elupon-eua,http://www.iana.org/assignments/media-types/audio/prs.elupon-eua,
 audio/prs.sid,audio,prs.sid,http://www.iana.org/assignments/media-types/audio/prs.sid,
 audio/QCELP,audio,QCELP,http://www.iana.org/assignments/media-types/audio/QCELP,
 audio/raptorfec,audio,raptorfec,http://www.iana.org/assignments/media-types/audio/raptorfec,
@@ -2195,6 +2199,7 @@ text/plain,text,plain,http://www.iana.org/assignments/media-types/text/plain,in
 text/provenance-notation,text,provenance-notation,http://www.iana.org/assignments/media-types/text/provenance-notation,
 text/prs.fallenstein.rst,text,prs.fallenstein.rst,http://www.iana.org/assignments/media-types/text/prs.fallenstein.rst,
 text/prs.lines.tag,text,prs.lines.tag,http://www.iana.org/assignments/media-types/text/prs.lines.tag,dsc
+text/prs.mtsv,text,prs.mtsv,http://www.iana.org/assignments/media-types/text/prs.mtsv,
 text/prs.prop.logic,text,prs.prop.logic,http://www.iana.org/assignments/media-types/text/prs.prop.logic,
 text/prs.texi,text,prs.texi,http://www.iana.org/assignments/media-types/text/prs.texi,
 text/qml,text,qml,http://www.iana.org/assignments/media-types/text/qml,
