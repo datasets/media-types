@@ -733,11 +733,12 @@ application/vnd.autopackage,application,vnd.autopackage,http://www.iana.org/assi
 application/vnd.avalon+json,application,vnd.avalon+json,http://www.iana.org/assignments/media-types/application/vnd.avalon+json,
 application/vnd.avistar+xml,application,vnd.avistar+xml,http://www.iana.org/assignments/media-types/application/vnd.avistar+xml,
 application/vnd.balsamiq.bmml+xml,application,vnd.balsamiq.bmml+xml,http://www.iana.org/assignments/media-types/application/vnd.balsamiq.bmml+xml,
+application/vnd.balsamiq.bmpr,application,vnd.balsamiq.bmpr,http://www.iana.org/assignments/media-types/application/vnd.balsamiq.bmpr,
 application/vnd.banana-accounting,application,vnd.banana-accounting,http://www.iana.org/assignments/media-types/application/vnd.banana-accounting,
 application/vnd.bbf.usp.error,application,vnd.bbf.usp.error,http://www.iana.org/assignments/media-types/application/vnd.bbf.usp.error,
 application/vnd.bbf.usp.msg,application,vnd.bbf.usp.msg,http://www.iana.org/assignments/media-types/application/vnd.bbf.usp.msg,
 application/vnd.bbf.usp.msg+json,application,vnd.bbf.usp.msg+json,http://www.iana.org/assignments/media-types/application/vnd.bbf.usp.msg+json,
-application/vnd.balsamiq.bmpr,application,vnd.balsamiq.bmpr,http://www.iana.org/assignments/media-types/application/vnd.balsamiq.bmpr,
+application/vnd.BCG.TrustDeclaration,application,vnd.BCG.TrustDeclaration,http://www.iana.org/assignments/media-types/application/vnd.BCG.TrustDeclaration,
 application/vnd.bekitzur-stech+json,application,vnd.bekitzur-stech+json,http://www.iana.org/assignments/media-types/application/vnd.bekitzur-stech+json,
 application/vnd.belightsoft.lhzd+zip,application,vnd.belightsoft.lhzd+zip,http://www.iana.org/assignments/media-types/application/vnd.belightsoft.lhzd+zip,
 application/vnd.belightsoft.lhzl+zip,application,vnd.belightsoft.lhzl+zip,http://www.iana.org/assignments/media-types/application/vnd.belightsoft.lhzl+zip,
@@ -1066,7 +1067,9 @@ application/vnd.ibm.MiniPay,application,vnd.ibm.MiniPay,http://www.iana.org/assi
 application/vnd.ibm.modcap,application,vnd.ibm.modcap (OBSOLETED in favor of application/vnd.afpc.modca),http://www.iana.org/assignments/media-types/application/vnd.ibm.modcap (OBSOLETED in favor of application/vnd.afpc.modca),list3820
 application/vnd.ibm.rights-management,application,vnd.ibm.rights-management,http://www.iana.org/assignments/media-types/application/vnd.ibm.rights-management,irm
 application/vnd.ibm.secure-container,application,vnd.ibm.secure-container,http://www.iana.org/assignments/media-types/application/vnd.ibm.secure-container,sc
+application/vnd.ibus+json,application,vnd.ibus+json,http://www.iana.org/assignments/media-types/application/vnd.ibus+json,
 application/vnd.iccprofile,application,vnd.iccprofile,http://www.iana.org/assignments/media-types/application/vnd.iccprofile,icm
+application/vnd.idop+zip,application,vnd.idop+zip,http://www.iana.org/assignments/media-types/application/vnd.idop+zip,
 application/vnd.ieee.1905,application,vnd.ieee.1905,http://www.iana.org/assignments/media-types/application/vnd.ieee.1905,
 application/vnd.igloader,application,vnd.igloader,http://www.iana.org/assignments/media-types/application/vnd.igloader,igl
 application/vnd.imagemeter.folder+zip,application,vnd.imagemeter.folder+zip,http://www.iana.org/assignments/media-types/application/vnd.imagemeter.folder+zip,
@@ -1124,6 +1127,7 @@ application/vnd.jcp.javame.midlet-rms,application,vnd.jcp.javame.midlet-rms,http
 application/vnd.jisp,application,vnd.jisp,http://www.iana.org/assignments/media-types/application/vnd.jisp,jisp
 application/vnd.joost.joda-archive,application,vnd.joost.joda-archive,http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive,joda
 application/vnd.jsk.isdn-ngn,application,vnd.jsk.isdn-ngn,http://www.iana.org/assignments/media-types/application/vnd.jsk.isdn-ngn,
+application/vnd.jupiter.jdx+json,application,vnd.jupiter.jdx+json,http://www.iana.org/assignments/media-types/application/vnd.jupiter.jdx+json,
 application/vnd.jupyter,application,vnd.jupyter,http://www.iana.org/assignments/media-types/application/vnd.jupyter,
 application/vnd.kahootz,application,vnd.kahootz,http://www.iana.org/assignments/media-types/application/vnd.kahootz,ktr
 application/vnd.kde.karbon,application,vnd.kde.karbon,http://www.iana.org/assignments/media-types/application/vnd.kde.karbon,karbon
@@ -1277,6 +1281,8 @@ application/vnd.nebumind.line,application,vnd.nebumind.line,http://www.iana.org/
 application/vnd.nervana,application,vnd.nervana,http://www.iana.org/assignments/media-types/application/vnd.nervana,
 application/vnd.netfpx,application,vnd.netfpx,http://www.iana.org/assignments/media-types/application/vnd.netfpx,
 application/vnd.neurolanguage.nlu,application,vnd.neurolanguage.nlu,http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu,nlu
+application/vnd.ngdtuanh.abook+zip,application,vnd.ngdtuanh.abook+zip,http://www.iana.org/assignments/media-types/application/vnd.ngdtuanh.abook+zip,
+application/vnd.ngdtuanh.abookproj+zip,application,vnd.ngdtuanh.abookproj+zip,http://www.iana.org/assignments/media-types/application/vnd.ngdtuanh.abookproj+zip,
 application/vnd.nila.protobuf-bundle+zip,application,vnd.nila.protobuf-bundle+zip,http://www.iana.org/assignments/media-types/application/vnd.nila.protobuf-bundle+zip,
 application/vnd.nimn,application,vnd.nimn,http://www.iana.org/assignments/media-types/application/vnd.nimn,
 application/vnd.nintendo.snes.rom,application,vnd.nintendo.snes.rom,http://www.iana.org/assignments/media-types/application/vnd.nintendo.snes.rom,
@@ -1500,6 +1506,7 @@ application/vnd.patentdive,application,vnd.patentdive,http://www.iana.org/assign
 application/vnd.patientecommsdoc,application,vnd.patientecommsdoc,http://www.iana.org/assignments/media-types/application/vnd.patientecommsdoc,
 application/vnd.pawaafile,application,vnd.pawaafile,http://www.iana.org/assignments/media-types/application/vnd.pawaafile,paw
 application/vnd.pcos,application,vnd.pcos,http://www.iana.org/assignments/media-types/application/vnd.pcos,
+application/vnd.pebblestream.psosf+zip,application,vnd.pebblestream.psosf+zip,http://www.iana.org/assignments/media-types/application/vnd.pebblestream.psosf+zip,
 application/vnd.penguin-pn.theuip,application,vnd.penguin-pn.theuip,http://www.iana.org/assignments/media-types/application/vnd.penguin-pn.theuip,
 application/vnd.pg.format,application,vnd.pg.format,http://www.iana.org/assignments/media-types/application/vnd.pg.format,str
 application/vnd.pg.osasli,application,vnd.pg.osasli,http://www.iana.org/assignments/media-types/application/vnd.pg.osasli,ei6
@@ -1532,6 +1539,7 @@ application/vnd.pwg-multiplexed,application,vnd.pwg-multiplexed,http://www.iana.
 application/vnd.pwg-xhtml-print+xml,application,vnd.pwg-xhtml-print+xml,http://www.iana.org/assignments/media-types/application/vnd.pwg-xhtml-print+xml,
 application/vnd.pyon+json,application,vnd.pyon+json,http://www.iana.org/assignments/media-types/application/vnd.pyon+json,
 application/vnd.qualcomm.brew-app-res,application,vnd.qualcomm.brew-app-res,http://www.iana.org/assignments/media-types/application/vnd.qualcomm.brew-app-res,
+application/vnd.quantumsequrity.qnsqy,application,vnd.quantumsequrity.qnsqy,http://www.iana.org/assignments/media-types/application/vnd.quantumsequrity.qnsqy,
 application/vnd.quarantainenet,application,vnd.quarantainenet,http://www.iana.org/assignments/media-types/application/vnd.quarantainenet,
 application/vnd.Quark.QuarkXPress,application,vnd.Quark.QuarkXPress,http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress,
 application/vnd.quobject-quoxdocument,application,vnd.quobject-quoxdocument,http://www.iana.org/assignments/media-types/application/vnd.quobject-quoxdocument,
@@ -2136,6 +2144,7 @@ model/vnd.mts,model,vnd.mts,http://www.iana.org/assignments/media-types/model/vn
 model/vnd.opengex,model,vnd.opengex,http://www.iana.org/assignments/media-types/model/vnd.opengex,
 model/vnd.parasolid.transmit.binary,model,vnd.parasolid.transmit.binary,http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.binary,
 model/vnd.parasolid.transmit.text,model,vnd.parasolid.transmit.text,http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.text,
+model/vnd.pygrassreal.py3s,model,vnd.pygrassreal.py3s,http://www.iana.org/assignments/media-types/model/vnd.pygrassreal.py3s,
 model/vnd.pytha.pyox,model,vnd.pytha.pyox,http://www.iana.org/assignments/media-types/model/vnd.pytha.pyox,
 model/vnd.rosette.annotated-data-model,model,vnd.rosette.annotated-data-model,http://www.iana.org/assignments/media-types/model/vnd.rosette.annotated-data-model,
 model/vnd.sap.vds,model,vnd.sap.vds,http://www.iana.org/assignments/media-types/model/vnd.sap.vds,
@@ -2201,6 +2210,7 @@ text/prs.fallenstein.rst,text,prs.fallenstein.rst,http://www.iana.org/assignment
 text/prs.lines.tag,text,prs.lines.tag,http://www.iana.org/assignments/media-types/text/prs.lines.tag,dsc
 text/prs.mtsv,text,prs.mtsv,http://www.iana.org/assignments/media-types/text/prs.mtsv,
 text/prs.prop.logic,text,prs.prop.logic,http://www.iana.org/assignments/media-types/text/prs.prop.logic,
+text/prs.rowih,text,prs.rowih,http://www.iana.org/assignments/media-types/text/prs.rowih,
 text/prs.texi,text,prs.texi,http://www.iana.org/assignments/media-types/text/prs.texi,
 text/qml,text,qml,http://www.iana.org/assignments/media-types/text/qml,
 text/raptorfec,text,raptorfec,http://www.iana.org/assignments/media-types/text/raptorfec,
@@ -2237,6 +2247,7 @@ text/vnd.familysearch.gedcom,text,vnd.familysearch.gedcom,http://www.iana.org/as
 text/vnd.ficlab.flt,text,vnd.ficlab.flt,http://www.iana.org/assignments/media-types/text/vnd.ficlab.flt,
 text/vnd.fly,text,vnd.fly,http://www.iana.org/assignments/media-types/text/vnd.fly,fly
 text/vnd.fmi.flexstor,text,vnd.fmi.flexstor,http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor,flx
+text/vnd.geml,text,vnd.geml,http://www.iana.org/assignments/media-types/text/vnd.geml,
 text/vnd.gist.mx,text,vnd.gist.mx,http://www.iana.org/assignments/media-types/text/vnd.gist.mx,
 text/vnd.gml,text,vnd.gml,http://www.iana.org/assignments/media-types/text/vnd.gml,
 text/vnd.godot.gdscript,text,vnd.godot.gdscript,http://www.iana.org/assignments/media-types/text/vnd.godot.gdscript,
