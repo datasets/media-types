@@ -2064,6 +2064,7 @@ image/vnd.fst,image,vnd.fst,http://www.iana.org/assignments/media-types/image/vn
 image/vnd.fujixerox.edmics-mmr,image,vnd.fujixerox.edmics-mmr,http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-mmr,mmr
 image/vnd.fujixerox.edmics-rlc,image,vnd.fujixerox.edmics-rlc,http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-rlc,rlc
 image/vnd.globalgraphics.pgb,image,vnd.globalgraphics.pgb,http://www.iana.org/assignments/media-types/image/vnd.globalgraphics.pgb,
+image/vnd.imgformats.ssimf,image,vnd.imgformats.ssimf,http://www.iana.org/assignments/media-types/image/vnd.imgformats.ssimf,
 image/vnd.microsoft.icon,image,vnd.microsoft.icon,http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon,
 image/vnd.mix,image,vnd.mix,http://www.iana.org/assignments/media-types/image/vnd.mix,
 image/vnd.ms-modi,image,vnd.ms-modi,http://www.iana.org/assignments/media-types/image/vnd.ms-modi,mdi
