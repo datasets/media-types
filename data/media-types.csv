@@ -398,6 +398,7 @@ application/prs.implied-object+json,application,prs.implied-object+json,http://w
 application/prs.implied-object+json-seq,application,prs.implied-object+json-seq,http://www.iana.org/assignments/media-types/application/prs.implied-object+json-seq,
 application/prs.implied-object+yaml,application,prs.implied-object+yaml,http://www.iana.org/assignments/media-types/application/prs.implied-object+yaml,
 application/prs.implied-structure,application,prs.implied-structure,http://www.iana.org/assignments/media-types/application/prs.implied-structure,
+application/prs.ktb+zip,application,prs.ktb+zip,http://www.iana.org/assignments/media-types/application/prs.ktb+zip,
 application/prs.mayfile,application,prs.mayfile,http://www.iana.org/assignments/media-types/application/prs.mayfile,
 application/prs.nprend,application,prs.nprend,http://www.iana.org/assignments/media-types/application/prs.nprend,
 application/prs.plucker,application,prs.plucker,http://www.iana.org/assignments/media-types/application/prs.plucker,
@@ -405,6 +406,7 @@ application/prs.rdf-xml-crypt,application,prs.rdf-xml-crypt,http://www.iana.org/
 application/prs.sclt,application,prs.sclt,http://www.iana.org/assignments/media-types/application/prs.sclt,
 application/prs.vcfbzip2,application,prs.vcfbzip2,http://www.iana.org/assignments/media-types/application/prs.vcfbzip2,
 application/prs.xsf+xml,application,prs.xsf+xml,http://www.iana.org/assignments/media-types/application/prs.xsf+xml,
+application/prs.zbook,application,prs.zbook,http://www.iana.org/assignments/media-types/application/prs.zbook,
 application/pskc+xml,application,pskc+xml,http://www.iana.org/assignments/media-types/application/pskc+xml,pskcxml
 application/pvd+json,application,pvd+json,http://www.iana.org/assignments/media-types/application/pvd+json,
 application/rdf+xml,application,rdf+xml,http://www.iana.org/assignments/media-types/application/rdf+xml,rdf
@@ -781,7 +783,10 @@ application/vnd.cmmf-encoder-configuration+json,application,vnd.cmmf-encoder-con
 application/vnd.cncf.helm.chart.content.v1.tar+gzip,application,vnd.cncf.helm.chart.content.v1.tar+gzip,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.chart.content.v1.tar+gzip,
 application/vnd.cncf.helm.chart.provenance.v1.prov,application,vnd.cncf.helm.chart.provenance.v1.prov,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.chart.provenance.v1.prov,
 application/vnd.cncf.helm.config.v1+json,application,vnd.cncf.helm.config.v1+json,http://www.iana.org/assignments/media-types/application/vnd.cncf.helm.config.v1+json,
+application/vnd.codynamicslab.latch,application,vnd.codynamicslab.latch,http://www.iana.org/assignments/media-types/application/vnd.codynamicslab.latch,
+application/vnd.codynamicslab.latchdoc,application,vnd.codynamicslab.latchdoc,http://www.iana.org/assignments/media-types/application/vnd.codynamicslab.latchdoc,
 application/vnd.coffeescript,application,vnd.coffeescript,http://www.iana.org/assignments/media-types/application/vnd.coffeescript,
+application/vnd.colabox.fppd+json,application,vnd.colabox.fppd+json,http://www.iana.org/assignments/media-types/application/vnd.colabox.fppd+json,
 application/vnd.collabio.xodocuments.document,application,vnd.collabio.xodocuments.document,http://www.iana.org/assignments/media-types/application/vnd.collabio.xodocuments.document,
 application/vnd.collabio.xodocuments.document-template,application,vnd.collabio.xodocuments.document-template,http://www.iana.org/assignments/media-types/application/vnd.collabio.xodocuments.document-template,
 application/vnd.collabio.xodocuments.presentation,application,vnd.collabio.xodocuments.presentation,http://www.iana.org/assignments/media-types/application/vnd.collabio.xodocuments.presentation,
@@ -896,6 +901,7 @@ application/vnd.efi.iso,application,vnd.efi.iso,http://www.iana.org/assignments/
 application/vnd.eln+zip,application,vnd.eln+zip,http://www.iana.org/assignments/media-types/application/vnd.eln+zip,
 application/vnd.emclient.accessrequest+xml,application,vnd.emclient.accessrequest+xml,http://www.iana.org/assignments/media-types/application/vnd.emclient.accessrequest+xml,
 application/vnd.emilia.authorization-evidence-challenge+json,application,vnd.emilia.authorization-evidence-challenge+json,http://www.iana.org/assignments/media-types/application/vnd.emilia.authorization-evidence-challenge+json,
+application/vnd.emirian.blueprint,application,vnd.emirian.blueprint,http://www.iana.org/assignments/media-types/application/vnd.emirian.blueprint,
 application/vnd.enliven,application,vnd.enliven,http://www.iana.org/assignments/media-types/application/vnd.enliven,nml
 application/vnd.enphase.envoy,application,vnd.enphase.envoy,http://www.iana.org/assignments/media-types/application/vnd.enphase.envoy,
 application/vnd.eprints.data+xml,application,vnd.eprints.data+xml,http://www.iana.org/assignments/media-types/application/vnd.eprints.data+xml,
@@ -1147,6 +1153,7 @@ application/vnd.Kinar,application,vnd.Kinar,http://www.iana.org/assignments/medi
 application/vnd.klypix+zip,application,vnd.klypix+zip,http://www.iana.org/assignments/media-types/application/vnd.klypix+zip,
 application/vnd.koan,application,vnd.koan,http://www.iana.org/assignments/media-types/application/vnd.koan,skm
 application/vnd.kodak-descriptor,application,vnd.kodak-descriptor,http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor,sse
+application/vnd.krypteon.krpt,application,vnd.krypteon.krpt,http://www.iana.org/assignments/media-types/application/vnd.krypteon.krpt,
 application/vnd.las,application,vnd.las,http://www.iana.org/assignments/media-types/application/vnd.las,
 application/vnd.las.las+json,application,vnd.las.las+json,http://www.iana.org/assignments/media-types/application/vnd.las.las+json,
 application/vnd.las.las+xml,application,vnd.las.las+xml,http://www.iana.org/assignments/media-types/application/vnd.las.las+xml,lasxml
@@ -2146,6 +2153,7 @@ model/vnd.opengex,model,vnd.opengex,http://www.iana.org/assignments/media-types/
 model/vnd.parasolid.transmit.binary,model,vnd.parasolid.transmit.binary,http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.binary,
 model/vnd.parasolid.transmit.text,model,vnd.parasolid.transmit.text,http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.text,
 model/vnd.pygrassreal.py3s,model,vnd.pygrassreal.py3s,http://www.iana.org/assignments/media-types/model/vnd.pygrassreal.py3s,
+model/vnd.pygrassreal.py4s,model,vnd.pygrassreal.py4s,http://www.iana.org/assignments/media-types/model/vnd.pygrassreal.py4s,
 model/vnd.pytha.pyox,model,vnd.pytha.pyox,http://www.iana.org/assignments/media-types/model/vnd.pytha.pyox,
 model/vnd.rosette.annotated-data-model,model,vnd.rosette.annotated-data-model,http://www.iana.org/assignments/media-types/model/vnd.rosette.annotated-data-model,
 model/vnd.sap.vds,model,vnd.sap.vds,http://www.iana.org/assignments/media-types/model/vnd.sap.vds,
